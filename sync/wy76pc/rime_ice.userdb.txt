@@ -1,0 +1,5337 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	120
+#@/user_id	wy76pc
+a da da a 	阿达大啊	c=1 d=2e-08 t=1
+a da da da a 	啊哒哒哒啊	c=1 d=2e-08 t=1
+a da da da da a da 	阿达哒哒哒阿达	c=1 d=2e-08 t=1
+a da da da da da da a a da da 	啊哒哒哒哒哒哒啊啊大大	c=1 d=2e-08 t=1
+a da da da da da da da 	阿达哒哒哒哒哒哒	c=1 d=2e-08 t=1
+a da da de ding ding ding ding chi 	啊大大的顶顶顶顶吃	c=1 d=2e-08 t=1
+a ji mi 	阿基米	c=1 d=2e-08 t=1
+a li xue yuan 	阿里学院	c=1 d=2e-08 t=1
+a li yun pan 	阿里云盘	c=1 d=2e-08 t=1
+a song da 	阿松大	c=1 d=2e-08 t=1
+a yi xi 	阿姨洗	c=1 d=2e-08 t=1
+ai bu guo 	挨不过	c=1 d=2e-08 t=1
+ai chi de mi 	爱吃的米	c=1 d=2e-08 t=1
+ai di da cai 	爱迪达才	c=1 d=2e-08 t=1
+ai dun diao 	挨顿掉	c=1 d=2e-08 t=1
+ai ma 	唉骂	c=1 d=2e-08 t=1
+ai mei dui xiang 	暧昧对象	c=1 d=2e-08 t=1
+ai qing yu 	爱情与	c=1 d=2e-08 t=1
+ai ya gou 	哎呀苟	c=1 d=2e-08 t=1
+ai yi bang 	哎一帮	c=1 d=2e-08 t=1
+ai ying 	哎硬	c=1 d=2e-08 t=1
+ai za wan 	爱咋玩	c=1 d=2e-08 t=1
+ai zi lei 	矮子雷	c=1 d=2e-08 t=1
+ai zou 	哎走	c=1 d=2e-08 t=1
+an duan 	安段	c=1 d=2e-08 t=1
+an hui bian wo men 	安徽便我们	c=1 d=2e-08 t=1
+an jian xu lie 	案件序列	c=1 d=2e-08 t=1
+an jian zu he 	按键组合	c=1 d=2e-08 t=1
+an jing 	安景	c=1 d=2e-08 t=1
+an jing chen 	安景臣	c=1 d=2e-08 t=1
+an jing shu shi 	安静舒适	c=1 d=2e-08 t=1
+an lian dui 	暗恋对	c=1 d=2e-08 t=1
+an lian dui xiang 	暗恋对象	c=1 d=2e-08 t=1
+an lian ta 	暗恋她	c=1 d=2e-08 t=1
+an qing 	安情	c=1 d=2e-08 t=1
+an te xing 	安特性	c=1 d=2e-08 t=1
+an wei ni le 	安慰你了	c=1 d=2e-08 t=1
+an xu ke yi 	安需可以	c=1 d=2e-08 t=1
+an zhuang da xue 	安装大学	c=1 d=2e-08 t=1
+an zhuang ta 	安装他	c=1 d=2e-08 t=1
+an zhuang yu 	安装与	c=1 d=2e-08 t=1
+ang pei 	昂配	c=1 d=2e-08 t=1
+ao 	奥	c=1 d=1 t=118
+ao bian cu 	奥变粗	c=1 d=2e-08 t=1
+ao bian cu ba 	奥变粗吧	c=1 d=2e-08 t=1
+ao li si ta 	奥里斯塔	c=1 d=2e-08 t=1
+ba 	把	c=1 d=1 t=60
+ba cheng xin li you gui 	八成心里有鬼	c=1 d=2e-08 t=1
+ba di di 	吧弟弟	c=1 d=2e-08 t=1
+ba guang dui you 	扒光队友	c=1 d=2e-08 t=1
+ba li ao yun hui 	巴黎奥运会	c=1 d=2e-08 t=1
+ba men suo hao 	把门锁好	c=1 d=2e-08 t=1
+ba neng dai biao 	把能代表	c=1 d=2e-08 t=1
+ba pai 	扒牌	c=1 d=2e-08 t=1
+ba qian li lu 	八千里路	c=1 d=2e-08 t=1
+ba shan 	把闪	c=1 d=2e-08 t=1
+ba sheng tai 	把生态	c=1 d=2e-08 t=1
+ba ta 	拔他	c=1 d=2e-08 t=1
+ba wo zou le 	把我走了	c=1 d=2e-08 t=1
+ba xue xiao 	把学校	c=1 d=2e-08 t=1
+ba zhu 	把主	c=1 d=2e-08 t=1
+ba zhu gong 	拔主公	c=1 d=2e-08 t=1
+bai 	白	c=1 d=1 t=88
+bai ban dui 	白板队	c=1 d=2e-08 t=1
+bai nian fen dou 	百年奋斗	c=1 d=2e-08 t=1
+bai tian zuo 	白天昨	c=1 d=2e-08 t=1
+bai yin shi zi 	白银狮子	c=1 d=2e-08 t=1
+ban bo chang 	半波长	c=1 d=2e-08 t=1
+ban dui lie 	班队列	c=1 d=2e-08 t=1
+ban gei 	半给	c=1 d=2e-08 t=1
+ban gong shi men kou 	办公室门口	c=1 d=2e-08 t=1
+ban gong xin de 	办公新的	c=1 d=2e-08 t=1
+ban ji shen me de 	班级什么的	c=1 d=2e-08 t=1
+ban jun guan 	半军管	c=1 d=2e-08 t=1
+ban xiao shi yi ju 	半小时一句	c=1 d=2e-08 t=1
+ban zhu 	拌猪	c=1 d=2e-08 t=1
+bang bang ren jia 	帮帮人家	c=1 d=2e-08 t=1
+bang bang you 	梆梆有	c=1 d=2e-08 t=1
+bang dui 	帮队	c=1 d=2e-08 t=1
+bang dun jia 	帮蹲家	c=1 d=2e-08 t=1
+bang fan zei 	帮反贼	c=1 d=2e-08 t=1
+bang fei wu 	帮废物	c=1 d=2e-08 t=1
+bang keng 	帮坑	c=1 d=2e-08 t=1
+bang ni lia 	帮你俩	c=1 d=2e-08 t=1
+bang nin men 	帮您们	c=1 d=2e-08 t=1
+bang qin shou 	帮禽兽	c=1 d=2e-08 t=1
+bang sha ju 	帮傻狙	c=1 d=2e-08 t=1
+bang ta yan hu 	帮他掩护	c=1 d=2e-08 t=1
+bang wan yi 	帮玩意	c=1 d=2e-08 t=1
+bang yi 	帮一	c=1 d=2e-08 t=1
+bang zhen 	帮真	c=1 d=2e-08 t=1
+bang zhen bang 	棒真棒	c=1 d=2e-08 t=1
+bang zhong 	帮忠	c=1 d=2e-08 t=1
+bang zhu gong 	帮主公	c=1 d=2e-08 t=1
+bao bu shou 	包不守	c=1 d=2e-08 t=1
+bao chou ne 	报仇呢	c=1 d=2e-08 t=1
+bao chu 	报初	c=1 d=2e-08 t=1
+bao cun bu si 	保存不死	c=1 d=2e-08 t=1
+bao cun cai liao 	保存材料	c=1 d=2e-08 t=1
+bao cun zai na 	保存在哪	c=1 d=2e-08 t=1
+bao duan wang 	包断网	c=1 d=2e-08 t=1
+bao gai lv 	包概率	c=1 d=2e-08 t=1
+bao ge xi 	报个喜	c=1 d=2e-08 t=1
+bao gen 	宝根	c=1 d=2e-08 t=1
+bao han na xie bu fen 	包含哪些部分	c=1 d=2e-08 t=1
+bao hu dian zu 	保护电阻	c=1 d=2e-08 t=1
+bao le suan le 	报了算了	c=1 d=2e-08 t=1
+bao li tong 	保李通	c=1 d=2e-08 t=1
+bao li yi bo 	暴力一波	c=1 d=2e-08 t=1
+bao liu te ding wen jian 	保留特定文件	c=1 d=2e-08 t=1
+bao ma de 	宝马的	c=1 d=2e-08 t=1
+bao mei 	包没	c=1 d=2e-08 t=1
+bao ming you 	报名有	c=1 d=2e-08 t=1
+bao mo 	爆沫	c=1 d=2e-08 t=1
+bao rong wa xian 	包容瓦县	c=1 d=2e-08 t=1
+bao sha 	包啥	c=1 d=2e-08 t=1
+bao sheng yu 	包剩余	c=1 d=2e-08 t=1
+bao sou 	包搜	c=1 d=2e-08 t=1
+bao xi zi 	保戏子	c=1 d=2e-08 t=1
+bao xun you 	保荀攸	c=1 d=2e-08 t=1
+bao yi xiao pian 	薄一小片	c=1 d=2e-08 t=1
+bao yu ge 	宝玉个	c=1 d=2e-08 t=1
+bao zhu zhao shu 	保住诏书	c=1 d=2e-08 t=1
+bei bao jing dian 	背包经典	c=1 d=2e-08 t=1
+bei bei nan 	贝贝男	c=1 d=2e-08 t=1
+bei bi chan sheng mo 	杯壁产生摩	c=1 d=2e-08 t=1
+bei bu wan le 	背不完了	c=1 d=2e-08 t=1
+bei da ji le 	被打击了	c=1 d=2e-08 t=1
+bei diao han shu 	被调函数	c=1 d=2e-08 t=1
+bei gao tie 	被高铁	c=1 d=2e-08 t=1
+bei hou feng kuang shu chu 	背后疯狂输出	c=1 d=2e-08 t=1
+bei jing li mian 	北京里面	c=1 d=2e-08 t=1
+bei kong liang 	被控量	c=1 d=2e-08 t=1
+bei mi hu jia li 	卑弥呼家里	c=1 d=2e-08 t=1
+bei mi hu sha 	卑弥呼杀	c=1 d=2e-08 t=1
+bei mo ban 	杯模板	c=1 d=2e-08 t=1
+bei ni du 	被你堵	c=1 d=2e-08 t=1
+bei wan 	北玩	c=1 d=2e-08 t=1
+bei ya si 	被压死	c=1 d=2e-08 t=1
+bei zhu da 	备注打	c=1 d=2e-08 t=1
+ben bian ji qi 	本编辑器	c=1 d=2e-08 t=1
+ben bian ji ru he shi xian 	本编辑如何实现	c=1 d=2e-08 t=1
+ben di fu xian 	本地浮现	c=1 d=2e-08 t=1
+ben ge shi 	本格式	c=1 d=2e-08 t=1
+ben hao 	本好	c=1 d=2e-08 t=1
+ben ke bu 	本科部	c=1 d=2e-08 t=1
+ben ke jin qu 	本科进去	c=1 d=2e-08 t=1
+ben ke ke cheng 	本科课程	c=1 d=2e-08 t=1
+ben ke ke cheng xue xi 	本科课程学习	c=1 d=2e-08 t=1
+ben ke xiao 	本科孝	c=1 d=2e-08 t=1
+ben ke zhi qian 	本科之前	c=1 d=2e-08 t=1
+ben kuang 	本框	c=1 d=2e-08 t=1
+ben kuang chi cun 	本框尺寸	c=1 d=2e-08 t=1
+ben lai ju 	本来菊	c=1 d=2e-08 t=1
+ben qie 	本且	c=1 d=2e-08 t=1
+ben shen bi xu shi 	本身必须是	c=1 d=2e-08 t=1
+ben wen bing 	本文并	c=1 d=2e-08 t=1
+ben wen ma 	本文吗	c=1 d=2e-08 t=1
+ben wen shi 	本文使	c=1 d=2e-08 t=1
+ben xiang ai qing 	本想爱情	c=1 d=2e-08 t=1
+ben yu 	贲育	c=1 d=2e-08 t=1
+ben zhi bu 	本质不	c=1 d=2e-08 t=1
+bi an tu 	彼岸荼	c=1 d=2e-08 t=1
+bi bei 	比被	c=1 d=2e-08 t=1
+bi ding shang an 	必定上岸	c=1 d=2e-08 t=1
+bi fei 	必非	c=1 d=2e-08 t=1
+bi ha 	必哈	c=1 d=2e-08 t=1
+bi ji ben dang 	笔记本当	c=1 d=2e-08 t=1
+bi ji ben qiang de 	笔记本强得	c=1 d=2e-08 t=1
+bi ji lei 	笔记类	c=1 d=2e-08 t=1
+bi jiao mo sheng 	比较陌生	c=1 d=2e-08 t=1
+bi jiao ren xing hua 	比较人性化	c=1 d=2e-08 t=1
+bi mian 	笔面	c=1 d=2e-08 t=1
+bi neng 	比能	c=1 d=2e-08 t=1
+bi ru 	比如	c=1 d=1 t=25
+bi sha ai 	必杀哎	c=1 d=2e-08 t=1
+bi shi ji zhi 	比实际值	c=1 d=2e-08 t=1
+bi shou qi luan 	必受其乱	c=1 d=2e-08 t=1
+bi xiao lv 	比效率	c=1 d=2e-08 t=1
+bi ye bi 	毕业比	c=1 d=2e-08 t=1
+bi ye da 	毕业答	c=1 d=2e-08 t=1
+bi ye deng ji biao 	毕业登记表	c=1 d=2e-08 t=1
+bi ye fang 	比野房	c=1 d=2e-08 t=1
+bi ye hou bu xiang 	毕业后不想	c=1 d=2e-08 t=1
+bi ye huo che 	毕业火车	c=1 d=2e-08 t=1
+bi ye na 	毕业那	c=1 d=2e-08 t=1
+bi ye nan 	毕业男	c=1 d=2e-08 t=1
+bi ye yao 	毕业要	c=1 d=2e-08 t=1
+bi ye yu jian de shi 	毕业于建德市	c=1 d=2e-08 t=1
+bi ying wan 	必硬玩	c=1 d=2e-08 t=1
+bian ba 	变罢	c=1 d=2e-08 t=1
+bian cheng biao 	变成标	c=1 d=2e-08 t=1
+bian cheng ji suan ji 	编程计算机	c=1 d=2e-08 t=1
+bian cheng yong 	编程用	c=1 d=2e-08 t=1
+bian cheng zi ti 	编程字体	c=1 d=2e-08 t=1
+bian dang hao chi 	便当好吃	c=1 d=2e-08 t=1
+bian feng mian 	辩封面	c=1 d=2e-08 t=1
+bian ji lu 	辩记录	c=1 d=2e-08 t=1
+bian ji quan 	编辑权	c=1 d=2e-08 t=1
+bian ji xi tong huan jing 	编辑系统环境	c=1 d=2e-08 t=1
+bian ji zhang hu 	编辑账户	c=1 d=2e-08 t=1
+bian jie kuang 	边界框	c=1 d=2e-08 t=1
+bian ma xue 	编码学	c=1 d=2e-08 t=1
+bian neng 	变能	c=1 d=2e-08 t=1
+bian pao zhan 	鞭炮站	c=1 d=2e-08 t=1
+bian sha 	遍杀	c=1 d=2e-08 t=1
+bian yi chu 	编译出	c=1 d=2e-08 t=1
+bian yi jie guo 	编译结果	c=1 d=2e-08 t=1
+bian yi ming 	编译命	c=1 d=2e-08 t=1
+bian yi wen jian 	编译文件	c=1 d=2e-08 t=1
+bian yi yu yan bao cuo 	编译语言报错	c=1 d=2e-08 t=1
+bian yi yu yan wu fa zhi xing 	编译语言无法执行	c=1 d=2e-08 t=1
+bian yi yuan ma 	编译源码	c=1 d=2e-08 t=1
+bian yi yun xing 	编译运行	c=1 d=2e-08 t=1
+bian zhi kao shi 	编制考试	c=1 d=2e-08 t=1
+biao bai fang fa 	表白方法	c=1 d=2e-08 t=1
+biao bian huan 	标变换	c=1 d=2e-08 t=1
+biao da ai yi 	表达爱意	c=1 d=2e-08 t=1
+biao da gong si 	表达公司	c=1 d=2e-08 t=1
+biao da qian yi he 	表达歉意和	c=1 d=2e-08 t=1
+biao feng 	标风	c=1 d=2e-08 t=1
+biao ge biao sao 	表哥表嫂	c=1 d=2e-08 t=1
+biao ge chu li 	表格处理	c=1 d=2e-08 t=1
+biao ge hou 	表格后	c=1 d=2e-08 t=1
+biao ge hua shu ju 	表格化数据	c=1 d=2e-08 t=1
+biao ge jie gou hua 	表格结构化	c=1 d=2e-08 t=1
+biao ge shu 	表格数	c=1 d=2e-08 t=1
+biao ge shu ju 	表格数据	c=1 d=2e-08 t=1
+biao ge shu zi 	表格数字	c=1 d=2e-08 t=1
+biao ge wen ben 	表格文本	c=1 d=2e-08 t=1
+biao ge wen jian 	表格文件	c=1 d=2e-08 t=1
+biao ge wen jian de 	表格文件的	c=1 d=2e-08 t=1
+biao ge wen zhang 	表格文章	c=1 d=2e-08 t=1
+biao ge wen zi 	表格文字	c=1 d=2e-08 t=1
+biao ge xin xi 	表格信息	c=1 d=2e-08 t=1
+biao ge yong 	表格用	c=1 d=2e-08 t=1
+biao mian zhang li xi shu 	表面张力系数	c=1 d=2e-08 t=1
+biao shen fen 	表身份	c=1 d=2e-08 t=1
+biao shi 	标什	c=1 d=2e-08 t=1
+biao shi xing shi 	表示形式	c=1 d=2e-08 t=1
+biao zhu xue zhang 	标注学长	c=1 d=2e-08 t=1
+biao zhuan fa 	表转发	c=1 d=2e-08 t=1
+bie de lun wen 	别的论文	c=1 d=2e-08 t=1
+bie du 	别堵	c=1 d=2e-08 t=1
+bie fa shen jing 	别发神经	c=1 d=2e-08 t=1
+bie jia li 	别家里	c=1 d=2e-08 t=1
+bie jia li dun 	别家里蹲	c=1 d=2e-08 t=1
+bie sha 	别啥	c=1 d=2e-08 t=1
+bie she 	别设	c=1 d=2e-08 t=1
+bie she le 	别射了	c=1 d=2e-08 t=1
+bie tuo dao 	别拖到	c=1 d=2e-08 t=1
+bie wan ju 	别玩狙	c=1 d=2e-08 t=1
+bie zhe me jiu 	别这么久	c=1 d=2e-08 t=1
+bie zhi gu zhe 	别只顾着	c=1 d=2e-08 t=1
+bin ge 	宾哥	c=1 d=2e-08 t=1
+bin jiang de 	滨江的	c=1 d=2e-08 t=1
+bing bu bei 	并不被	c=1 d=2e-08 t=1
+bing bu hua suan 	并不划算	c=1 d=2e-08 t=1
+bing jiang ta men 	并将它们	c=1 d=2e-08 t=1
+bing kai 	兵开	c=1 d=2e-08 t=1
+bing li zhong 	病例中	c=1 d=2e-08 t=1
+bing liang kong 	兵粮控	c=1 d=2e-08 t=1
+bing qie fu xi 	并且复习	c=1 d=2e-08 t=1
+bing qie shi 	并且实	c=1 d=2e-08 t=1
+bing qie xie ru 	并且写入	c=1 d=2e-08 t=1
+bing sheng chan 	并生产	c=1 d=2e-08 t=1
+bing tui li 	并推理	c=1 d=2e-08 t=1
+bo chai you ji 	舶柴油机	c=1 d=2e-08 t=1
+bo fu 	波腹	c=1 d=2e-08 t=1
+bo gu 	波估	c=1 d=2e-08 t=1
+bo ren 	波人	c=1 d=2e-08 t=1
+bo shu 	波属	c=1 d=2e-08 t=1
+bo wen yuan 	博文苑	c=1 d=2e-08 t=1
+bo zhen hai 	波镇海	c=1 d=2e-08 t=1
+bo zhu 	博主	c=1 d=1 t=11
+bu bi ha 	不必哈	c=1 d=2e-08 t=1
+bu bu bao 	步步宝	c=1 d=2e-08 t=1
+bu cha bu zhi dao 	不查不知道	c=1 d=2e-08 t=1
+bu chang fa 	补偿法	c=1 d=2e-08 t=1
+bu chu sha 	不出杀	c=1 d=2e-08 t=1
+bu da le bei 	不打了呗	c=1 d=2e-08 t=1
+bu da zhu 	不打主	c=1 d=2e-08 t=1
+bu dai pa 	不带怕	c=1 d=2e-08 t=1
+bu dao bei 	不到北	c=1 d=2e-08 t=1
+bu dao shi 	不到似	c=1 d=2e-08 t=1
+bu dao zhong 	不到忠	c=1 d=2e-08 t=1
+bu deng lu 	不登陆	c=1 d=2e-08 t=1
+bu deng wei 	不等位	c=1 d=2e-08 t=1
+bu ding ji 	补丁级	c=1 d=2e-08 t=1
+bu ding zhe ni 	不盯着你	c=1 d=2e-08 t=1
+bu dong ta jiu 	不动他就	c=1 d=2e-08 t=1
+bu dong zuo ci 	不动作词	c=1 d=2e-08 t=1
+bu du bo 	不读博	c=1 d=2e-08 t=1
+bu dui da le 	部队打了	c=1 d=2e-08 t=1
+bu fang jian 	不放箭	c=1 d=2e-08 t=1
+bu fen hao me 	部分好么	c=1 d=2e-08 t=1
+bu fen ji shu 	部分技术	c=1 d=2e-08 t=1
+bu fen shu 	部分疏	c=1 d=2e-08 t=1
+bu fu ru lai 	不服如来	c=1 d=2e-08 t=1
+bu gan jin chang 	不敢进场	c=1 d=2e-08 t=1
+bu gei yu 	不给予	c=1 d=2e-08 t=1
+bu gou lian xu 	不够连续	c=1 d=2e-08 t=1
+bu gou sha 	不够杀	c=1 d=2e-08 t=1
+bu gou zhi guan 	不够直观	c=1 d=2e-08 t=1
+bu gua shi 	不挂失	c=1 d=2e-08 t=1
+bu guo na ge zhou ri 	不过那个周日	c=1 d=2e-08 t=1
+bu guo pai 	不过牌	c=1 d=2e-08 t=1
+bu guo wo ba ma 	不过我爸妈	c=1 d=2e-08 t=1
+bu huan pai 	不换牌	c=1 d=2e-08 t=1
+bu hui ai 	不会哎	c=1 d=2e-08 t=1
+bu hui ai ni 	不会哎你	c=1 d=2e-08 t=1
+bu hui chuan shuo 	不会传说	c=1 d=2e-08 t=1
+bu hui jia me 	不回家么	c=1 d=2e-08 t=1
+bu hui ju 	不会狙	c=1 d=2e-08 t=1
+bu hui mang 	不会忙	c=1 d=2e-08 t=1
+bu ji nan 	不济南	c=1 d=2e-08 t=1
+bu jian jue dou 	不见决斗	c=1 d=2e-08 t=1
+bu jiang wu de 	不讲武德	c=1 d=2e-08 t=1
+bu jin yao you 	不仅要有	c=1 d=2e-08 t=1
+bu jiu ba ta 	不就把他	c=1 d=2e-08 t=1
+bu jue xiao 	不觉晓	c=1 d=2e-08 t=1
+bu kan jiu 	不看就	c=1 d=2e-08 t=1
+bu kao bian 	不考编	c=1 d=2e-08 t=1
+bu ke yu ce xing 	不可预测性	c=1 d=2e-08 t=1
+bu keng de 	不坑的	c=1 d=2e-08 t=1
+bu lai cheng yu 	不来程昱	c=1 d=2e-08 t=1
+bu lai tou 	不来偷	c=1 d=2e-08 t=1
+bu lian lian 	不练练	c=1 d=2e-08 t=1
+bu liu shan dian 	不留闪电	c=1 d=2e-08 t=1
+bu luan wu 	不乱五	c=1 d=2e-08 t=1
+bu mai xue 	不卖血	c=1 d=2e-08 t=1
+bu mo pai 	不摸牌	c=1 d=2e-08 t=1
+bu na ju 	不拿狙	c=1 d=2e-08 t=1
+bu nong zhu 	不弄主	c=1 d=2e-08 t=1
+bu qiang dian she 	步枪点射	c=1 d=2e-08 t=1
+bu qiang ji qiang 	步枪机枪	c=1 d=2e-08 t=1
+bu qiang ting meng 	步枪挺猛	c=1 d=2e-08 t=1
+bu que 	不确	c=1 d=2e-08 t=1
+bu ran zai shuo 	不然再说	c=1 d=2e-08 t=1
+bu ru shou 	不如授	c=1 d=2e-08 t=1
+bu shang xue ma 	不上学吗	c=1 d=2e-08 t=1
+bu shou xian shi yong 	不首先使用	c=1 d=2e-08 t=1
+bu tai hao she 	不太好摄	c=1 d=2e-08 t=1
+bu tai hui 	不太会	c=0 d=0.1 t=42
+bu tai hui nong 	不太会弄	c=1 d=1 t=43
+bu tai wen gu 	不太稳固	c=1 d=2e-08 t=1
+bu tai xiang chu ming 	不太想出名	c=1 d=2e-08 t=1
+bu tai xiang mo 	不太想摸	c=1 d=2e-08 t=1
+bu tai yu kuai 	不太愉快	c=1 d=2e-08 t=1
+bu wu xie 	不无邪	c=1 d=2e-08 t=1
+bu xiang me 	不香么	c=1 d=2e-08 t=1
+bu xiang yun xu 	不想允许	c=1 d=2e-08 t=1
+bu xie da an 	不写答案	c=1 d=2e-08 t=1
+bu xuan ru 	不选入	c=1 d=2e-08 t=1
+bu yan hu 	不掩护	c=1 d=2e-08 t=1
+bu yao na me duo 	不要那么多	c=1 d=2e-08 t=1
+bu yao tan hu 	不要袒护	c=1 d=2e-08 t=1
+bu ying jie 	不应届	c=1 d=2e-08 t=1
+bu yo a 	不哟啊	c=1 d=2e-08 t=1
+bu yu bu yu 	不与不予	c=1 d=2e-08 t=1
+bu zhen dui shui 	不针对谁	c=1 d=2e-08 t=1
+bu zhi sheng le 	不吱声了	c=1 d=2e-08 t=1
+bu zhou ri 	不周日	c=1 d=2e-08 t=1
+bu zhu ta 	不住他	c=1 d=2e-08 t=1
+bu zhua de 	不抓的	c=1 d=2e-08 t=1
+ca ta ma 	擦他妈	c=1 d=2e-08 t=1
+cai ba ka 	才把卡	c=1 d=2e-08 t=1
+cai bi 	蔡比	c=1 d=2e-08 t=1
+cai chen biao 	蔡陈彪	c=1 d=2e-08 t=1
+cai cheng le 	蔡成了	c=1 d=2e-08 t=1
+cai cheng zhe 	蔡成这	c=1 d=2e-08 t=1
+cai de 	蔡的	c=1 d=2e-08 t=1
+cai er yi 	蔡而已	c=1 d=2e-08 t=1
+cai gou 	蔡苟	c=1 d=2e-08 t=1
+cai gou de 	蔡苟的	c=1 d=2e-08 t=1
+cai gou zi 	蔡苟子	c=1 d=2e-08 t=1
+cai gui cai 	菜归菜	c=1 d=2e-08 t=1
+cai hai fen xi 	蔡还分析	c=1 d=2e-08 t=1
+cai ji wan cheng 	采集完成	c=1 d=2e-08 t=1
+cai ji xu 	蔡继续	c=1 d=2e-08 t=1
+cai ju 	菜狙	c=1 d=2e-08 t=1
+cai ju 	蔡狙	c=1 d=2e-08 t=1
+cai ju hai 	蔡狙还	c=1 d=2e-08 t=1
+cai kang de 	蔡扛得	c=1 d=2e-08 t=1
+cai pi dui 	菜皮队	c=1 d=2e-08 t=1
+cai ya 	蔡呀	c=1 d=2e-08 t=1
+cai yuan pei chang 	裁员赔偿	c=1 d=2e-08 t=1
+can jia zu hui 	参加组会	c=1 d=2e-08 t=1
+can ju 	残狙	c=1 d=2e-08 t=1
+can me 	残么	c=1 d=2e-08 t=1
+can shu jiu 	参数就	c=1 d=2e-08 t=1
+can shu liang 	参数两	c=1 d=2e-08 t=1
+can shu liang 	参数量	c=1 d=2e-08 t=1
+cang ku bu 	仓库不	c=1 d=2e-08 t=1
+cang qian jie dao 	仓前街道	c=1 d=2e-08 t=1
+cang qian xiao qu 	仓前校区	c=1 d=2e-08 t=1
+cao ang shi 	曹昂是	c=1 d=2e-08 t=1
+cao cao dong 	曹操动	c=1 d=2e-08 t=1
+cao cao zhong 	曹操忠	c=1 d=2e-08 t=1
+cao pi cao ren 	曹丕曹仁	c=1 d=2e-08 t=1
+cao pi da gong 	曹丕打工	c=1 d=2e-08 t=1
+cao pi jue xing 	曹丕觉醒	c=1 d=2e-08 t=1
+cao pi qiang 	曹丕强	c=1 d=2e-08 t=1
+cao pi shen 	曹丕神	c=1 d=2e-08 t=1
+cao pi wan 	曹丕完	c=1 d=2e-08 t=1
+cao pi ying 	曹丕应	c=1 d=2e-08 t=1
+cao quan tou 	曹拳头	c=1 d=2e-08 t=1
+cao ren dong xi 	曹仁东西	c=1 d=2e-08 t=1
+cao ren she 	曹仁射	c=1 d=2e-08 t=1
+cao rui you 	曹睿又	c=1 d=2e-08 t=1
+cao ta men 	艹他们	c=1 d=2e-08 t=1
+cao zuo yu 	操作与	c=1 d=2e-08 t=1
+ce ce ni de 	测测你的	c=1 d=2e-08 t=1
+ce de zhi liang 	测得质量	c=1 d=2e-08 t=1
+ce di 	测低	c=1 d=2e-08 t=1
+ce dian chi 	测电池	c=1 d=2e-08 t=1
+ce gao zhi 	测告知	c=1 d=2e-08 t=1
+ce liang suo 	测量所	c=1 d=2e-08 t=1
+ce liang wu ti 	测量物体	c=1 d=2e-08 t=1
+ce ling 	厕灵	c=1 d=2e-08 t=1
+ce lue guan li qi 	策略管理器	c=1 d=2e-08 t=1
+ce mian po 	侧面破	c=1 d=2e-08 t=1
+ce ping jin du 	测评进度	c=1 d=2e-08 t=1
+ce shi ji shang 	测试集上	c=1 d=2e-08 t=1
+ce shi yang ben 	测试样本	c=1 d=2e-08 t=1
+ce shi yang li 	测试样例	c=1 d=2e-08 t=1
+ce su wang 	测速网	c=1 d=2e-08 t=1
+ce ye 	测液	c=1 d=2e-08 t=1
+ce zhong 	测重	c=1 d=2e-08 t=1
+ceng gan zhi ji 	层感知机	c=1 d=2e-08 t=1
+ceng gan zhi ji dai ma 	层感知机代码	c=1 d=2e-08 t=1
+ceng he 	层和	c=1 d=2e-08 t=1
+cha bian hua 	差变化	c=1 d=2e-08 t=1
+cha bu dao ni 	查不到你	c=1 d=2e-08 t=1
+cha chu 	锸出	c=1 d=2e-08 t=1
+cha chu lai ma 	查出来吗	c=1 d=2e-08 t=1
+cha chu lai me 	查出来么	c=1 d=2e-08 t=1
+cha jin du 	查进度	c=1 d=2e-08 t=1
+cha jue xian zai 	察觉现在	c=1 d=2e-08 t=1
+cha kan dang qian 	查看当前	c=1 d=2e-08 t=1
+cha kan wen jian 	查看文件	c=1 d=2e-08 t=1
+cha la ma 	查拉吗	c=1 d=2e-08 t=1
+cha lun 	查论	c=1 d=2e-08 t=1
+cha lun wen fen qu 	查论文分区	c=1 d=2e-08 t=1
+cha ti 	查题	c=1 d=2e-08 t=1
+cha tong guo ping tai 	查通过平台	c=1 d=2e-08 t=1
+cha yue bing 	查阅并	c=1 d=2e-08 t=1
+cha zhao yuan su 	查找元素	c=1 d=2e-08 t=1
+cha zhu ban 	插主板	c=1 d=2e-08 t=1
+chai ba 	拆八	c=1 d=2e-08 t=1
+chai ba 	拆把	c=1 d=2e-08 t=1
+chai huo shan 	拆火扇	c=1 d=2e-08 t=1
+chai le 	拆乐	c=1 d=2e-08 t=1
+chai shou pai 	拆手牌	c=1 d=2e-08 t=1
+chai ye cai bu dong 	拆也才不懂	c=1 d=2e-08 t=1
+chai you fa dian ji zu 	柴油发电机组	c=1 d=2e-08 t=1
+chai yuan shao shou pai 	拆袁绍手牌	c=1 d=2e-08 t=1
+chai zhu 	拆主	c=1 d=2e-08 t=1
+chan huo sha 	掺和啥	c=1 d=2e-08 t=1
+chan lan 	蝉烂	c=1 d=2e-08 t=1
+chang shi fu xian 	尝试复现	c=1 d=2e-08 t=1
+chang xing ma 	长兴吗	c=1 d=2e-08 t=1
+chang xing xing a 	长兴行啊	c=1 d=2e-08 t=1
+chao jia 	超家	c=1 d=2e-08 t=1
+chao ta hou lu 	抄他后路	c=1 d=2e-08 t=1
+chen ge zen me shuo 	晨哥怎么说	c=1 d=2e-08 t=1
+chen lu xin 	陈璐鑫	c=1 d=2e-08 t=1
+chen lu xin fa de 	陈璐鑫发的	c=1 d=2e-08 t=1
+chen zhe qing tian 	趁着晴天	c=1 d=2e-08 t=1
+cheng bu ding 	成补丁	c=1 d=2e-08 t=1
+cheng ce liang 	成测量	c=1 d=2e-08 t=1
+cheng ce liang 	称测量	c=1 d=2e-08 t=1
+cheng gong zhao 	成功找	c=1 d=2e-08 t=1
+cheng ji cheng ji 	成绩成绩	c=1 d=2e-08 t=1
+cheng ji liang 	成绩良	c=1 d=2e-08 t=1
+cheng ke 	程课	c=1 d=2e-08 t=1
+cheng ke hu 	成客户	c=1 d=2e-08 t=1
+cheng lue 	成略	c=1 d=2e-08 t=1
+cheng xin wen 	诚心问	c=1 d=2e-08 t=1
+cheng yi dai ren 	成一代人	c=1 d=2e-08 t=1
+cheng ying yu 	成英语	c=1 d=2e-08 t=1
+cheng zhang xian 	成长线	c=1 d=2e-08 t=1
+cheng zhong yi yang 	成忠一样	c=1 d=2e-08 t=1
+chi dian bei 	吃点呗	c=1 d=2e-08 t=1
+chi dian fa 	迟点发	c=1 d=2e-08 t=1
+chi fan duo 	吃饭多	c=1 d=2e-08 t=1
+chi lun wo 	齿轮我	c=1 d=2e-08 t=1
+chi mian de shi hou 	吃面的时候	c=1 d=2e-08 t=1
+chi zao mei 	迟早没	c=1 d=2e-08 t=1
+chong bu qi lai 	充不起来	c=1 d=2e-08 t=1
+chong die qu yu 	重叠区域	c=1 d=2e-08 t=1
+chong die tu 	重叠图	c=1 d=2e-08 t=1
+chong die wang luo 	重叠网络	c=1 d=2e-08 t=1
+chong hui le 	重绘了	c=1 d=2e-08 t=1
+chong qi dao 	重启到	c=1 d=2e-08 t=1
+chong qing li gong 	重庆理工	c=1 d=2e-08 t=1
+chong sha 	冲啥	c=1 d=2e-08 t=1
+chong wang wang 	宠汪汪	c=1 d=2e-08 t=1
+chong xin fu zhi 	重新赋值	c=1 d=2e-08 t=1
+chong xin jiao gei ni 	重新交给你	c=1 d=2e-08 t=1
+chou bao 	仇报	c=1 d=2e-08 t=1
+chou shen 	抽审	c=1 d=2e-08 t=1
+chu bao cun 	出保存	c=1 d=2e-08 t=1
+chu bu de tu 	初步的图	c=1 d=2e-08 t=1
+chu bu liao pai 	出不了拍	c=1 d=2e-08 t=1
+chu cheng ji hou 	出成绩后	c=1 d=2e-08 t=1
+chu fa shi jian 	触发时间	c=1 d=2e-08 t=1
+chu guang cheng 	处光程	c=1 d=2e-08 t=1
+chu ji zhen xin 	触及真心	c=1 d=2e-08 t=1
+chu jing yan 	出经验	c=1 d=2e-08 t=1
+chu le hui 	除了会	c=1 d=2e-08 t=1
+chu li biao ge 	处理表格	c=1 d=2e-08 t=1
+chu li biao ge shu ju 	处理表格数据	c=1 d=2e-08 t=1
+chu li de tu xiang 	处理的图像	c=1 d=2e-08 t=1
+chu lian na dian xiao shi 	初恋那点小事	c=1 d=2e-08 t=1
+chu lian na jian xiao shi 	初恋那件小事	c=1 d=2e-08 t=1
+chu lian ri ji 	初恋日记	c=1 d=2e-08 t=1
+chu lian zhe jian 	初恋这件	c=1 d=2e-08 t=1
+chu lian zhe jian xiao shi 	初恋这件小事	c=1 d=2e-08 t=1
+chu lu ping 	储璐萍	c=1 d=2e-08 t=1
+chu men de 	出门得	c=1 d=2e-08 t=1
+chu pan duan 	出判断	c=1 d=2e-08 t=1
+chu shan 	出闪	c=1 d=2e-08 t=1
+chu sheng ren kou 	出生人口	c=1 d=2e-08 t=1
+chu shi hua cao zuo 	初始化操作	c=1 d=2e-08 t=1
+chu wai jie fa 	出外接法	c=1 d=2e-08 t=1
+chu xian 	出现	c=1 d=1 t=67
+chu yong 	出用	c=1 d=2e-08 t=1
+chu za 	褚咋	c=1 d=2e-08 t=1
+chu zhong jiao shi ba 	初中教师吧	c=1 d=2e-08 t=1
+chu zhong mei bi ye 	初中没毕业	c=1 d=2e-08 t=1
+chuai zhe ming bai 	揣着明白	c=1 d=2e-08 t=1
+chuan bo chai you ji 	船舶柴油机	c=1 d=2e-08 t=1
+chuan bo dian qi 	船舶电气	c=1 d=2e-08 t=1
+chuan bo dian qi gong cheng xue yuan 	船舶电气工程学院	c=1 d=2e-08 t=1
+chuan bo dian zi 	船舶电子	c=1 d=2e-08 t=1
+chuan bo dian zi dian qi 	船舶电子电器	c=1 d=2e-08 t=1
+chuan bo dian zi dian qi gong cheng 	船舶电子电气工程	c=1 d=2e-08 t=1
+chuan bo ju yu wang 	船舶局域网	c=1 d=2e-08 t=1
+chuan de duo le 	穿得多了	c=1 d=2e-08 t=1
+chuan dian zhuan ye 	船电专业	c=1 d=2e-08 t=1
+chuan dian zu 	串电阻	c=1 d=2e-08 t=1
+chuan gan shu ju 	传感数据	c=1 d=2e-08 t=1
+chuan tong 	传桶	c=1 d=2e-08 t=1
+chuan xiang 	穿想	c=1 d=2e-08 t=1
+chuan zi 	串字	c=1 d=2e-08 t=1
+chuang jian bian liang 	创建变量	c=1 d=2e-08 t=1
+chuang jian kong bai fen zi 	创建空白分子	c=1 d=2e-08 t=1
+chun bai ban 	纯白板	c=1 d=2e-08 t=1
+chun lu ren 	纯路人	c=1 d=2e-08 t=1
+chun shou dian 	纯手点	c=1 d=2e-08 t=1
+chun song 	纯送	c=1 d=2e-08 t=1
+ci 	词	c=1 d=1 t=92
+ci bu 	此部	c=1 d=2e-08 t=1
+ci ci hui bao 	此次汇报	c=1 d=2e-08 t=1
+ci dui 	慈队	c=1 d=2e-08 t=1
+ci ji dui shu 	磁极对数	c=1 d=2e-08 t=1
+ci ku 	词库	c=7 d=5.87064 t=115
+ci lian er yan 	磁链而言	c=1 d=2e-08 t=1
+ci lun wen 	此论文	c=1 d=2e-08 t=1
+ci ming 	次命	c=1 d=2e-08 t=1
+ci pan qu dong 	磁盘驱动	c=1 d=2e-08 t=1
+ci qing bu yu 	此情不渝	c=1 d=2e-08 t=1
+ci shan 	词删	c=1 d=2e-08 t=1
+ci xue hui 	次学会	c=1 d=2e-08 t=1
+ci yi 	词以	c=1 d=2e-08 t=1
+ci zhong jie zhe 	次终结者	c=1 d=2e-08 t=1
+cong er kong zhi 	从而控制	c=1 d=2e-08 t=1
+cong er le 	从而了	c=1 d=2e-08 t=1
+cong ji ceng zuo qi 	从基层做起	c=1 d=2e-08 t=1
+cong qi lai da 	从起来打	c=1 d=2e-08 t=1
+cong shen du xue xi 	从深度学习	c=1 d=2e-08 t=1
+cong shi duo nian 	从事多年	c=1 d=2e-08 t=1
+cong yi sheng 	从医生	c=1 d=2e-08 t=1
+cong yuan li 	从原理	c=1 d=2e-08 t=1
+cou ying bi 	凑硬币	c=1 d=2e-08 t=1
+cun ben 	存本	c=1 d=2e-08 t=1
+cun dang 	存当	c=1 d=2e-08 t=1
+cun jiao 	存缴	c=1 d=2e-08 t=1
+cun keng 	村坑	c=1 d=2e-08 t=1
+cun pin lv 	存频率	c=1 d=2e-08 t=1
+cun sha 	存杀	c=1 d=2e-08 t=1
+cun shou li 	存手里	c=1 d=2e-08 t=1
+cun tiao 	存条	c=1 d=2e-08 t=1
+cun tu pian 	存图片	c=1 d=2e-08 t=1
+cun zai na li 	存在哪里	c=1 d=2e-08 t=1
+cuo ci bi jiao hao 	措辞比较好	c=1 d=2e-08 t=1
+cuo ni 	错你	c=1 d=2e-08 t=1
+cuo wu 	错误	c=1 d=1 t=68
+da a da da da da da da 	打啊打打打打打打	c=1 d=2e-08 t=1
+da an bei 	答案备	c=1 d=2e-08 t=1
+da an bu yi ding yao 	答案不一定要	c=1 d=2e-08 t=1
+da an ru xia 	答案如下	c=1 d=2e-08 t=1
+da an xuan xiang 	答案选项	c=1 d=2e-08 t=1
+da ba yao 	大巴要	c=1 d=2e-08 t=1
+da bian feng mian 	答辩封面	c=1 d=2e-08 t=1
+da bian ji 	答辩记	c=1 d=2e-08 t=1
+da bian ji lu biao 	答辩记录表	c=1 d=2e-08 t=1
+da bian tong 	答辩通	c=1 d=2e-08 t=1
+da bie 	打别	c=1 d=2e-08 t=1
+da bu chu pai 	打不出拍	c=1 d=2e-08 t=1
+da bu guo huo 	打不过或	c=1 d=2e-08 t=1
+da bu shi ba 	大不是吧	c=1 d=2e-08 t=1
+da chi xu 	大持续	c=1 d=2e-08 t=1
+da chu qu ya 	打出去呀	c=1 d=2e-08 t=1
+da chu shou pi 	打出首批	c=1 d=2e-08 t=1
+da da a a a a a 	大大啊啊啊啊啊	c=1 d=2e-08 t=1
+da da a a a a a de 	大大啊啊啊啊啊的	c=1 d=2e-08 t=1
+da da da a a 	哒哒哒啊啊	c=1 d=2e-08 t=1
+da da da a a a 	哒哒哒啊啊啊	c=1 d=2e-08 t=1
+da da da a a a a a a 	大大大啊啊啊啊啊啊	c=1 d=2e-08 t=1
+da da da a a da da da 	打打打啊啊大大大	c=1 d=2e-08 t=1
+da da da da 	大大大大	c=1 d=2e-08 t=1
+da da da da da da 	大大大大大大	c=1 d=2e-08 t=1
+da da da da da da da da 	大大大大大大大大	c=1 d=2e-08 t=1
+da da da da da da da da da da 	大大大大大大大大大大	c=1 d=2e-08 t=1
+da da da da da da dui dui dui 	大大大大大大对对对	c=1 d=2e-08 t=1
+da da ren 	打打人	c=1 d=2e-08 t=1
+da dao le xian jin 	达到了现金	c=1 d=2e-08 t=1
+da de ai 	大得癌	c=1 d=2e-08 t=1
+da de pai 	打得牌	c=1 d=2e-08 t=1
+da de sha 	打得杀	c=1 d=2e-08 t=1
+da de tai hen 	打得太狠	c=1 d=2e-08 t=1
+da de tuo guan 	打得托管	c=1 d=2e-08 t=1
+da dou da bu dao 	打都打不到	c=1 d=2e-08 t=1
+da gai o 	大概哦	c=1 d=2e-08 t=1
+da gai you guan 	大概有关	c=1 d=2e-08 t=1
+da gan ning 	打甘宁	c=1 d=2e-08 t=1
+da ge zan men 	大哥咱们	c=1 d=2e-08 t=1
+da gong gou 	打工狗	c=1 d=2e-08 t=1
+da gong yue shu 	大公约数	c=1 d=2e-08 t=1
+da huang gai 	打黄盖	c=1 d=2e-08 t=1
+da huang zong ma 	打黄总吗	c=1 d=2e-08 t=1
+da hui yan 	大汇演	c=1 d=2e-08 t=1
+da huo shu xing 	打火属性	c=1 d=2e-08 t=1
+da ji yan le 	大急眼了	c=1 d=2e-08 t=1
+da jia duo 	大家多	c=1 d=2e-08 t=1
+da jia ji ji xing 	大家积极性	c=1 d=2e-08 t=1
+da jia xiao xin ta 	大家小心他	c=1 d=2e-08 t=1
+da ju ya 	打狙呀	c=1 d=2e-08 t=1
+da kai ji xiang 	打开机箱	c=1 d=2e-08 t=1
+da lao ce 	大佬测	c=1 d=2e-08 t=1
+da leng tian xia wu 	大冷天下午	c=1 d=2e-08 t=1
+da lian hai 	大连海	c=1 d=2e-08 t=1
+da lian ning 	大连宁	c=1 d=2e-08 t=1
+da liang ce shi 	大量测试	c=1 d=2e-08 t=1
+da liang shu 	大量数	c=1 d=2e-08 t=1
+da liang yan jiu 	大量研究	c=1 d=2e-08 t=1
+da ling tong 	打凌统	c=1 d=2e-08 t=1
+da lou 	打喽	c=1 d=2e-08 t=1
+da luan wei 	打乱位	c=1 d=2e-08 t=1
+da meng 	打懵	c=1 d=2e-08 t=1
+da nao shi 	大脑是	c=1 d=2e-08 t=1
+da pao da 	大炮大	c=1 d=2e-08 t=1
+da pao di 	大炮第	c=1 d=2e-08 t=1
+da pao xiao 	大炮小	c=1 d=2e-08 t=1
+da qiao he 	大乔和	c=1 d=2e-08 t=1
+da qiao jiu 	大乔就	c=1 d=2e-08 t=1
+da qiao man xue za 	大乔满血咋	c=1 d=2e-08 t=1
+da qing zao peng ge 	大清早碰个	c=1 d=2e-08 t=1
+da shen qi 	打神器	c=1 d=2e-08 t=1
+da sheng chan fang shi 	大生产方式	c=1 d=2e-08 t=1
+da si bu an 	打死不按	c=1 d=2e-08 t=1
+da si zhou tai 	打死周泰	c=1 d=2e-08 t=1
+da tiao 	打挑	c=1 d=2e-08 t=1
+da tiao zhan 	打挑战	c=1 d=2e-08 t=1
+da wu xian 	打无线	c=1 d=2e-08 t=1
+da wu xie 	打无邪	c=1 d=2e-08 t=1
+da xiao sheng qi 	大小升旗	c=1 d=2e-08 t=1
+da xue ba 	打血吧	c=1 d=2e-08 t=1
+da xue bi ye de shi hou 	大学毕业的时候	c=1 d=2e-08 t=1
+da xue ce 	大学测	c=1 d=2e-08 t=1
+da xue dong shan 	大学东山	c=1 d=2e-08 t=1
+da xue dong shan xiao qu 	大学东山校区	c=1 d=2e-08 t=1
+da xue gang 	大学杠	c=1 d=2e-08 t=1
+da xue xi di 	大学习第	c=1 d=2e-08 t=1
+da ye pao 	打野炮	c=1 d=2e-08 t=1
+da yi ba zhang 	打一巴掌	c=1 d=2e-08 t=1
+da yin 	打阴	c=1 d=2e-08 t=1
+da yin ruan jian 	打印软件	c=1 d=2e-08 t=1
+da you xiang 	大邮箱	c=1 d=2e-08 t=1
+da yu yan 	大预言	c=1 d=2e-08 t=1
+da yuan shao 	大袁绍	c=1 d=2e-08 t=1
+da zhe me hen 	打这么狠	c=1 d=2e-08 t=1
+da zhe mei yi si 	打着没意思	c=1 d=2e-08 t=1
+da zhi liang ju 	打质量局	c=1 d=2e-08 t=1
+da zhou tai 	打周泰	c=1 d=2e-08 t=1
+da zhu 	打主	c=1 d=2e-08 t=1
+da zhu gong 	打主公	c=1 d=2e-08 t=1
+da zhu me 	打主么	c=1 d=2e-08 t=1
+dai a ma 	带啊吗	c=1 d=2e-08 t=1
+dai bian zhi 	带编制	c=1 d=2e-08 t=1
+dai ce dian 	待测电	c=1 d=2e-08 t=1
+dai ce dian zu 	待测电阻	c=1 d=2e-08 t=1
+dai jin jiu dian 	带进酒店	c=1 d=2e-08 t=1
+dai ju 	呆狙	c=1 d=2e-08 t=1
+dai ke jian 	带课件	c=1 d=2e-08 t=1
+dai lei 	带类	c=1 d=2e-08 t=1
+dai li shang wang 	代理上网	c=1 d=2e-08 t=1
+dai ma xie 	代码写	c=1 d=2e-08 t=1
+dai ma yun xing 	代码运行	c=1 d=2e-08 t=1
+dai ou 	带偶	c=1 d=2e-08 t=1
+dai tou ju 	呆头狙	c=1 d=2e-08 t=1
+dai wo he 	带我和	c=1 d=2e-08 t=1
+dai yi ci ke 	代一次课	c=1 d=2e-08 t=1
+dai yu geng hao 	待遇更好	c=1 d=2e-08 t=1
+dai yu yu 	待遇与	c=1 d=2e-08 t=1
+dan da du dou da da da a da 	单打独斗大大大阿达	c=1 d=2e-08 t=1
+dan gang shang 	单杠上	c=1 d=2e-08 t=1
+dan ge zhi biao 	单个指标	c=1 d=2e-08 t=1
+dan gui 	单鬼	c=1 d=2e-08 t=1
+dan ji ci chu 	单击此处	c=1 d=2e-08 t=1
+dan jia dan jia 	单价弹夹	c=1 d=2e-08 t=1
+dan qi mo shi 	单骑模式	c=1 d=2e-08 t=1
+dan shen zhu yi 	单身主义	c=1 d=2e-08 t=1
+dan shi bu hua suan 	但是不划算	c=1 d=2e-08 t=1
+dan shi wo he 	但是我和	c=1 d=2e-08 t=1
+dan ti mu 	但题目	c=1 d=2e-08 t=1
+dan yang 	单样	c=1 d=2e-08 t=1
+dan yong de shao 	但用的少	c=1 d=2e-08 t=1
+dan yuan zui duan lu 	单源最短路	c=1 d=2e-08 t=1
+dan yuan zui duan lu jing 	单源最短路径	c=1 d=2e-08 t=1
+dan yuan zui dun lu jing 	单元嘴遁路径	c=1 d=2e-08 t=1
+dan zi man da 	单子蛮大	c=1 d=2e-08 t=1
+dang dai ji shu 	当代技术	c=1 d=2e-08 t=1
+dang li mian 	裆里面	c=1 d=2e-08 t=1
+dang mian liao hui er 	当面聊会儿	c=1 d=2e-08 t=1
+dang qian zhong guo 	当前中国	c=1 d=2e-08 t=1
+dang sha 	当杀	c=3 d=1.83946 t=119
+dang shan 	当山	c=1 d=2e-08 t=1
+dang shen qing 	党申请	c=1 d=2e-08 t=1
+dang shi 	党是	c=1 d=2e-08 t=1
+dang shi wo kan 	当时我看	c=1 d=2e-08 t=1
+dang shi zhi dao shi xun chang 	当时只道是寻常	c=1 d=2e-08 t=1
+dang shou men yuan 	当守门员	c=1 d=2e-08 t=1
+dang wang yuan jing 	当望远镜	c=1 d=2e-08 t=1
+dang wei 	党为	c=1 d=2e-08 t=1
+dang wo ba 	当我把	c=1 d=2e-08 t=1
+dang wo fei ben xiang ni 	当我飞奔向你	c=1 d=2e-08 t=1
+dao 	到	c=1 d=1 t=65
+dao chu 	导出	c=1 d=1 t=105
+dao chu wen jian 	导出文件	c=1 d=1 t=30
+dao dou 	刀都	c=1 d=2e-08 t=1
+dao duo 	刀剁	c=1 d=2e-08 t=1
+dao heng me 	道行么	c=1 d=2e-08 t=1
+dao jie shu 	刀结束	c=1 d=2e-08 t=1
+dao lai 	刀来	c=1 d=2e-08 t=1
+dao le ba 	刀了把	c=1 d=2e-08 t=1
+dao mei zhou 	到美洲	c=1 d=2e-08 t=1
+dao mo 	刀摸	c=1 d=2e-08 t=1
+dao pi 	刀屁	c=1 d=2e-08 t=1
+dao sha ni 	刀杀逆	c=1 d=2e-08 t=1
+dao shi hou wen wen 	到时候问问	c=1 d=2e-08 t=1
+dao shu ju 	道数据	c=1 d=2e-08 t=1
+dao tou wen jian 	到头文件	c=1 d=2e-08 t=1
+dao xing 	刀行	c=1 d=2e-08 t=1
+dao ye bu bi 	倒也不必	c=1 d=2e-08 t=1
+dao zhan 	刀斩	c=1 d=2e-08 t=1
+dao zhong 	刀终	c=1 d=2e-08 t=1
+dao zhu 	刀祝	c=1 d=2e-08 t=1
+de 	的	c=6 d=4.51596 t=120
+de ai zheng 	得癌症	c=1 d=2e-08 t=1
+de dao tong yi hou 	得到同意后	c=1 d=2e-08 t=1
+de dui 	得队	c=1 d=2e-08 t=1
+de fan dui fa guo gong he fa guo he de guo 	的反对法国共和法国和德国	c=1 d=2e-08 t=1
+de fang ju 	的防具	c=1 d=2e-08 t=1
+de jie guo 	得结果	c=1 d=2e-08 t=1
+de le wei ai 	得了胃癌	c=1 d=2e-08 t=1
+de ruan a 	的软啊	c=1 d=2e-08 t=1
+de sa da 	的撒大	c=1 d=2e-08 t=1
+de she 	的设	c=1 d=2e-08 t=1
+de shi jiao da jia 	的视角大家	c=1 d=2e-08 t=1
+de sun hao 	地损耗	c=1 d=2e-08 t=1
+de wei ai 	得胃癌	c=1 d=2e-08 t=1
+de xiang 	得像	c=1 d=2e-08 t=1
+de yuan li 	德原理	c=1 d=2e-08 t=1
+de zhi yi 	地制宜	c=1 d=2e-08 t=1
+deng ai bi 	邓艾比	c=1 d=2e-08 t=1
+deng hou gan she 	等厚干涉	c=1 d=2e-08 t=1
+deng ji biao qing 	登记表请	c=1 d=2e-08 t=1
+deng jie 	等阶	c=1 d=2e-08 t=1
+deng le ma 	登了吗	c=1 d=2e-08 t=1
+deng le ma 	等了吗	c=1 d=2e-08 t=1
+deng long ku sa jia 	灯笼裤洒家	c=1 d=2e-08 t=1
+deng lu shi bai 	登陆失败	c=1 d=2e-08 t=1
+deng zhe yo 	等着哟	c=1 d=2e-08 t=1
+di dao de gou 	地道的狗	c=1 d=2e-08 t=1
+di dao ge 	地道哥	c=1 d=2e-08 t=1
+di dao gou 	地道够	c=1 d=2e-08 t=1
+di dao gou 	地道苟	c=1 d=2e-08 t=1
+di dao ye gou 	地道野狗	c=1 d=2e-08 t=1
+di dao you ren 	地道有人	c=1 d=2e-08 t=1
+di de ma 	低的吗	c=1 d=2e-08 t=1
+di duan di 	地段地	c=1 d=2e-08 t=1
+di guo zhi zi 	帝国之子	c=1 d=2e-08 t=1
+di shi er ji 	第十二集	c=1 d=2e-08 t=1
+di shi zhang 	第十张	c=1 d=2e-08 t=1
+di shi zhang pai 	第十张牌	c=1 d=2e-08 t=1
+di si ge fang fa 	第四个方法	c=1 d=2e-08 t=1
+di yi ci deng lu 	第一次登陆	c=1 d=2e-08 t=1
+di yi ci zhao sheng 	第一次招生	c=1 d=2e-08 t=1
+di yi guan dou mei 	第一关都没	c=1 d=2e-08 t=1
+di yi jie bi ye sheng 	第一届毕业生	c=1 d=2e-08 t=1
+di yi nian zhao sheng 	第一年招生	c=1 d=2e-08 t=1
+di yi shi yan lou 	第一实验楼	c=1 d=2e-08 t=1
+di yi shi yan lun 	第一是言论	c=1 d=2e-08 t=1
+di zhi chuan di 	地址传递	c=1 d=2e-08 t=1
+di zhi dian zu 	低值电阻	c=1 d=2e-08 t=1
+di zhong zi di 	地终字第	c=1 d=2e-08 t=1
+dian bu dian ming 	点不点名	c=1 d=2e-08 t=1
+dian chuan bo 	电船舶	c=1 d=2e-08 t=1
+dian ci jiao du 	电磁角度	c=1 d=2e-08 t=1
+dian ci zhuan ju 	电磁转矩	c=1 d=2e-08 t=1
+dian di de 	点滴的	c=1 d=2e-08 t=1
+dian dian quan 	点点券	c=1 d=2e-08 t=1
+dian dong guan guang che 	电动观光车	c=1 d=2e-08 t=1
+dian gong xue li mian 	电工学里面	c=1 d=2e-08 t=1
+dian ji shu 	点技术	c=1 d=2e-08 t=1
+dian ju bao le 	点举报了	c=1 d=2e-08 t=1
+dian lei 	电类	c=1 d=2e-08 t=1
+dian liu ba 	点六八	c=1 d=2e-08 t=1
+dian liu biao fen ya 	电流表分压	c=1 d=2e-08 t=1
+dian liu he 	电流和	c=1 d=2e-08 t=1
+dian liu shi 	电流式	c=1 d=2e-08 t=1
+dian liu shi liang 	电流矢量	c=1 d=2e-08 t=1
+dian mei 	电没	c=1 d=2e-08 t=1
+dian ming dan 	点名单	c=1 d=2e-08 t=1
+dian nao 	电脑	c=4 d=3.57839 t=81
+dian nao er ji 	电脑二级	c=1 d=2e-08 t=1
+dian nao guan jun 	电脑冠军	c=1 d=2e-08 t=1
+dian nao lai 	电脑来	c=1 d=2e-08 t=1
+dian nao wu fa 	电脑无法	c=1 d=2e-08 t=1
+dian nao zhu ban 	电脑主板	c=1 d=2e-08 t=1
+dian nao zhua shou ji 	电脑抓手机	c=1 d=2e-08 t=1
+dian nao zhuang 	电脑装	c=1 d=2e-08 t=1
+dian pi 	电劈	c=1 d=2e-08 t=1
+dian shi he 	点适合	c=1 d=2e-08 t=1
+dian shi kai ji 	电视开机	c=1 d=2e-08 t=1
+dian su zhi 	点素质	c=1 d=2e-08 t=1
+dian wang ren 	电网人	c=1 d=2e-08 t=1
+dian wo lin 	點硪林	c=1 d=2e-08 t=1
+dian ya biao fen liu 	电压表分流	c=1 d=2e-08 t=1
+dian ya gong zuo 	电压工作	c=1 d=2e-08 t=1
+dian ya ke ji 	电压科技	c=1 d=2e-08 t=1
+dian ya kong jian 	电压空间	c=1 d=2e-08 t=1
+dian ya shi liang 	电压矢量	c=1 d=2e-08 t=1
+dian ya zuo yong 	电压作用	c=1 d=2e-08 t=1
+dian ya zuo yong shi jian 	电压作用时间	c=1 d=2e-08 t=1
+dian zan duo da 	点赞多大	c=1 d=2e-08 t=1
+dian zhi shang 	点智商	c=1 d=2e-08 t=1
+dian zi bing li shang 	电子病历上	c=1 d=2e-08 t=1
+dian zi bing li shu ju 	电子病历数据	c=1 d=2e-08 t=1
+dian zi ying jian 	电子硬件	c=1 d=2e-08 t=1
+dian zi yuan 	电子员	c=1 d=2e-08 t=1
+dian zu yuan jian 	电阻元件	c=1 d=2e-08 t=1
+diao chan bu 	貂蝉不	c=1 d=2e-08 t=1
+diao di 	调底	c=1 d=2e-08 t=1
+diao ling dian 	调零点	c=1 d=2e-08 t=1
+diao qi kan lai fa 	吊起看来发	c=1 d=2e-08 t=1
+diao tou me 	掉头么	c=1 d=2e-08 t=1
+diao xing qi 	掉星期	c=1 d=2e-08 t=1
+diao yan ren shu 	调研人数	c=1 d=2e-08 t=1
+diao yi ban 	调一半	c=1 d=2e-08 t=1
+die fang lei 	爹防雷	c=1 d=2e-08 t=1
+die qu 	爹去	c=1 d=2e-08 t=1
+die ya 	爹呀	c=1 d=2e-08 t=1
+ding ding ding ding ding da a a 	顶顶顶顶顶大啊啊	c=1 d=2e-08 t=1
+ding du 	定度	c=1 d=2e-08 t=1
+ding ji 	定技	c=1 d=2e-08 t=1
+ding ji zha 	定技炸	c=1 d=2e-08 t=1
+ding ke ti 	定课题	c=1 d=2e-08 t=1
+ding le ke ti 	定了课题	c=1 d=2e-08 t=1
+ding liu 	顶流	c=1 d=2e-08 t=1
+ding wei dao le 	定位到了	c=1 d=2e-08 t=1
+ding yi quan xian guan li 	定义权限管理	c=1 d=2e-08 t=1
+ding yi xia ma 	顶一下吗	c=1 d=2e-08 t=1
+ding zhe ni da le 	盯着你打了	c=1 d=2e-08 t=1
+ding zi ci lian 	定子磁链	c=1 d=2e-08 t=1
+diu shan er 	丢闪而	c=1 d=2e-08 t=1
+diu tao 	丢桃	c=1 d=2e-08 t=1
+diu teng 	丢藤	c=1 d=2e-08 t=1
+diu yi ba 	丢一把	c=1 d=2e-08 t=1
+diu zhuang bei 	丢装备	c=1 d=2e-08 t=1
+dong bie 	懂别	c=1 d=2e-08 t=1
+dong bu ding ji 	东部顶级	c=1 d=2e-08 t=1
+dong di 	东底	c=1 d=2e-08 t=1
+dong dong nong cun 	东东农村	c=1 d=2e-08 t=1
+dong fa shou fa 	懂法守法	c=1 d=2e-08 t=1
+dong gan bo bo 	动感波波	c=1 d=2e-08 t=1
+dong ge 	懂哥	c=1 d=2e-08 t=1
+dong gou 	动苟	c=1 d=2e-08 t=1
+dong hua jiao hu xiang 	动画交互相	c=1 d=2e-08 t=1
+dong huo jian 	动火箭	c=1 d=2e-08 t=1
+dong jia gang 	董家钢	c=1 d=2e-08 t=1
+dong jia ge 	东价格	c=1 d=2e-08 t=1
+dong jia li dun ya 	动家里蹲呀	c=1 d=2e-08 t=1
+dong ju 	懂局	c=1 d=2e-08 t=1
+dong pi er xun xiang guan 	懂皮尔逊相关	c=1 d=2e-08 t=1
+dong piao 	东嫖	c=1 d=2e-08 t=1
+dong shan 	东闪	c=1 d=2e-08 t=1
+dong shou xue 	动手学	c=1 d=2e-08 t=1
+dong su dian 	懂速点	c=1 d=2e-08 t=1
+dong wu cheng 	东武城	c=1 d=2e-08 t=1
+dong xi dian 	东西店	c=1 d=2e-08 t=1
+dong xi ji 	东西继	c=1 d=2e-08 t=1
+dong xi mei ren 	东西没人	c=1 d=2e-08 t=1
+dong xi shan chu 	东西删除	c=1 d=2e-08 t=1
+dong xi yi 	东西一	c=1 d=2e-08 t=1
+dong xi ying 	东西硬	c=1 d=2e-08 t=1
+dong xiao feng 	董小峰	c=1 d=2e-08 t=1
+dong yo 	动哟	c=1 d=2e-08 t=1
+dong yong 	懂用	c=1 d=2e-08 t=1
+dong yun cai ju 	董允蔡狙	c=1 d=2e-08 t=1
+dong yun xiang 	董允像	c=1 d=2e-08 t=1
+dong zhou zhong 	东洲中	c=1 d=2e-08 t=1
+dong zhou zhong xin 	东洲中心	c=1 d=2e-08 t=1
+dong zi 	东自	c=1 d=2e-08 t=1
+dou bai zai zai 	都摆在在	c=1 d=2e-08 t=1
+dou bu kan de shi ba 	都不看的是吧	c=1 d=2e-08 t=1
+dou bu za hui wan 	都不咋会玩	c=1 d=2e-08 t=1
+dou da ju 	都打狙	c=1 d=2e-08 t=1
+dou de 	豆得	c=1 d=2e-08 t=1
+dou dun 	都蹲	c=1 d=2e-08 t=1
+dou duo shao nian 	都多少年	c=1 d=2e-08 t=1
+dou en 	都摁	c=1 d=2e-08 t=1
+dou fu bao 	豆腐包	c=1 d=2e-08 t=1
+dou gei le ba 	都给了吧	c=1 d=2e-08 t=1
+dou gou 	逗苟	c=1 d=2e-08 t=1
+dou gui 	都跪	c=1 d=2e-08 t=1
+dou hai mei gong zhuo 	都还没供桌	c=1 d=2e-08 t=1
+dou he zui 	都喝醉	c=1 d=2e-08 t=1
+dou ji le 	都急了	c=1 d=2e-08 t=1
+dou kao de 	都考的	c=1 d=2e-08 t=1
+dou le 	豆了	c=1 d=2e-08 t=1
+dou man de 	都满的	c=1 d=2e-08 t=1
+dou man fen 	都满分	c=1 d=2e-08 t=1
+dou mei po 	都没破	c=1 d=2e-08 t=1
+dou na 	都那	c=1 d=2e-08 t=1
+dou na jia te lin 	都拿加特林	c=1 d=2e-08 t=1
+dou na ju 	都拿狙	c=1 d=2e-08 t=1
+dou neng da wo tou 	都能打我头	c=1 d=2e-08 t=1
+dou neng fan pan 	都能翻盘	c=1 d=2e-08 t=1
+dou pao er ling 	都跑二零	c=1 d=2e-08 t=1
+dou sha 	逗杀	c=1 d=2e-08 t=1
+dou sha dao 	都杀到	c=1 d=2e-08 t=1
+dou shen me 	逗什么	c=1 d=2e-08 t=1
+dou shi dao 	都是刀	c=1 d=2e-08 t=1
+dou su o le 	都素哦了	c=1 d=2e-08 t=1
+dou xia jiao 	逗瞎叫	c=1 d=2e-08 t=1
+dou xia xian 	都下线	c=1 d=2e-08 t=1
+dou xiang dang 	都相当	c=1 d=2e-08 t=1
+dou yin qin zi 	抖音亲自	c=1 d=2e-08 t=1
+dou zhe shi hou le 	都这时候了	c=1 d=2e-08 t=1
+dou zhong 	豆种	c=1 d=2e-08 t=1
+du ding 	毒顶	c=1 d=2e-08 t=1
+du dui you 	堵队友	c=1 d=2e-08 t=1
+du gong ke 	读工科	c=1 d=2e-08 t=1
+du hang 	都航	c=1 d=2e-08 t=1
+du hang xue zhang 	都航学长	c=1 d=2e-08 t=1
+du hui bao 	读汇报	c=1 d=2e-08 t=1
+du jia 	堵家	c=1 d=2e-08 t=1
+du ju nv ren 	独具女人	c=1 d=2e-08 t=1
+du li jie 	读理解	c=1 d=2e-08 t=1
+du lu kou 	堵路口	c=1 d=2e-08 t=1
+du mei 	毒没	c=1 d=2e-08 t=1
+du pi ge 	肚皮哥	c=1 d=2e-08 t=1
+du qu nei rong 	读取内容	c=1 d=2e-08 t=1
+du wan bo shi 	读完博士	c=1 d=2e-08 t=1
+du xian bu gong 	独显不工	c=1 d=2e-08 t=1
+du xian wan you 	独显玩游	c=1 d=2e-08 t=1
+du yan kai shi 	读研开始	c=1 d=2e-08 t=1
+du yan quan 	读研全	c=1 d=2e-08 t=1
+du yi shou 	读易守	c=1 d=2e-08 t=1
+du zi gong zuo 	独自工作	c=1 d=2e-08 t=1
+duan hao 	端好	c=1 d=2e-08 t=1
+duan lu ji qi 	短路机器	c=1 d=2e-08 t=1
+duan lu jing 	短路径	c=1 d=2e-08 t=1
+duan luo bian hao 	段落编号	c=1 d=2e-08 t=1
+duan luo kai tou suo 	段落开头缩	c=1 d=2e-08 t=1
+duan luo shi 	段落是	c=1 d=2e-08 t=1
+duan sheng huo 	段生活	c=1 d=2e-08 t=1
+duan shu 	断叔	c=1 d=2e-08 t=1
+dui ai de ren ne 	对爱的人呢	c=1 d=2e-08 t=1
+dui ben wen 	对本文	c=1 d=2e-08 t=1
+dui biao ge shu ju 	对表格数据	c=1 d=2e-08 t=1
+dui chen ce liang 	对称测量	c=1 d=2e-08 t=1
+dui chen fen zu 	对称分组	c=1 d=2e-08 t=1
+dui dang de ren shi 	对党的认识	c=1 d=2e-08 t=1
+dui dui 	堆队	c=1 d=2e-08 t=1
+dui dui du 	对对都	c=1 d=2e-08 t=1
+dui jie xia ceng 	对接下层	c=1 d=2e-08 t=1
+dui nang pei 	对囊胚	c=1 d=2e-08 t=1
+dui ren jia hao dian 	对人家好点	c=1 d=2e-08 t=1
+dui shu ji 	对书记	c=1 d=2e-08 t=1
+dui xiao yuan wang shi yan 	对校园网实验	c=1 d=2e-08 t=1
+dui ying 	对应	c=1 d=1 t=109
+dui ying xue ke 	对应学科	c=1 d=2e-08 t=1
+dui yu 	对于	c=1 d=1 t=108
+dui yu fu mu 	对于父母	c=1 d=2e-08 t=1
+dui yu le 	对于了	c=1 d=2e-08 t=1
+dui zhe pian lun wen 	对这篇论文	c=1 d=2e-08 t=1
+dun jia li ne 	蹲家里呢	c=1 d=2e-08 t=1
+dun jia men kou 	蹲家门口	c=1 d=2e-08 t=1
+dun jia men kou 	顿家门口	c=1 d=2e-08 t=1
+dun lu 	蹲路	c=1 d=2e-08 t=1
+dun lu jing 	遁路径	c=1 d=2e-08 t=1
+dun lun 	盾论	c=1 d=2e-08 t=1
+dun men 	蹲门	c=1 d=2e-08 t=1
+dun men kou bu 	蹲门口不	c=1 d=2e-08 t=1
+dun men kou ka 	蹲门口卡	c=1 d=2e-08 t=1
+dun men kou song 	蹲门口送	c=1 d=2e-08 t=1
+dun yin dian 	蹲阴电	c=1 d=2e-08 t=1
+dun zhe ba 	蹲着吧	c=1 d=2e-08 t=1
+dun zhe ma 	蹲着吗	c=1 d=2e-08 t=1
+dun zi zhang 	墩子张	c=1 d=2e-08 t=1
+duo ban dian zhuan 	多搬点砖	c=1 d=2e-08 t=1
+duo ceng gan zhi ji 	多层感知机	c=1 d=2e-08 t=1
+duo chang jian 	多常见	c=1 d=2e-08 t=1
+duo da a a da a da de cong 	多大啊阿达阿达的从	c=1 d=2e-08 t=1
+duo da a da da da a 	多大啊哒哒哒啊	c=1 d=2e-08 t=1
+duo diu dian 	多丢点	c=1 d=2e-08 t=1
+duo duan 	多端	c=1 d=1 t=19
+duo ge 	多个	c=0 d=0.1 t=116
+duo ge ban 	多个伴	c=1 d=2e-08 t=1
+duo ge he bing 	多个合并	c=1 d=1 t=117
+duo ge hei 	多个黑	c=1 d=2e-08 t=1
+duo gei dian fen 	多给点分	c=1 d=2e-08 t=1
+duo gei fen 	多给分	c=1 d=2e-08 t=1
+duo gen 	躲跟	c=1 d=2e-08 t=1
+duo jia guan zhu 	多加关注	c=1 d=2e-08 t=1
+duo la a meng 	哆啦阿盟	c=1 d=2e-08 t=1
+duo la a meng 	多拉阿梦	c=1 d=2e-08 t=1
+duo le ba 	夺了八	c=1 d=2e-08 t=1
+duo li lun 	多理论	c=1 d=2e-08 t=1
+duo liu ge 	多留个	c=1 d=2e-08 t=1
+duo mo tai hou qi rong he 	多模态后期融合	c=1 d=2e-08 t=1
+duo mo tai mo xing 	多模态模型	c=1 d=2e-08 t=1
+duo mo tai rong he 	多模态融合	c=1 d=2e-08 t=1
+duo rui 	夺锐	c=1 d=2e-08 t=1
+duo rui di 	夺瑞狄	c=1 d=2e-08 t=1
+duo rui di ao 	夺瑞狄奥	c=1 d=2e-08 t=1
+duo sha ta 	多杀他	c=1 d=2e-08 t=1
+duo sha ya 	多杀呀	c=1 d=2e-08 t=1
+duo shao qiang 	多少强	c=1 d=2e-08 t=1
+duo she 	多设	c=1 d=2e-08 t=1
+duo wu li liang 	多物理量	c=1 d=2e-08 t=1
+duo xiao guo 	多效果	c=1 d=2e-08 t=1
+duo xie yi dian dian 	多谢一点点	c=1 d=2e-08 t=1
+duo yuan ne 	多远呢	c=1 d=2e-08 t=1
+duo zi liao 	多资料	c=1 d=2e-08 t=1
+duo zuo duo lian 	多做多练	c=1 d=2e-08 t=1
+e mo xian jing 	恶魔陷阱	c=1 d=2e-08 t=1
+e ting 	厄廷	c=1 d=2e-08 t=1
+e ting 	鹅廷	c=1 d=2e-08 t=1
+e ting hao sen 	厄廷好森	c=1 d=2e-08 t=1
+e ting hao sen xiao ying 	鹅廷好森效应	c=1 d=2e-08 t=1
+e xin dong xi 	恶心东西	c=1 d=2e-08 t=1
+e yi wen jian 	恶意文件	c=1 d=2e-08 t=1
+en jiang 	恩将	c=1 d=2e-08 t=1
+en jiang chou bao de 	恩将仇报的	c=1 d=2e-08 t=1
+en zhe da 	摁着打	c=1 d=2e-08 t=1
+er chu 	耳出	c=1 d=2e-08 t=1
+er dui you 	儿队友	c=1 d=2e-08 t=1
+er ge wei du 	二个纬度	c=1 d=2e-08 t=1
+er ji bei kao zhi liang 	二级备考质量	c=1 d=2e-08 t=1
+er ji jie kou 	耳机接口	c=1 d=2e-08 t=1
+er qie bu hua suan 	而且不划算	c=1 d=2e-08 t=1
+er shou lu you qi 	二手路由器	c=1 d=2e-08 t=1
+er ti chu 	而提出	c=1 d=2e-08 t=1
+er wei tong xue 	二位同学	c=1 d=2e-08 t=1
+er xue 	二学	c=1 d=2e-08 t=1
+er xue te zheng dian 	耳穴特征点	c=1 d=2e-08 t=1
+er yao wei 	二爻为	c=1 d=2e-08 t=1
+er yuan jiu xing 	二元就行	c=1 d=2e-08 t=1
+er zhao 	二找	c=1 d=2e-08 t=1
+er zi jia jia you 	儿子加加油	c=1 d=2e-08 t=1
+fa biao xiang guan lun 	发表相关论	c=1 d=2e-08 t=1
+fa ci ku 	法词库	c=1 d=2e-08 t=1
+fa de dong tai 	发的动态	c=1 d=2e-08 t=1
+fa guo gong 	法国共	c=1 d=2e-08 t=1
+fa liao tiao 	发了条	c=1 d=2e-08 t=1
+fa shan 	法闪	c=1 d=2e-08 t=1
+fa shen 	发神	c=1 d=2e-08 t=1
+fa ti 	法题	c=1 d=2e-08 t=1
+fa xian he 	发现和	c=1 d=2e-08 t=1
+fa xian zhong 	发现中	c=1 d=2e-08 t=1
+fa yu dao 	发育到	c=1 d=2e-08 t=1
+fa yun xing 	法运行	c=1 d=2e-08 t=1
+fa zhan lue man 	发展略慢	c=1 d=2e-08 t=1
+fan da xue 	范大学	c=1 d=2e-08 t=1
+fan de 	犯的	c=1 d=2e-08 t=1
+fan dou 	反都	c=1 d=2e-08 t=1
+fan er rang 	反而让	c=1 d=2e-08 t=1
+fan er xia 	反而下	c=1 d=2e-08 t=1
+fan fu tiao jie 	反复调节	c=1 d=2e-08 t=1
+fan ha ha ha 	反哈哈哈	c=1 d=2e-08 t=1
+fan jie zhi dong 	反接制动	c=1 d=2e-08 t=1
+fan juan ji ceng 	反卷积层	c=1 d=2e-08 t=1
+fan sha fan 	反杀反	c=1 d=2e-08 t=1
+fan shen me 	反什么	c=1 d=2e-08 t=1
+fan yi 	翻译	c=2 d=1.96079 t=111
+fan yi ceng 	翻译层	c=1 d=2e-08 t=1
+fan yi wen dang 	翻译文档	c=1 d=2e-08 t=1
+fan yi wo 	翻译我	c=1 d=2e-08 t=1
+fan zei bu sha zhu 	反贼不杀主	c=1 d=2e-08 t=1
+fan zei can xue 	反贼残血	c=1 d=2e-08 t=1
+fan zei can xue bu 	反贼残血不	c=1 d=2e-08 t=1
+fan zei da 	反贼打	c=1 d=2e-08 t=1
+fan zei fu zhu 	反贼辅助	c=1 d=2e-08 t=1
+fan zei huo zhe 	反贼活着	c=1 d=2e-08 t=1
+fan zei le 	反贼了	c=1 d=2e-08 t=1
+fan zei lian 	反贼脸	c=1 d=2e-08 t=1
+fan zei me 	反贼么	c=1 d=2e-08 t=1
+fan zei su ao 	反贼苏澳	c=1 d=2e-08 t=1
+fan zei wo 	反贼我	c=1 d=2e-08 t=1
+fan zheng bu hui xie 	反正不会写	c=1 d=2e-08 t=1
+fan zhu 	反祝	c=1 d=2e-08 t=1
+fan zou 	反走	c=1 d=2e-08 t=1
+fang a fei de 	方阿飞的	c=1 d=2e-08 t=1
+fang dan dan 	防弹蛋	c=1 d=2e-08 t=1
+fang dao gong zhong 	放到公众	c=1 d=2e-08 t=1
+fang de ma 	放的吗	c=1 d=2e-08 t=1
+fang diao 	防调	c=1 d=2e-08 t=1
+fang fa bu 	方法部	c=1 d=2e-08 t=1
+fang hu dun 	防护盾	c=1 d=2e-08 t=1
+fang jian li de 	房间里的	c=1 d=2e-08 t=1
+fang jin lai de 	放进来的	c=1 d=2e-08 t=1
+fang nan 	放南	c=1 d=2e-08 t=1
+fang niao 	放鸟	c=1 d=2e-08 t=1
+fang shui ping 	放水平	c=1 d=2e-08 t=1
+fang wei xin 	放微信	c=1 d=2e-08 t=1
+fang wen lu 	访问路	c=1 d=2e-08 t=1
+fang wen wang zhi 	访问网址	c=1 d=2e-08 t=1
+fang yi 	放一	c=1 d=2e-08 t=1
+fang yi shuang xie 	放一双鞋	c=1 d=2e-08 t=1
+fang zhu jin 	房主今	c=1 d=2e-08 t=1
+fei ben guo lai 	飞奔过来	c=1 d=2e-08 t=1
+fei ben wen 	非本文	c=1 d=2e-08 t=1
+fei ben xiang ni 	飞奔向你	c=1 d=2e-08 t=1
+fei chai jin 	废柴进	c=1 d=2e-08 t=1
+fei dao tou 	飞到头	c=1 d=2e-08 t=1
+fei e bu neng 	飞蛾不能	c=1 d=2e-08 t=1
+fei gou 	废苟	c=1 d=2e-08 t=1
+fei gou er zi 	费苟儿子	c=1 d=2e-08 t=1
+fei gou ji 	废苟集	c=1 d=2e-08 t=1
+fei gou ji xu 	废苟继续	c=1 d=2e-08 t=1
+fei hang zhou 	飞杭州	c=1 d=2e-08 t=1
+fei ji ben pai 	非基本牌	c=1 d=2e-08 t=1
+fei jin nang pai 	非锦囊牌	c=1 d=2e-08 t=1
+fei lv bin hun 	菲律宾混	c=1 d=2e-08 t=1
+fei mo tai 	非模态	c=1 d=2e-08 t=1
+fei na jin 	费那劲	c=1 d=2e-08 t=1
+fei nan duo 	费南多	c=1 d=2e-08 t=1
+fei ran 	飞燃	c=1 d=2e-08 t=1
+fei ruan jian 	非软件	c=1 d=2e-08 t=1
+fei suo ding 	非锁定	c=1 d=2e-08 t=1
+fei suo ding ji 	非锁定技	c=1 d=2e-08 t=1
+fei tou shang 	飞头上	c=1 d=2e-08 t=1
+fei zhu qi 	飞猪汽	c=1 d=2e-08 t=1
+fen bie jie shi 	分别解释	c=1 d=2e-08 t=1
+fen bu shi ji shu 	分布式技术	c=1 d=2e-08 t=1
+fen bu shi ji suan 	分布式计算	c=1 d=2e-08 t=1
+fen bu shi shu ju ku 	分布式数据库	c=1 d=2e-08 t=1
+fen bu shi xue xi 	分布式学习	c=1 d=2e-08 t=1
+fen duan hou 	分段后	c=1 d=2e-08 t=1
+fen fen zhong qie 	分分钟切	c=1 d=2e-08 t=1
+fen ji shu 	分技术	c=1 d=2e-08 t=1
+fen ke 	分课	c=1 d=2e-08 t=1
+fen lai 	份来	c=1 d=2e-08 t=1
+fen lun wen yue 	份论文阅	c=1 d=2e-08 t=1
+fen na me duo 	分那么多	c=1 d=2e-08 t=1
+fen nu ha 	愤怒哈	c=1 d=2e-08 t=1
+fen tai duo 	分太多	c=1 d=2e-08 t=1
+fen tou tiao 	坟头跳	c=1 d=2e-08 t=1
+fen wan 	分玩	c=1 d=2e-08 t=1
+fen xi yi xia 	分析一下	c=1 d=1 t=49
+fen xiang lun 	分享论	c=1 d=2e-08 t=1
+fen xiang wen 	分享文	c=1 d=2e-08 t=1
+fen xiang zhong 	分享中	c=1 d=2e-08 t=1
+fen zhi 	分直	c=1 d=2e-08 t=1
+fen zhi jie xian fa 	分直接先发	c=1 d=2e-08 t=1
+fen zhi li 	分支里	c=1 d=2e-08 t=1
+fen zhi xian jie 	分支限界	c=1 d=2e-08 t=1
+fen zhi xian jie fa 	分支限界法	c=1 d=2e-08 t=1
+fen zhi xian jie fa qiu 	分支限界法求	c=1 d=2e-08 t=1
+fen zhong jin 	分钟进	c=1 d=2e-08 t=1
+fen zhong miao 	分钟秒	c=1 d=2e-08 t=1
+fen zi 	份自	c=1 d=2e-08 t=1
+fen zu mi ma 	分组密码	c=1 d=2e-08 t=1
+feng ding sheng 	封顶生	c=1 d=2e-08 t=1
+feng kan 	封看	c=1 d=2e-08 t=1
+feng kuang cha 	疯狂锸	c=1 d=2e-08 t=1
+feng qi wu tong 	凤栖梧桐	c=1 d=2e-08 t=1
+feng qiang 	锋枪	c=1 d=2e-08 t=1
+feng tou tiao 	风头跳	c=1 d=2e-08 t=1
+feng you 	封有	c=1 d=2e-08 t=1
+fou he shi 	否合适	c=1 d=2e-08 t=1
+fou jian ce 	否检测	c=1 d=2e-08 t=1
+fou neng 	否能	c=1 d=2e-08 t=1
+fu chen 	傅晨	c=1 d=2e-08 t=1
+fu chuan 	符串	c=1 d=2e-08 t=1
+fu chuan li 	符串里	c=1 d=2e-08 t=1
+fu chun jiang zhen 	富春江镇	c=1 d=2e-08 t=1
+fu da 	斧打	c=1 d=2e-08 t=1
+fu da 	斧达	c=1 d=2e-08 t=1
+fu duo shao ne 	付多少呢	c=1 d=2e-08 t=1
+fu ge 	负哥	c=1 d=2e-08 t=1
+fu ge wo long 	负哥卧龙	c=1 d=2e-08 t=1
+fu le ya 	付了呀	c=1 d=2e-08 t=1
+fu le ya 	服了呀	c=1 d=2e-08 t=1
+fu ma 	服马	c=1 d=2e-08 t=1
+fu shi jing yan 	复试经验	c=1 d=2e-08 t=1
+fu wo 	辅我	c=1 d=2e-08 t=1
+fu wo qu 	扶我去	c=1 d=2e-08 t=1
+fu wu qi 	服务器	c=1 d=1 t=53
+fu wu qi ming 	服务器命	c=1 d=2e-08 t=1
+fu yu 	福语	c=1 d=2e-08 t=1
+fu zhi gong zuo 	复制工作	c=1 d=2e-08 t=1
+fu zhu sheng zhi 	辅助生殖	c=1 d=2e-08 t=1
+fu zhu sheng zhi ji shu 	辅助生殖技术	c=1 d=2e-08 t=1
+fu zhu sheng zhi jie ju 	辅助生殖结局	c=1 d=2e-08 t=1
+fu zhu ta 	辅助他	c=1 d=2e-08 t=1
+fu zuo yong 	负作用	c=1 d=2e-08 t=1
+ga de mei hua shuo 	尬的没话说	c=1 d=2e-08 t=1
+ga duo pai 	嘎多牌	c=1 d=2e-08 t=1
+ga zhu le 	尬住了	c=1 d=2e-08 t=1
+gai bang ding 	改绑定	c=1 d=2e-08 t=1
+gai bi ye 	该毕业	c=1 d=2e-08 t=1
+gai bian zi ji dui 	改变自己对	c=1 d=2e-08 t=1
+gai cheng hen 	改成很	c=1 d=2e-08 t=1
+gai dai ma 	该代码	c=1 d=2e-08 t=1
+gai de hao lei 	改的好累	c=1 d=2e-08 t=1
+gai du ge 	该读个	c=1 d=2e-08 t=1
+gai fang 	改访	c=1 d=2e-08 t=1
+gai fen bian lv 	改分辨率	c=1 d=2e-08 t=1
+gai guo le a 	改过了啊	c=1 d=2e-08 t=1
+gai jin hou de 	改进后的	c=1 d=2e-08 t=1
+gai ming cheng 	该名称	c=1 d=2e-08 t=1
+gai nian fen xi 	概念分析	c=1 d=2e-08 t=1
+gai shan ban fa 	改善办法	c=1 d=2e-08 t=1
+gai tu biao 	该图标	c=1 d=2e-08 t=1
+gai wen zhang shi 	改文章是	c=1 d=2e-08 t=1
+gai xi xi shui le 	该洗洗睡了	c=1 d=2e-08 t=1
+gai xie e 	改写额	c=1 d=2e-08 t=1
+gai xin 	改芯	c=1 d=2e-08 t=1
+gai za da 	该咋打	c=1 d=2e-08 t=1
+gai zhu ban 	改主板	c=1 d=2e-08 t=1
+gan jin zi qu 	赶紧自取	c=1 d=2e-08 t=1
+gan jiu dian qu 	干酒店去	c=1 d=2e-08 t=1
+gan kuai de 	赶快的	c=1 d=2e-08 t=1
+gan ning yong 	甘宁用	c=1 d=2e-08 t=1
+gan qing zai 	感情在	c=1 d=2e-08 t=1
+gan tong 	感同	c=1 d=2e-08 t=1
+gan wu bu dao 	感悟不到	c=1 d=2e-08 t=1
+gan xie 	感谢	c=1 d=1 t=10
+gan xing qu qu yu 	感兴趣区域	c=1 d=2e-08 t=1
+gan zhe lei 	干这类	c=1 d=2e-08 t=1
+gang chu 	钢出	c=1 d=2e-08 t=1
+gang chu lai 	钢出来	c=1 d=2e-08 t=1
+gang chu qu 	钢出去	c=1 d=2e-08 t=1
+gang da wan nao zi 	刚打完脑子	c=1 d=2e-08 t=1
+gang diu de 	刚丢的	c=1 d=2e-08 t=1
+gang du yan 	刚读研	c=1 d=2e-08 t=1
+gang fa shou 	刚发售	c=1 d=2e-08 t=1
+gang gan fang da 	杠杆放大	c=1 d=2e-08 t=1
+gang jin lai o 	刚进来哦	c=1 d=2e-08 t=1
+gang ju 	钢狙	c=1 d=2e-08 t=1
+gang mo de 	刚模的	c=1 d=2e-08 t=1
+gang qu ba 	刚去吧	c=1 d=2e-08 t=1
+gang tan tou 	刚探头	c=1 d=2e-08 t=1
+gang zou me 	刚走么	c=1 d=2e-08 t=1
+gao bai gong ji 	告白攻击	c=1 d=2e-08 t=1
+gao bie zhi lian 	告别智联	c=1 d=2e-08 t=1
+gao bu tai lai 	搞不太来	c=1 d=2e-08 t=1
+gao du fang yu 	高度防御	c=1 d=2e-08 t=1
+gao duan chang 	高端场	c=1 d=2e-08 t=1
+gao ge shi 	告格式	c=1 d=2e-08 t=1
+gao hao nei wu 	搞好内务	c=1 d=2e-08 t=1
+gao ji ji 	高级机	c=1 d=2e-08 t=1
+gao ji ruan jian 	高级软件	c=1 d=2e-08 t=1
+gao ji shu ju 	高级数据	c=1 d=2e-08 t=1
+gao ji shu ju ku 	高级数据库	c=1 d=2e-08 t=1
+gao ji shu ju ku ji shu 	高级数据库技术	c=1 d=2e-08 t=1
+gao ji zhu shou 	搞基助手	c=1 d=2e-08 t=1
+gao ji zhu shou 	搞机助手	c=1 d=2e-08 t=1
+gao ji zhu shou 	高级助手	c=1 d=2e-08 t=1
+gao jie 	告解	c=1 d=2e-08 t=1
+gao kao shu 	高考数	c=1 d=2e-08 t=1
+gao shou fang 	高手房	c=1 d=2e-08 t=1
+gao si dian zi 	高斯电子	c=1 d=2e-08 t=1
+gao tai de 	高台的	c=1 d=2e-08 t=1
+gao tai feng kuang 	高台疯狂	c=1 d=2e-08 t=1
+gao tai wo 	高台我	c=1 d=2e-08 t=1
+gao tai ya 	高台压	c=1 d=2e-08 t=1
+gao tie zhan dao 	高铁站到	c=1 d=2e-08 t=1
+gao wan lun zheng 	高玩论证	c=1 d=2e-08 t=1
+gao ya ju 	高压局	c=1 d=2e-08 t=1
+gao zhi dian 	高值电	c=1 d=2e-08 t=1
+gao zhi dian zu 	告知电阻	c=1 d=2e-08 t=1
+gao zhi dian zu 	高值电阻	c=1 d=2e-08 t=1
+gao zhi wo yi xia me 	告知我一下么	c=1 d=2e-08 t=1
+gao zhong bi ye yu 	高中毕业于	c=1 d=2e-08 t=1
+gao zhong de 	高中地	c=1 d=2e-08 t=1
+gao zhong ji shu 	高中技术	c=1 d=2e-08 t=1
+gao zhong tong 	高中同	c=1 d=2e-08 t=1
+ge ban 	个版	c=1 d=2e-08 t=1
+ge can 	个餐	c=1 d=2e-08 t=1
+ge chui zi 	哥锤子	c=1 d=2e-08 t=1
+ge da shi pin 	各大视频	c=1 d=2e-08 t=1
+ge dao ci 	哥到此	c=1 d=2e-08 t=1
+ge fei yi ge 	哥飞一个	c=1 d=2e-08 t=1
+ge fen zhi guan 	各分支管	c=1 d=2e-08 t=1
+ge fu zhi 	格复制	c=1 d=2e-08 t=1
+ge gan ning 	个甘宁	c=1 d=2e-08 t=1
+ge ge bie sha wo 	哥哥别杀我	c=1 d=2e-08 t=1
+ge ge ceng 	各个层	c=1 d=2e-08 t=1
+ge ge xian 	各个县	c=1 d=2e-08 t=1
+ge gua pi yi yang 	个瓜皮一样	c=1 d=2e-08 t=1
+ge hua lian 	歌华练	c=1 d=2e-08 t=1
+ge jia hao you 	哥加好友	c=1 d=2e-08 t=1
+ge jia you 	哥加油	c=1 d=2e-08 t=1
+ge ku 	个库	c=1 d=2e-08 t=1
+ge men yi 	哥们一	c=1 d=2e-08 t=1
+ge men yi qi 	哥们一起	c=1 d=2e-08 t=1
+ge mo 	割模	c=1 d=2e-08 t=1
+ge mo xing 	个模型	c=1 d=2e-08 t=1
+ge qu jie du 	歌曲解读	c=1 d=2e-08 t=1
+ge ren 	个人	c=1 d=1 t=28
+ge shi bu tai zheng que 	格式不太正确	c=1 d=2e-08 t=1
+ge shi hua dai ma 	格式化代码	c=1 d=2e-08 t=1
+ge shi hua shu chu 	格式化输出	c=1 d=2e-08 t=1
+ge shi nei rong 	格式内容	c=1 d=2e-08 t=1
+ge shi qu 	各市区	c=1 d=2e-08 t=1
+ge shi xiu gai 	格式修改	c=1 d=2e-08 t=1
+ge shi ying 	格适应	c=1 d=2e-08 t=1
+ge shou 	个手	c=1 d=2e-08 t=1
+ge si tai er 	个斯泰尔	c=1 d=2e-08 t=1
+ge tao 	个桃	c=1 d=2e-08 t=1
+ge tiao yi ban 	各调一半	c=1 d=2e-08 t=1
+ge wei shi 	各位是	c=1 d=2e-08 t=1
+ge xiang dian ya 	各相电压	c=1 d=2e-08 t=1
+ge ye 	各页	c=1 d=2e-08 t=1
+ge yi shi 	个意识	c=1 d=2e-08 t=1
+ge you ge de lu 	各有各的路	c=1 d=2e-08 t=1
+ge yuan 	个元	c=1 d=2e-08 t=1
+ge yue cha bu duo 	个月差不多	c=1 d=2e-08 t=1
+ge zai jian 	哥再见	c=1 d=2e-08 t=1
+ge zhang zhi du 	各章制度	c=1 d=2e-08 t=1
+ge zhong 	个忠	c=1 d=2e-08 t=1
+ge zhong mo xing 	各种模型	c=1 d=2e-08 t=1
+ge zou 	哥走	c=1 d=2e-08 t=1
+ge zu jian 	各组件	c=1 d=2e-08 t=1
+gei chu da an 	给出答案	c=1 d=2e-08 t=1
+gei dian li ya 	给点力呀	c=1 d=2e-08 t=1
+gei e ni 	给莪你	c=1 d=2e-08 t=1
+gei fen ao 	给分奥	c=1 d=2e-08 t=1
+gei fen bu shi 	给分布式	c=1 d=2e-08 t=1
+gei fen di 	给分低	c=1 d=2e-08 t=1
+gei guang 	给光	c=1 d=2e-08 t=1
+gei lu su 	给鲁肃	c=1 d=2e-08 t=1
+gei nan zhu 	给男主	c=1 d=2e-08 t=1
+gei shang mian 	给上面	c=1 d=2e-08 t=1
+gei wu guo 	给吴国	c=1 d=2e-08 t=1
+gen 	跟	c=1 d=1 t=32
+gen ben ke 	跟本科	c=1 d=2e-08 t=1
+gen da an 	跟答案	c=1 d=2e-08 t=1
+gen ju wen dang 	根据文档	c=1 d=2e-08 t=1
+gen ju xiang guan 	根据相关	c=1 d=2e-08 t=1
+gen ju xiang guan zi 	根据相关资	c=1 d=2e-08 t=1
+gen ju yi shang 	根据以上	c=1 d=2e-08 t=1
+gen nv tong shi 	跟女同事	c=1 d=2e-08 t=1
+geng bei shang 	更悲伤	c=1 d=2e-08 t=1
+geng duo pai 	更多拍	c=1 d=2e-08 t=1
+geng fang 	更方	c=1 d=2e-08 t=1
+geng lou jie dao 	更楼街道	c=1 d=2e-08 t=1
+geng sheng dian 	更省电	c=1 d=2e-08 t=1
+geng wei xun su 	更为迅速	c=1 d=2e-08 t=1
+geng you ren 	更有人	c=1 d=2e-08 t=1
+geng you shuo fu li 	更有说服力	c=1 d=2e-08 t=1
+geng you xi yin li 	更有吸引力	c=1 d=2e-08 t=1
+geng you xin fu li 	更有信服力	c=1 d=2e-08 t=1
+geng zi run 	更滋润	c=1 d=2e-08 t=1
+gong cheng liu ti 	工程流体	c=1 d=2e-08 t=1
+gong cheng neng li 	工程能力	c=1 d=2e-08 t=1
+gong er ling 	功二零	c=1 d=2e-08 t=1
+gong ge 	宫格	c=1 d=1 t=98
+gong hui ji 	公会击	c=1 d=2e-08 t=1
+gong hui lei 	公会擂	c=1 d=2e-08 t=1
+gong ju ru 	工具如	c=1 d=2e-08 t=1
+gong kai shu ju ji 	公开数据集	c=1 d=2e-08 t=1
+gong ke shuo shi 	工科硕士	c=1 d=2e-08 t=1
+gong ke shuo shi yan jiu sheng 	工科硕士研究生	c=1 d=2e-08 t=1
+gong ke zhuan ye 	工科专业	c=1 d=2e-08 t=1
+gong neng bu 	功能不	c=1 d=2e-08 t=1
+gong si zu 	公司租	c=1 d=2e-08 t=1
+gong wei qing jie 	公卫清洁	c=1 d=2e-08 t=1
+gong xian yi fen 	贡献一份	c=1 d=2e-08 t=1
+gong xin 	公新	c=1 d=2e-08 t=1
+gong xing 	供行	c=1 d=2e-08 t=1
+gong ye zhi zao shui ping 	工业制造水平	c=1 d=2e-08 t=1
+gong zhi neng 	工智能	c=1 d=2e-08 t=1
+gong zuo chi xu shi jian 	工作持续时间	c=1 d=2e-08 t=1
+gong zuo ju 	工作具	c=1 d=2e-08 t=1
+gong zuo liu cheng tu 	工作流程图	c=1 d=2e-08 t=1
+gong zuo na 	工作那	c=1 d=2e-08 t=1
+gong zuo yuan li zhong 	工作原理中	c=1 d=2e-08 t=1
+gou ba 	苟吧	c=1 d=2e-08 t=1
+gou de ba 	够的吧	c=1 d=2e-08 t=1
+gou dui 	苟对	c=1 d=2e-08 t=1
+gou er zi 	苟儿子	c=1 d=2e-08 t=1
+gou ji xu 	狗继续	c=1 d=2e-08 t=1
+gou jia li 	苟家里	c=1 d=2e-08 t=1
+gou jiao 	苟叫	c=1 d=2e-08 t=1
+gou jin wan 	苟今晚	c=1 d=2e-08 t=1
+gou lan 	钩烂	c=1 d=2e-08 t=1
+gou lan zi 	勾篮子	c=1 d=2e-08 t=1
+gou nei 	苟内	c=1 d=2e-08 t=1
+gou qi shu 	枸杞树	c=1 d=2e-08 t=1
+gou sha 	够杀	c=1 d=2e-08 t=1
+gou shui 	勾水	c=1 d=2e-08 t=1
+gou tao 	苟逃	c=1 d=2e-08 t=1
+gou tou 	狗偷	c=1 d=2e-08 t=1
+gou wan bu 	狗玩不	c=1 d=2e-08 t=1
+gou yao 	苟杳	c=1 d=2e-08 t=1
+gou yi yang 	苟一样	c=1 d=2e-08 t=1
+gou zai zi 	苟崽子	c=1 d=2e-08 t=1
+gou zha wan yi 	苟扎玩意	c=1 d=2e-08 t=1
+gou zi 	苟子	c=1 d=2e-08 t=1
+gu ding dao 	骨钉刀	c=1 d=2e-08 t=1
+gu e 	故额	c=1 d=2e-08 t=1
+gu e wai ren 	故额外人	c=1 d=2e-08 t=1
+gu er ka lou ti 	孤儿卡楼梯	c=1 d=2e-08 t=1
+gu er ni zhen bang 	孤儿你真棒	c=1 d=2e-08 t=1
+gu fen 	鼓粉	c=1 d=2e-08 t=1
+gu gan jia gou 	骨干架构	c=1 d=2e-08 t=1
+gu ge xiang ji 	谷歌相机	c=1 d=2e-08 t=1
+gu ji jia li die 	估计家里爹	c=1 d=2e-08 t=1
+gu ji mang 	估计忙	c=1 d=2e-08 t=1
+gu ji nao xue shuan 	估计脑血栓	c=1 d=2e-08 t=1
+gu lan 	股烂	c=1 d=2e-08 t=1
+gu li ne 	鼓里呢	c=1 d=2e-08 t=1
+gua pi zhan 	瓜皮站	c=1 d=2e-08 t=1
+gua sha yi yang 	刮痧一样	c=1 d=2e-08 t=1
+gua shan dian 	挂闪电	c=1 d=2e-08 t=1
+guai yi hu 	乖奕虎	c=1 d=2e-08 t=1
+guan bi ji gu 	关闭击鼓	c=1 d=2e-08 t=1
+guan cha min rui 	观察敏锐	c=1 d=2e-08 t=1
+guan dao gou 	管道狗	c=1 d=2e-08 t=1
+guan de song 	管的松	c=1 d=2e-08 t=1
+guan diao fang jian de deng zhi hou 	关掉房间的灯之后	c=1 d=2e-08 t=1
+guan jian yao su 	关键要素	c=1 d=2e-08 t=1
+guan mu 	关目	c=1 d=2e-08 t=1
+guan ru he 	管如何	c=1 d=2e-08 t=1
+guan xi bao 	关细胞	c=1 d=2e-08 t=1
+guan xin nong 	关心浓	c=1 d=2e-08 t=1
+guan yu wo he 	关于我和	c=1 d=2e-08 t=1
+guang dai an 	光带按	c=1 d=2e-08 t=1
+guang dan 	光弹	c=1 d=2e-08 t=1
+guang dian zheng 	广电整	c=1 d=2e-08 t=1
+guang gan gan 	光杆杆	c=1 d=2e-08 t=1
+guang rong qie 	光荣且	c=1 d=2e-08 t=1
+guang wei yi 	光威奕	c=1 d=2e-08 t=1
+gui a shang 	贵啊上	c=1 d=2e-08 t=1
+gui dao li 	鬼道理	c=1 d=2e-08 t=1
+gui fan hua feng ge 	规范化风格	c=1 d=2e-08 t=1
+gui hua xi lu 	规划西路	c=1 d=2e-08 t=1
+gui jia 	鬼家	c=1 d=2e-08 t=1
+gui kuai 	归快	c=1 d=2e-08 t=1
+gui me 	龟么	c=1 d=2e-08 t=1
+gun ba 	衮吧	c=1 d=2e-08 t=1
+gun kai 	衮开	c=1 d=2e-08 t=1
+gun kan 	衮看	c=1 d=2e-08 t=1
+gun xing me 	衮行么	c=1 d=2e-08 t=1
+guo bao hu 	过保护	c=1 d=2e-08 t=1
+guo bao hu de 	过保护的	c=1 d=2e-08 t=1
+guo biao zi 	国彪子	c=1 d=2e-08 t=1
+guo cheng ru 	过程如	c=1 d=2e-08 t=1
+guo dao shang 	国道上	c=1 d=2e-08 t=1
+guo di de 	过低的	c=1 d=2e-08 t=1
+guo gong chan dang 	国共产党	c=1 d=2e-08 t=1
+guo hui er shui jiao le 	过会儿睡觉了	c=1 d=2e-08 t=1
+guo ji mang he 	国际盲盒	c=1 d=2e-08 t=1
+guo jia deng 	郭嘉邓	c=1 d=2e-08 t=1
+guo jia fu zhu 	郭嘉辅助	c=1 d=2e-08 t=1
+guo jia pei he 	郭嘉配合	c=1 d=2e-08 t=1
+guo jia you 	郭嘉有	c=1 d=2e-08 t=1
+guo lai guo 	过来过	c=1 d=2e-08 t=1
+guo mian 	国面	c=1 d=2e-08 t=1
+guo ni he fen xi 	过拟合分析	c=1 d=2e-08 t=1
+guo pai liang 	过排量	c=1 d=2e-08 t=1
+guo qu hao jiu 	过去好久	c=1 d=2e-08 t=1
+guo tai bu 	国泰不	c=1 d=2e-08 t=1
+guo te se she hui 	国特色社会	c=1 d=2e-08 t=1
+guo yu 	郭昱	c=1 d=2e-08 t=1
+guo zhu gong 	过主公	c=1 d=2e-08 t=1
+ha ha ha ha ha 	哈哈哈哈哈	c=1 d=2e-08 t=1
+ha ha ha ha ha ha 	哈哈哈哈哈哈	c=1 d=2e-08 t=1
+ha ha ha ha ha ha ha 	哈哈哈哈哈哈哈	c=1 d=2e-08 t=1
+ha ha jue 	哈哈绝	c=1 d=2e-08 t=1
+ha ha ma ren 	哈哈骂人	c=1 d=2e-08 t=1
+ha juan 	哈卷	c=1 d=2e-08 t=1
+hai bang zhong 	还帮忠	c=1 d=2e-08 t=1
+hai bi ta 	还比他	c=1 d=2e-08 t=1
+hai bian san bu 	海边散步	c=1 d=2e-08 t=1
+hai bu fu he 	还不符合	c=1 d=2e-08 t=1
+hai bu tai ren shi 	还不太认识	c=1 d=2e-08 t=1
+hai bu tiao 	还不跳	c=1 d=2e-08 t=1
+hai da ju 	还大局	c=1 d=2e-08 t=1
+hai de fen 	还得分	c=1 d=2e-08 t=1
+hai de ni 	害得你	c=1 d=2e-08 t=1
+hai dou mei bian 	还都没变	c=1 d=2e-08 t=1
+hai dou na ju 	还都拿狙	c=1 d=2e-08 t=1
+hai duan zhe ju 	还端着狙	c=1 d=2e-08 t=1
+hai fang 	海房	c=1 d=2e-08 t=1
+hai gan bu qu 	还敢不去	c=1 d=2e-08 t=1
+hai hua er 	海华二	c=1 d=2e-08 t=1
+hai hua gong yu 	海华公寓	c=1 d=2e-08 t=1
+hai ji le ne 	还急了呢	c=1 d=2e-08 t=1
+hai neng suan 	还能算	c=1 d=2e-08 t=1
+hai pei he yan xi 	还配合演习	c=1 d=2e-08 t=1
+hai ren 	海人	c=1 d=2e-08 t=1
+hai shi 	还是	c=1 d=1 t=31
+hai xiang biao da shi 	海象表达式	c=1 d=2e-08 t=1
+hai xiang qi 	还想起	c=1 d=2e-08 t=1
+hai xin de 	海信的	c=1 d=2e-08 t=1
+hai xu xiu gai 	还需修改	c=1 d=2e-08 t=1
+hai yao zhua 	还要抓	c=1 d=2e-08 t=1
+hai yi ge men 	还一个们	c=1 d=2e-08 t=1
+hai you de shi hou 	还有的时候	c=1 d=2e-08 t=1
+hai you de wan 	还有得玩	c=1 d=2e-08 t=1
+hai you ji wei 	还有几位	c=1 d=2e-08 t=1
+hai you wang fa ma 	还有王法吗	c=1 d=2e-08 t=1
+hai yuan zhao 	海员照	c=1 d=2e-08 t=1
+hai zhe me duo nian 	还这么多年	c=1 d=2e-08 t=1
+hai zhuang ne 	还装呢	c=1 d=2e-08 t=1
+han guo biao zi 	韩国彪子	c=1 d=2e-08 t=1
+han hai yi 	瀚海一	c=1 d=2e-08 t=1
+han hai yi gong yu 	瀚海一公寓	c=1 d=2e-08 t=1
+han kong 	含空	c=1 d=2e-08 t=1
+han le liang ju 	喊了两句	c=1 d=2e-08 t=1
+han shu ru 	函数如	c=1 d=2e-08 t=1
+han shu xing shi 	函数形式	c=1 d=2e-08 t=1
+han xiao zhou 	韩孝周	c=1 d=2e-08 t=1
+hang dai ma 	行代码	c=1 d=2e-08 t=1
+hang qu 	杭衢	c=1 d=2e-08 t=1
+hang xue 	航学	c=1 d=2e-08 t=1
+hang zhou cai 	杭州菜	c=1 d=2e-08 t=1
+hang zhou shi 	杭州师	c=1 d=2e-08 t=1
+hao bo ge ge 	昊博哥哥	c=1 d=2e-08 t=1
+hao bo ge ge 	浩博哥哥	c=1 d=2e-08 t=1
+hao de ge wo 	好的哥我	c=1 d=2e-08 t=1
+hao de hao e de 	好的好饿的	c=1 d=2e-08 t=1
+hao de xin ge 	好的鑫哥	c=1 d=2e-08 t=1
+hao de xue jie 	好的学姐	c=1 d=2e-08 t=1
+hao di a fa na ge 	好低啊发那个	c=1 d=2e-08 t=1
+hao di qu 	好地区	c=1 d=2e-08 t=1
+hao dong xi 	好东西	c=1 d=1 t=5
+hao fa wen zhang 	好发文章	c=1 d=2e-08 t=1
+hao ge 	号隔	c=1 d=2e-08 t=1
+hao gou 	好苟	c=1 d=2e-08 t=1
+hao ji shi fen zhong 	好几十分钟	c=1 d=2e-08 t=1
+hao ming zhong 	号明忠	c=1 d=2e-08 t=1
+hao ou gou 	好欧狗	c=1 d=2e-08 t=1
+hao qi xin qiang 	好奇心强	c=1 d=2e-08 t=1
+hao sha 	号杀	c=1 d=2e-08 t=1
+hao wan bu guo 	好玩不过	c=1 d=2e-08 t=1
+hao wu huan shou 	毫无还手	c=1 d=2e-08 t=1
+hao yang 	薅羊	c=1 d=2e-08 t=1
+hao yi si wo 	好意思我	c=1 d=2e-08 t=1
+hao yuan ge 	好远个	c=1 d=2e-08 t=1
+hao zao 	号早	c=1 d=2e-08 t=1
+hao zhao 	郝昭	c=1 d=2e-08 t=1
+hao zhao ba 	郝昭吧	c=1 d=2e-08 t=1
+hao zheng li 	好整理	c=1 d=2e-08 t=1
+hao zhi shang 	号智商	c=1 d=2e-08 t=1
+he bi da 	何必打	c=1 d=2e-08 t=1
+he bing 	合并	c=0 d=0.1 t=116
+he bing dan yuan zhong 	合并单元中	c=1 d=2e-08 t=1
+he cheng dian ya shi liang 	合成电压矢量	c=1 d=2e-08 t=1
+he cheng yuan li 	合成原理	c=1 d=2e-08 t=1
+he guan bi 	何关闭	c=1 d=2e-08 t=1
+he huo shi fei 	和伙食费	c=1 d=2e-08 t=1
+he jia ru mo xing 	何加入模型	c=1 d=2e-08 t=1
+he jie guo jia 	合界郭嘉	c=1 d=2e-08 t=1
+he jin gang he jin gang 	合金钢合金钢	c=1 d=2e-08 t=1
+he lan di 	荷兰第	c=1 d=2e-08 t=1
+he li jie 	何理解	c=1 d=2e-08 t=1
+he ma dao bi 	盒马倒闭	c=1 d=2e-08 t=1
+he ping gu 	何评估	c=1 d=2e-08 t=1
+he que bao suo 	何确保所	c=1 d=2e-08 t=1
+he que ding 	何确定	c=1 d=2e-08 t=1
+he shi ji 	合时机	c=1 d=2e-08 t=1
+he shi xian 	何实现	c=1 d=2e-08 t=1
+he shi yong 	何使用	c=1 d=2e-08 t=1
+he shui de 	和谁的	c=1 d=2e-08 t=1
+he tao 	合讨	c=1 d=2e-08 t=1
+he ti 	何体	c=1 d=2e-08 t=1
+he ti huan wen jian 	何替换文件	c=1 d=2e-08 t=1
+he ti xian 	何体现	c=1 d=2e-08 t=1
+he tong lu 	和桐庐	c=1 d=2e-08 t=1
+he wei hu 	何维护	c=1 d=2e-08 t=1
+he wen han 	贺文涵	c=1 d=2e-08 t=1
+he wen han tong xue 	贺文涵同学	c=1 d=2e-08 t=1
+he xian gou 	核显够	c=1 d=2e-08 t=1
+he xian yong du xian 	核显用独显	c=1 d=2e-08 t=1
+he xian zhi 	何限制	c=1 d=2e-08 t=1
+he xu 	何需	c=1 d=2e-08 t=1
+he xuan ze 	何选择	c=1 d=2e-08 t=1
+he zhao dao 	合照到	c=1 d=2e-08 t=1
+he zi 	何自	c=1 d=2e-08 t=1
+hei gou 	黑苟	c=1 d=2e-08 t=1
+hei gou dao 	黑苟到	c=1 d=2e-08 t=1
+hei gou ya 	黑苟呀	c=1 d=2e-08 t=1
+hei pi 	黑批	c=1 d=2e-08 t=1
+hei pi guai 	黑批怪	c=1 d=2e-08 t=1
+hei sha ren 	黑杀仁	c=1 d=2e-08 t=1
+hen duo sheng fen 	很多省份	c=1 d=2e-08 t=1
+hen hao xie xie 	很好谢谢	c=1 d=2e-08 t=1
+hen nan 	狠难	c=1 d=2e-08 t=1
+hen te bie de 	很特别的	c=1 d=2e-08 t=1
+heng chi heng chi 	哼哧哼哧	c=1 d=2e-08 t=1
+heng xian gao 	横线稿	c=1 d=2e-08 t=1
+hong bai hang 	红白行	c=1 d=2e-08 t=1
+hong bao ti xian 	红包提现	c=1 d=2e-08 t=1
+hong dong zhao 	洪东招	c=1 d=2e-08 t=1
+hong guan liang 	宏观量	c=1 d=2e-08 t=1
+hong mi dian shi 	红米电视	c=1 d=2e-08 t=1
+hong ne 	宏呢	c=1 d=2e-08 t=1
+hong tao sha 	红陶莎	c=1 d=2e-08 t=1
+hong wu 	鸿物	c=1 d=2e-08 t=1
+hou gui fen 	后桂芬	c=1 d=2e-08 t=1
+hou li xie 	厚礼写	c=1 d=2e-08 t=1
+hou lu bei 	后路被	c=1 d=2e-08 t=1
+hou mian ce liang 	后面测量	c=1 d=2e-08 t=1
+hou rong he 	后融合	c=1 d=2e-08 t=1
+hou san hang 	后三行	c=1 d=2e-08 t=1
+hou tou 	候头	c=1 d=2e-08 t=1
+hou xiao 	后校	c=1 d=2e-08 t=1
+hou xu shi yan 	后续实验	c=1 d=2e-08 t=1
+hou zuo li da 	后坐力大	c=1 d=2e-08 t=1
+hu chu han 	胡楚涵	c=1 d=2e-08 t=1
+hu duo 	户多	c=1 d=2e-08 t=1
+hu gui 	胡贵	c=1 d=2e-08 t=1
+hu na 	乎那	c=1 d=2e-08 t=1
+hu nong gui 	糊弄鬼	c=1 d=2e-08 t=1
+hu zhu ma 	互助码	c=1 d=2e-08 t=1
+hua dao di 	划到底	c=1 d=2e-08 t=1
+hua dao yi dao 	花刀一道	c=1 d=2e-08 t=1
+hua hao duo 	话好多	c=1 d=2e-08 t=1
+hua hen chang shi jian 	花很长时间	c=1 d=2e-08 t=1
+hua mo kong zhi 	滑模控制	c=1 d=2e-08 t=1
+hua mo kong zhi qi 	滑模控制器	c=1 d=2e-08 t=1
+hua tai duo le 	话太多了	c=1 d=2e-08 t=1
+hua xian 	话先	c=1 d=2e-08 t=1
+hua xie 	话写	c=1 d=2e-08 t=1
+hua xue yun dong 	滑雪运动	c=1 d=2e-08 t=1
+hua xue yun dong de 	滑雪运动的	c=1 d=2e-08 t=1
+hua zhong shi 	华中师	c=1 d=2e-08 t=1
+hua zhong shi fan da 	华中师范大	c=1 d=2e-08 t=1
+huan ai gai lv 	患癌概率	c=1 d=2e-08 t=1
+huan cun ku 	缓存库	c=1 d=2e-08 t=1
+huan ge 	欢个	c=1 d=2e-08 t=1
+huan han 	欢韩	c=1 d=2e-08 t=1
+huan huo le 	换货了	c=1 d=2e-08 t=1
+huan jing shi 	环境时	c=1 d=2e-08 t=1
+huan le er 	欢乐而	c=1 d=2e-08 t=1
+huan shi yan shi le 	换实验室了	c=1 d=2e-08 t=1
+huan yao shi 	换钥匙	c=1 d=2e-08 t=1
+huan ying er zi 	欢迎儿子	c=1 d=2e-08 t=1
+huan yu 	环与	c=1 d=2e-08 t=1
+huan zhong fang shi 	换种方式	c=1 d=2e-08 t=1
+huang hun shi fen 	黄昏时分	c=1 d=2e-08 t=1
+huang hun shi fen deng 	黄昏时分等	c=1 d=2e-08 t=1
+huang jin hai 	黄金海	c=1 d=2e-08 t=1
+huang jin nei 	黄金内	c=1 d=2e-08 t=1
+huang long shao 	黄龙少	c=1 d=2e-08 t=1
+huang rong mei 	黄荣妹	c=1 d=2e-08 t=1
+huang sha na 	黄沙那	c=1 d=2e-08 t=1
+huang sha na shi 	黄沙那是	c=1 d=2e-08 t=1
+huang zhang hui 	黄章辉	c=1 d=2e-08 t=1
+hui bao zhe 	汇报者	c=1 d=2e-08 t=1
+hui bao zhong 	汇报中	c=1 d=2e-08 t=1
+hui bian de 	会变的	c=1 d=2e-08 t=1
+hui che huan 	回车换	c=1 d=2e-08 t=1
+hui de hua 	回的话	c=1 d=2e-08 t=1
+hui fu lao shi 	回复老师	c=1 d=2e-08 t=1
+hui he ai 	会和哎	c=1 d=2e-08 t=1
+hui he mie diao 	回合灭掉	c=1 d=2e-08 t=1
+hui he nei 	回合内	c=1 d=2e-08 t=1
+hui he sha ta 	回合杀他	c=1 d=2e-08 t=1
+hui he wai 	回合外	c=1 d=2e-08 t=1
+hui he zhua ren 	回合抓人	c=1 d=2e-08 t=1
+hui jia 	回加	c=1 d=2e-08 t=1
+hui jia chi wan fan 	回家吃完饭	c=1 d=2e-08 t=1
+hui jian de 	回建德	c=1 d=2e-08 t=1
+hui ju 	会狙	c=1 d=2e-08 t=1
+hui jue xin 	会决心	c=1 d=2e-08 t=1
+hui la lai 	辉拉来	c=1 d=2e-08 t=1
+hui le xiao xi 	回了消息	c=1 d=2e-08 t=1
+hui min ka 	惠民卡	c=1 d=2e-08 t=1
+hui pu da 	惠普打	c=1 d=2e-08 t=1
+hui qin ma 	回寝吗	c=1 d=2e-08 t=1
+hui shou sun 	会受损	c=1 d=2e-08 t=1
+hui tiao dong 	会跳动	c=1 d=2e-08 t=1
+hui wa yi 	灰瓦一	c=1 d=2e-08 t=1
+hui wan dian 	会玩点	c=1 d=2e-08 t=1
+hui xun 	惠寻	c=1 d=2e-08 t=1
+hui zhi 	回值	c=1 d=2e-08 t=1
+hun chi deng 	混吃等	c=1 d=2e-08 t=1
+huo che dong 	火车东	c=1 d=2e-08 t=1
+huo dan 	火蛋	c=1 d=2e-08 t=1
+huo de le ma 	获得了吗	c=1 d=2e-08 t=1
+huo dui 	货队	c=1 d=2e-08 t=1
+huo gong zi 	火攻自	c=1 d=2e-08 t=1
+huo gong zi ji 	火攻自己	c=1 d=2e-08 t=1
+huo hua chang 	火化场	c=1 d=2e-08 t=1
+huo hua de ba 	霍华德吧	c=1 d=2e-08 t=1
+huo jin shen 	或谨慎	c=1 d=2e-08 t=1
+huo li hao meng 	火力好猛	c=1 d=2e-08 t=1
+huo shan 	火扇	c=1 d=2e-08 t=1
+huo shan zi 	火扇子	c=1 d=2e-08 t=1
+huo shao wu ying 	火烧乌营	c=1 d=2e-08 t=1
+huo xing a 	火星啊	c=1 d=2e-08 t=1
+huo zhe bu bian 	或者不变	c=1 d=2e-08 t=1
+huo zhe ni ke yi 	或者你可以	c=1 d=2e-08 t=1
+huo zhe ya yun hui 	或者亚运会	c=1 d=2e-08 t=1
+ji a li dun 	急啊立顿	c=1 d=2e-08 t=1
+ji bao fa 	技爆发	c=1 d=2e-08 t=1
+ji ben bao man 	基本爆满	c=1 d=2e-08 t=1
+ji ben jie shu 	基本结束	c=1 d=2e-08 t=1
+ji ben wan dan 	基本完蛋	c=1 d=2e-08 t=1
+ji bi xu 	机必须	c=1 d=2e-08 t=1
+ji chang ning bo 	机场宁波	c=1 d=2e-08 t=1
+ji che 	己扯	c=1 d=2e-08 t=1
+ji cheng kong zhi 	集成控制	c=1 d=2e-08 t=1
+ji chou biao zhun 	记仇标准	c=1 d=2e-08 t=1
+ji chu bu yong 	基础不用	c=1 d=2e-08 t=1
+ji chu ming 	基础命	c=1 d=2e-08 t=1
+ji chu ming le 	基础命了	c=1 d=2e-08 t=1
+ji da 	己打	c=1 d=2e-08 t=1
+ji de ba nu xing 	记得把奴性	c=1 d=2e-08 t=1
+ji de bu xing 	急得不行	c=1 d=2e-08 t=1
+ji de fu zhu 	记得辅助	c=1 d=2e-08 t=1
+ji de jiang gan 	记得蒋干	c=1 d=2e-08 t=1
+ji de ma liang 	记得马良	c=1 d=2e-08 t=1
+ji fa dian ji 	急发电机	c=1 d=2e-08 t=1
+ji fa dian ji zu 	急发电机组	c=1 d=2e-08 t=1
+ji fang lian lian me 	机房练练么	c=1 d=2e-08 t=1
+ji gai 	己改	c=1 d=2e-08 t=1
+ji ge biao ge 	几个表格	c=1 d=2e-08 t=1
+ji ge fan zei 	几个反贼	c=1 d=2e-08 t=1
+ji ge shi qi 	几个十七	c=1 d=2e-08 t=1
+ji ge tao 	几个桃	c=1 d=2e-08 t=1
+ji gu san ci 	击鼓三次	c=1 d=2e-08 t=1
+ji hao hua 	级豪华	c=1 d=2e-08 t=1
+ji hao miao 	几毫秒	c=1 d=2e-08 t=1
+ji he su du 	集合速度	c=1 d=2e-08 t=1
+ji hu han shu 	几乎函数	c=1 d=2e-08 t=1
+ji hua zhou liu qu 	计划周六去	c=1 d=2e-08 t=1
+ji hui que shi duo 	机会确实多	c=1 d=2e-08 t=1
+ji huo ta 	激活他	c=1 d=2e-08 t=1
+ji ji bu tong qu yu li 	集集不同区域力	c=1 d=2e-08 t=1
+ji ji hao xue 	积极好学	c=1 d=2e-08 t=1
+ji ji huo po 	积极活泼	c=1 d=2e-08 t=1
+ji ji wan 	集集完	c=1 d=2e-08 t=1
+ji jia xi tong 	计价系统	c=1 d=2e-08 t=1
+ji jia xi tong li 	计价系统里	c=1 d=2e-08 t=1
+ji jian cha jian 	极简插件	c=1 d=2e-08 t=1
+ji jiao xue yuan 	继教学院	c=1 d=2e-08 t=1
+ji jie fan 	极接反	c=1 d=2e-08 t=1
+ji jin zhi qi dong 	机禁止启动	c=1 d=2e-08 t=1
+ji le ji le 	急了寄了	c=1 d=2e-08 t=1
+ji le ji le 	急了急了	c=1 d=2e-08 t=1
+ji le jie le 	急了接了	c=1 d=2e-08 t=1
+ji le ya 	急了呀	c=1 d=2e-08 t=1
+ji lian 	机练	c=1 d=2e-08 t=1
+ji lu bu quan 	记录不全	c=1 d=2e-08 t=1
+ji lu le yi xia 	记录了一下	c=1 d=2e-08 t=1
+ji lv chu fen ni 	纪律处分你	c=1 d=2e-08 t=1
+ji mei 	挤没	c=1 d=2e-08 t=1
+ji mei le 	挤没了	c=1 d=2e-08 t=1
+ji nan 	技南	c=1 d=2e-08 t=1
+ji neng ku 	技能库	c=1 d=2e-08 t=1
+ji neng na ge 	技能哪个	c=1 d=2e-08 t=1
+ji neng yong bu liao 	技能用不了	c=1 d=2e-08 t=1
+ji nian da ji 	鸡年大吉	c=1 d=2e-08 t=1
+ji qi xue qi 	机器学期	c=1 d=2e-08 t=1
+ji qi xue xi fang fa 	机器学习方法	c=1 d=2e-08 t=1
+ji qi xue xi mo xing 	机器学习模型	c=1 d=2e-08 t=1
+ji qi xue xi zhuan jia 	机器学习专家	c=1 d=2e-08 t=1
+ji qi xue xu 	及气血虚	c=1 d=2e-08 t=1
+ji qi zu he 	及其组合	c=1 d=2e-08 t=1
+ji qiang men kou ya 	机枪门口压	c=1 d=2e-08 t=1
+ji qiang suo tou 	机枪锁头	c=1 d=2e-08 t=1
+ji qiang ya 	机枪亚	c=1 d=2e-08 t=1
+ji qiang ya bu 	机枪呀布	c=1 d=2e-08 t=1
+ji qiang zi miao 	机枪自瞄	c=1 d=2e-08 t=1
+ji shi gao zhi wo 	及时告知我	c=1 d=2e-08 t=1
+ji shi nian jian 	几十年间	c=1 d=2e-08 t=1
+ji shu bi jiao 	技术比较	c=1 d=2e-08 t=1
+ji shu chu 	机输出	c=1 d=2e-08 t=1
+ji shu jia gou tu 	技术架构图	c=1 d=2e-08 t=1
+ji suan 	机算	c=1 d=2e-08 t=1
+ji suan bei jing 	计算北京	c=1 d=2e-08 t=1
+ji suan huan jie 	计算环节	c=1 d=2e-08 t=1
+ji suan ji chu 	计算基础	c=1 d=2e-08 t=1
+ji suan ji hang ye 	计算机行业	c=1 d=2e-08 t=1
+ji suan ji ke xue yu 	计算机科学与	c=1 d=2e-08 t=1
+ji suan ji ruan gong 	计算机软工	c=1 d=2e-08 t=1
+ji suan ji shi jue fang 	计算机视觉方	c=1 d=2e-08 t=1
+ji suan ji shi jue shu 	计算机视觉术	c=1 d=2e-08 t=1
+ji suan ji shu jue 	计算技术绝	c=1 d=2e-08 t=1
+ji suan ji xue ke 	计算机学科	c=1 d=2e-08 t=1
+ji suan ji zhuan ye ying yu 	计算机专业英语	c=1 d=2e-08 t=1
+ji suan mo kuai 	计算模块	c=1 d=2e-08 t=1
+ji suan wen jian 	计算文件	c=1 d=2e-08 t=1
+ji suan yi ge 	计算一个	c=1 d=2e-08 t=1
+ji suan zi fu chuan 	计算字符串	c=1 d=2e-08 t=1
+ji ti ge 	集体格	c=1 d=2e-08 t=1
+ji tian mang 	几天忙	c=1 d=2e-08 t=1
+ji tiao dao 	几条道	c=1 d=2e-08 t=1
+ji tong 	机统	c=1 d=2e-08 t=1
+ji tuo ji 	机脱机	c=1 d=2e-08 t=1
+ji wei 	集为	c=1 d=2e-08 t=1
+ji xie ji tuan 	机械集团	c=1 d=2e-08 t=1
+ji xing me 	机行么	c=1 d=2e-08 t=1
+ji xu dang 	继续当	c=1 d=2e-08 t=1
+ji yang 	极阳	c=1 d=2e-08 t=1
+ji yong 	集用	c=1 d=2e-08 t=1
+ji you 	集有	c=1 d=2e-08 t=1
+ji yu duo mo tai rong he 	基于多模态融合	c=1 d=2e-08 t=1
+ji yu shen du xue xi 	基于深度学习	c=1 d=2e-08 t=1
+ji zhang dian hua ka 	几张电话卡	c=1 d=2e-08 t=1
+ji zhao 	己招	c=1 d=2e-08 t=1
+ji zhi bi 	己知彼	c=1 d=2e-08 t=1
+ji zhi diu ji ben pai 	集智丢基本牌	c=1 d=2e-08 t=1
+ji zuo 	极坐	c=1 d=2e-08 t=1
+jia bi bi 	加哔哔	c=1 d=2e-08 t=1
+jia chong 	贾充	c=1 d=2e-08 t=1
+jia chu lai 	甲出来	c=1 d=2e-08 t=1
+jia dao lan 	加导览	c=1 d=2e-08 t=1
+jia deng 	家等	c=1 d=2e-08 t=1
+jia dou chu bu qu 	家都出不去	c=1 d=2e-08 t=1
+jia dun dian 	家蹲点	c=1 d=2e-08 t=1
+jia er ji 	加耳机	c=1 d=2e-08 t=1
+jia gou er 	架构而	c=1 d=2e-08 t=1
+jia gou gong cheng shi 	架构工程师	c=1 d=2e-08 t=1
+jia gou lai 	架构来	c=1 d=2e-08 t=1
+jia guo de 	加过的	c=1 d=2e-08 t=1
+jia huan 	加环	c=1 d=2e-08 t=1
+jia ju 	假狙	c=1 d=2e-08 t=1
+jia kuai fang 	加快访	c=1 d=2e-08 t=1
+jia kuai fang wen 	加快访问	c=1 d=2e-08 t=1
+jia kuai ji he 	加快集合	c=1 d=2e-08 t=1
+jia le 	加乐	c=1 d=2e-08 t=1
+jia li da 	家里达	c=1 d=2e-08 t=1
+jia li da ju 	家里打狙	c=1 d=2e-08 t=1
+jia li du 	家里都	c=1 d=2e-08 t=1
+jia li du yi nian 	家里都一年	c=1 d=2e-08 t=1
+jia li duan 	家里段	c=1 d=2e-08 t=1
+jia li dun ya 	家里蹲呀	c=1 d=2e-08 t=1
+jia li duo yu 	家里多余	c=1 d=2e-08 t=1
+jia li ju 	家里狙	c=1 d=2e-08 t=1
+jia li mei 	家里没	c=1 d=2e-08 t=1
+jia li qing ma mei 	家里青马没	c=1 d=2e-08 t=1
+jia li wang luo hao ma 	家里网络号码	c=1 d=2e-08 t=1
+jia men kou le 	家门口了	c=1 d=2e-08 t=1
+jia men kou si 	家门口死	c=1 d=2e-08 t=1
+jia mi guo de 	加密过的	c=1 d=2e-08 t=1
+jia mi suan fa zhong 	加密算法中	c=1 d=2e-08 t=1
+jia ning 	家凝	c=1 d=2e-08 t=1
+jia qi bei 	假期被	c=1 d=2e-08 t=1
+jia qing xu yin su 	加情绪因素	c=1 d=2e-08 t=1
+jia she le 	架设了	c=1 d=2e-08 t=1
+jia she yi xia 	假设一下	c=1 d=2e-08 t=1
+jia sheng chan 	家生产	c=1 d=2e-08 t=1
+jia sheng cheng yi xi lie shu zi 	夹生成一系列数字	c=1 d=2e-08 t=1
+jia shui zhu 	加水煮	c=1 d=2e-08 t=1
+jia si ren 	家死人	c=1 d=2e-08 t=1
+jia su gou 	加速苟	c=1 d=2e-08 t=1
+jia su jin xing 	加速进行	c=1 d=2e-08 t=1
+jia suo 	家锁	c=1 d=2e-08 t=1
+jia ting wang luo 	家庭网络	c=1 d=2e-08 t=1
+jia ting wang luo guan li 	家庭网络管理	c=1 d=2e-08 t=1
+jia xian 	假先	c=1 d=2e-08 t=1
+jia you huo 	家有活	c=1 d=2e-08 t=1
+jia yue 	家月	c=1 d=2e-08 t=1
+jia zai wen jian 	加载文件	c=1 d=2e-08 t=1
+jia zhang shang liang 	家长商量	c=1 d=2e-08 t=1
+jia zhi zhun ze 	价值准则	c=1 d=2e-08 t=1
+jia zhong ming 	夹重命	c=1 d=2e-08 t=1
+jia zhu 	家珠	c=1 d=2e-08 t=1
+jian 	键	c=1 d=1 t=73
+jian bian liang 	建变量	c=1 d=2e-08 t=1
+jian ce ji yu 	检测基于	c=1 d=2e-08 t=1
+jian ce mo 	检测模	c=1 d=2e-08 t=1
+jian da lun shu ti 	简答论述题	c=1 d=2e-08 t=1
+jian de da ba 	建德大巴	c=1 d=2e-08 t=1
+jian de hua 	间的话	c=1 d=2e-08 t=1
+jian de ke yun 	建德客运	c=1 d=2e-08 t=1
+jian de ke yun zhong xin 	建德客运中心	c=1 d=2e-08 t=1
+jian de na duan 	间的那段	c=1 d=2e-08 t=1
+jian de ren 	建德人	c=1 d=2e-08 t=1
+jian de yi yuan 	建德医院	c=1 d=2e-08 t=1
+jian de zhan 	建德站	c=1 d=2e-08 t=1
+jian du xue 	监督学	c=1 d=2e-08 t=1
+jian duan dian 	简短点	c=1 d=2e-08 t=1
+jian duan yi dian 	剪短一点	c=1 d=2e-08 t=1
+jian fen qu 	建分区	c=1 d=2e-08 t=1
+jian ge mian ma 	见个面吗	c=1 d=2e-08 t=1
+jian guo yun 	坚果云	c=2 d=1.80252 t=46
+jian hao 	奸好	c=1 d=2e-08 t=1
+jian hui 	奸会	c=1 d=2e-08 t=1
+jian jian can yu 	渐渐参与	c=1 d=2e-08 t=1
+jian jian xi huan ni le 	渐渐喜欢你了	c=1 d=2e-08 t=1
+jian jie 	箭节	c=1 d=2e-08 t=1
+jian jie yi dian 	简洁一点	c=1 d=2e-08 t=1
+jian ju ran 	间居然	c=1 d=2e-08 t=1
+jian kang ju 	健康局	c=1 d=2e-08 t=1
+jian kong a 	监控啊	c=1 d=2e-08 t=1
+jian li hai 	奸厉害	c=1 d=2e-08 t=1
+jian lian 	奸脸	c=1 d=2e-08 t=1
+jian lian zhi ji 	简练至极	c=1 d=2e-08 t=1
+jian liu 	检流	c=1 d=2e-08 t=1
+jian liu ji 	检流计	c=1 d=2e-08 t=1
+jian qie yi xia 	剪切一下	c=1 d=2e-08 t=1
+jian she gao xiao 	建设高校	c=1 d=2e-08 t=1
+jian she na ru 	建设纳入	c=1 d=2e-08 t=1
+jian she quan mian 	建设全面	c=1 d=2e-08 t=1
+jian she xing de 	建设性的	c=1 d=2e-08 t=1
+jian shi 	剪视	c=1 d=2e-08 t=1
+jian xian 	奸先	c=1 d=2e-08 t=1
+jian xiao pian cha 	减小偏差	c=1 d=2e-08 t=1
+jian xie cheng 	简写成	c=1 d=2e-08 t=1
+jian xin fa zhan 	艰辛发展	c=1 d=2e-08 t=1
+jian yi ma 	减一马	c=1 d=2e-08 t=1
+jian yi yang 	奸一样	c=1 d=2e-08 t=1
+jian yi zhong chen 	建议忠臣	c=1 d=2e-08 t=1
+jian yu 	剑与	c=1 d=2e-08 t=1
+jian yu yong shi 	剑与勇士	c=1 d=2e-08 t=1
+jian zhi shang 	奸智商	c=1 d=2e-08 t=1
+jiang er 	将二	c=1 d=2e-08 t=1
+jiang jie 	讲解	c=1 d=1 t=13
+jiang mu qian 	将目前	c=1 d=2e-08 t=1
+jiang shi kuai 	僵尸快	c=1 d=2e-08 t=1
+jiang wu de 	讲武德	c=1 d=2e-08 t=1
+jiang xue jin ru 	奖学金如	c=1 d=2e-08 t=1
+jiang yi shang nei rong 	将以上内容	c=1 d=2e-08 t=1
+jiang yi xia 	将以下	c=1 d=2e-08 t=1
+jiao ben huan hang 	脚本换行	c=1 d=2e-08 t=1
+jiao ben ku 	脚本库	c=1 d=2e-08 t=1
+jiao bian lo 	狡辩咯	c=1 d=2e-08 t=1
+jiao da guan zhu 	较大关注	c=1 d=2e-08 t=1
+jiao de zui xiang 	叫得最响	c=1 d=2e-08 t=1
+jiao gao wei du 	较高纬度	c=1 d=2e-08 t=1
+jiao hui jie dian 	交汇借点	c=1 d=2e-08 t=1
+jiao ji sheng 	叫几声	c=1 d=2e-08 t=1
+jiao jiao ni men 	教教你们	c=1 d=2e-08 t=1
+jiao liu bian pin 	交流变频	c=1 d=2e-08 t=1
+jiao liu ce 	交流侧	c=1 d=2e-08 t=1
+jiao liu che 	交流车	c=1 d=2e-08 t=1
+jiao liu dian ya 	交流电压	c=1 d=2e-08 t=1
+jiao liu me 	交流么	c=1 d=2e-08 t=1
+jiao liu xin hao 	交流信号	c=1 d=2e-08 t=1
+jiao liu xue shu 	交流学术	c=1 d=2e-08 t=1
+jiao mo hu 	较模糊	c=1 d=2e-08 t=1
+jiao nang wang luo 	胶囊网络	c=1 d=2e-08 t=1
+jiao o ei 	叫哦欸	c=1 d=2e-08 t=1
+jiao qi guai 	较奇怪	c=1 d=2e-08 t=1
+jiao ren xing hua 	较人性化	c=1 d=2e-08 t=1
+jiao shi bian zhi 	教师编制	c=1 d=2e-08 t=1
+jiao shou bian de 	教授变得	c=1 d=2e-08 t=1
+jiao song 	叫送	c=1 d=2e-08 t=1
+jiao suan 	交算	c=1 d=2e-08 t=1
+jiao ta shi 	脚踏实	c=1 d=2e-08 t=1
+jiao tuo gei 	交托给	c=1 d=2e-08 t=1
+jiao wei rong yi 	较为容易	c=1 d=2e-08 t=1
+jiao zheng dao 	矫正到	c=1 d=2e-08 t=1
+jiao zheng shi li 	矫正视力	c=1 d=2e-08 t=1
+jiao zheng zhi 	矫正值	c=1 d=2e-08 t=1
+jiao zhong yao 	较重要	c=1 d=2e-08 t=1
+jiao zhun gong 	校准工	c=1 d=2e-08 t=1
+jie ben 	结本	c=1 d=2e-08 t=1
+jie chu bei 	接触杯	c=1 d=2e-08 t=1
+jie chu bei bi 	接触卑鄙	c=1 d=2e-08 t=1
+jie deng ai 	界邓艾	c=1 d=2e-08 t=1
+jie dian ku 	节点库	c=1 d=2e-08 t=1
+jie du yi xia 	解读一下	c=1 d=2e-08 t=1
+jie du yi xia zhe ju hu 	解读一下这句胡	c=1 d=2e-08 t=1
+jie fa 	接伐	c=1 d=2e-08 t=1
+jie gai 	界盖	c=1 d=2e-08 t=1
+jie gao de 	阶搞得	c=1 d=2e-08 t=1
+jie gou hua shu ju 	结构化数据	c=1 d=2e-08 t=1
+jie gou san 	结构三	c=1 d=2e-08 t=1
+jie gou shi 	结构实	c=1 d=2e-08 t=1
+jie gui o 	接轨哦	c=1 d=2e-08 t=1
+jie guo gen shang mian yi yang 	结果跟上面一样	c=1 d=2e-08 t=1
+jie guo jia 	结果加	c=1 d=2e-08 t=1
+jie hai 	结还	c=1 d=2e-08 t=1
+jie ji wo 	接济我	c=1 d=2e-08 t=1
+jie jiao ren 	结交人	c=1 d=2e-08 t=1
+jie ju yu ce 	结局预测	c=1 d=2e-08 t=1
+jie jue bei bao wen ti 	解决背包问题	c=1 d=2e-08 t=1
+jie jue jian dan 	解决简单	c=1 d=2e-08 t=1
+jie ma liang 	阶马良	c=1 d=2e-08 t=1
+jie mian zu 	界面组	c=1 d=2e-08 t=1
+jie miao 	接秒	c=1 d=2e-08 t=1
+jie miao zu 	接秒组	c=1 d=2e-08 t=1
+jie nv peng you 	接女朋友	c=1 d=2e-08 t=1
+jie ru 	节如	c=1 d=2e-08 t=1
+jie shao bu 	介绍部	c=1 d=2e-08 t=1
+jie shao fen zhi 	介绍分直	c=1 d=2e-08 t=1
+jie shao li mian 	介绍里面	c=1 d=2e-08 t=1
+jie shi 	解视	c=1 d=2e-08 t=1
+jie shu guo 	阶蜀国	c=1 d=2e-08 t=1
+jie ti guo cheng 	解题过程	c=1 d=2e-08 t=1
+jie wei pian duan you 	结尾片段有	c=1 d=2e-08 t=1
+jie wei yan 	界魏延	c=1 d=2e-08 t=1
+jie wen dang 	解文档	c=1 d=2e-08 t=1
+jie wu 	阶武	c=1 d=2e-08 t=1
+jie xian bao 	界限包	c=1 d=2e-08 t=1
+jie xue zhang 	接学长	c=1 d=2e-08 t=1
+jie ying 	劫营	c=1 d=2e-08 t=1
+jie ying suo 	结营锁	c=1 d=2e-08 t=1
+jie zen me 	接怎么	c=1 d=2e-08 t=1
+jie zhe 	结者	c=1 d=2e-08 t=1
+jie zhi 	解只	c=1 d=2e-08 t=1
+jie zhuan huan cheng 	接转换成	c=1 d=2e-08 t=1
+jin bi 	仅比	c=1 d=2e-08 t=1
+jin bu qing nian 	进步青年	c=1 d=2e-08 t=1
+jin cou yi dian 	紧凑一点	c=1 d=2e-08 t=1
+jin da chang 	进大厂	c=1 d=2e-08 t=1
+jin du hui 	进度会	c=1 d=2e-08 t=1
+jin gai 	进改	c=1 d=2e-08 t=1
+jin gui jia 	进鬼家	c=1 d=2e-08 t=1
+jin hua jian de 	金华建德	c=1 d=2e-08 t=1
+jin hua wai guo yu 	金华外国语	c=1 d=2e-08 t=1
+jin lai da ba 	进来打吧	c=1 d=2e-08 t=1
+jin le jia men 	进了家门	c=1 d=2e-08 t=1
+jin liang duo gei fen 	尽量多给分	c=1 d=2e-08 t=1
+jin nang pai 	锦囊牌	c=1 d=2e-08 t=1
+jin shi 	晋势	c=1 d=2e-08 t=1
+jin wan bie xie le 	今晚别写了	c=1 d=2e-08 t=1
+jin wan bu 	今晚不	c=1 d=2e-08 t=1
+jin wan mei de huo 	今晚没得活	c=1 d=2e-08 t=1
+jin wan qing ma 	今晚青马	c=1 d=2e-08 t=1
+jin wan shang 	今晚商	c=1 d=2e-08 t=1
+jin xing jian dan 	进行简单	c=1 d=2e-08 t=1
+jin xing mei hua 	进行美化	c=1 d=2e-08 t=1
+jin xing qu fen 	进行区分	c=1 d=2e-08 t=1
+jin xing rong he 	进行融合	c=1 d=2e-08 t=1
+jin xing shi yan 	进行试验	c=1 d=2e-08 t=1
+jin xing shu ju fen xi 	进行数据分析	c=1 d=2e-08 t=1
+jin xing tiao shi 	进行调试	c=1 d=2e-08 t=1
+jin ye chao 	金叶超	c=1 d=2e-08 t=1
+jin yi bu ti sheng zi ji 	进一步提升自己	c=1 d=2e-08 t=1
+jin you 	进右	c=1 d=2e-08 t=1
+jin zhan hui bao 	进展汇报	c=1 d=2e-08 t=1
+jing dian 	经点	c=1 d=2e-08 t=1
+jing dian lun 	经典论	c=1 d=2e-08 t=1
+jing dong jiao 	京东脚	c=1 d=2e-08 t=1
+jing dong qian ku 	京东钱库	c=1 d=2e-08 t=1
+jing guo yu chu li 	经过预处理	c=1 d=2e-08 t=1
+jing ji shen 	竞技神	c=1 d=2e-08 t=1
+jing ji shen mei guo 	竞技神美国	c=1 d=2e-08 t=1
+jing ji zui hao 	经济最好	c=1 d=2e-08 t=1
+jing ming 	经明	c=1 d=2e-08 t=1
+jing shuo 	井硕	c=1 d=2e-08 t=1
+jing wan quan 	经完全	c=1 d=2e-08 t=1
+jing wu luo ri gong 	劲舞落日弓	c=1 d=2e-08 t=1
+jing xi 	京喜	c=1 d=2e-08 t=1
+jing yi dian 	精一点	c=1 d=2e-08 t=1
+jing zao 	京造	c=1 d=2e-08 t=1
+jing zao kun peng 	京造鲲鹏	c=1 d=2e-08 t=1
+jing zi qu 	井子区	c=1 d=2e-08 t=1
+jiu 	九	c=4 d=3.67419 t=97
+jiu a 	救啊	c=1 d=2e-08 t=1
+jiu bie zuo le 	就别做了	c=1 d=2e-08 t=1
+jiu bo ru 	就拨入	c=1 d=2e-08 t=1
+jiu bu huo le 	救不活了	c=1 d=2e-08 t=1
+jiu cheng 	九乘	c=1 d=2e-08 t=1
+jiu chu sha 	就出啥	c=1 d=2e-08 t=1
+jiu deng zhe he 	就等着和	c=1 d=2e-08 t=1
+jiu di ren 	救敌人	c=1 d=2e-08 t=1
+jiu diu guang 	就丢光	c=1 d=2e-08 t=1
+jiu e zhe 	就饿着	c=1 d=2e-08 t=1
+jiu fang xia 	就放下	c=1 d=2e-08 t=1
+jiu gong ge 	九宫格	c=1 d=1 t=96
+jiu gou le bei 	就够了呗	c=1 d=2e-08 t=1
+jiu huo sha 	酒火杀	c=1 d=2e-08 t=1
+jiu ji bu qing 	就记不清	c=1 d=2e-08 t=1
+jiu ji sha 	救济啥	c=1 d=2e-08 t=1
+jiu jiang ba 	就酱吧	c=1 d=2e-08 t=1
+jiu jiao ta 	就叫她	c=1 d=2e-08 t=1
+jiu ju 	就聚	c=1 d=2e-08 t=1
+jiu jue dou wo 	救决斗我	c=1 d=2e-08 t=1
+jiu kao ge 	就考个	c=1 d=2e-08 t=1
+jiu lao zi 	就老子	c=1 d=2e-08 t=1
+jiu mang ya 	救盲呀	c=1 d=2e-08 t=1
+jiu meng le 	就蒙了	c=1 d=2e-08 t=1
+jiu ni fa de 	就你发的	c=1 d=2e-08 t=1
+jiu shi hen shao 	就是很少	c=1 d=2e-08 t=1
+jiu shi o le 	就是哦了	c=1 d=2e-08 t=1
+jiu ta 	救它	c=1 d=2e-08 t=1
+jiu tao 	酒桃	c=1 d=2e-08 t=1
+jiu tiao 	酒条	c=1 d=2e-08 t=1
+jiu xin ku le 	就辛苦了	c=1 d=2e-08 t=1
+jiu xue ruo 	就削弱	c=1 d=2e-08 t=1
+jiu ye dan wei 	就业单位	c=1 d=2e-08 t=1
+jiu ye nan le 	就业难了	c=1 d=2e-08 t=1
+jiu yi ge gui 	就一个鬼	c=1 d=2e-08 t=1
+jiu yu ji 	救于吉	c=1 d=2e-08 t=1
+jiu zhe dian fen 	就这点分	c=1 d=2e-08 t=1
+jiu zhe ya 	就这呀	c=1 d=2e-08 t=1
+jiu zhou yan yi 	九州演义	c=1 d=2e-08 t=1
+jiu zuan 	就钻	c=1 d=2e-08 t=1
+ju a 	狙啊	c=1 d=2e-08 t=1
+ju bie zhan 	狙别站	c=1 d=2e-08 t=1
+ju can jie shu 	聚餐结束	c=1 d=2e-08 t=1
+ju dao 	狙到	c=1 d=2e-08 t=1
+ju fen xi 	据分析	c=1 d=2e-08 t=1
+ju ge qiu 	举个球	c=1 d=2e-08 t=1
+ju gou 	狙苟	c=1 d=2e-08 t=1
+ju hai 	狙还	c=1 d=2e-08 t=1
+ju hua da 	菊花打	c=1 d=2e-08 t=1
+ju ji wang 	狙击王	c=1 d=2e-08 t=1
+ju ji xing me 	狙击行么	c=1 d=2e-08 t=1
+ju jie shao 	句介绍	c=1 d=2e-08 t=1
+ju jue dou wo 	局决斗我	c=1 d=2e-08 t=1
+ju jue dou zhu gong 	局决斗主公	c=1 d=2e-08 t=1
+ju ku 	据库	c=1 d=2e-08 t=1
+ju le 	狙了	c=1 d=2e-08 t=1
+ju li ka 	距离卡	c=1 d=2e-08 t=1
+ju li ka si de 	距离卡死的	c=1 d=2e-08 t=1
+ju li ru xia 	举例如下	c=1 d=2e-08 t=1
+ju me 	狙么	c=1 d=2e-08 t=1
+ju mei 	狙没	c=1 d=2e-08 t=1
+ju ni 	狙你	c=1 d=2e-08 t=1
+ju sha 	局杀	c=1 d=2e-08 t=1
+ju sha 	狙啥	c=1 d=2e-08 t=1
+ju sheng huai nan 	橘生淮南	c=1 d=2e-08 t=1
+ju shi 	狙是	c=1 d=2e-08 t=1
+ju shou neng 	沮授能	c=1 d=2e-08 t=1
+ju si cai 	狙死蔡	c=1 d=2e-08 t=1
+ju suan 	句算	c=1 d=2e-08 t=1
+ju ti fei ying 	具体飞鹰	c=1 d=2e-08 t=1
+ju wo 	狙我	c=1 d=2e-08 t=1
+ju xing me 	狙行么	c=1 d=2e-08 t=1
+ju you 	狙有	c=1 d=2e-08 t=1
+ju you chuang zao xing 	具有创造性	c=1 d=2e-08 t=1
+ju you xiang guan xing 	具有相关性	c=1 d=2e-08 t=1
+ju za 	狙咋	c=1 d=2e-08 t=1
+ju zhong yao jing jin fu zhu 	举重妖精金福珠	c=1 d=2e-08 t=1
+juan ne 	卷呢	c=1 d=2e-08 t=1
+juan ren 	卷人	c=1 d=2e-08 t=1
+juan shen me 	卷什么	c=1 d=2e-08 t=1
+jue ban fa 	决办法	c=1 d=2e-08 t=1
+jue ce duan 	决策段	c=1 d=2e-08 t=1
+jue dou shui 	决斗谁	c=1 d=2e-08 t=1
+jue duan de 	决断的	c=1 d=2e-08 t=1
+jue dui an quan xing 	绝对安全性	c=1 d=2e-08 t=1
+jue dui zhi jiao da 	绝对值较大	c=1 d=2e-08 t=1
+jue jue zhi 	觉觉之	c=1 d=2e-08 t=1
+jun lue 	军略	c=1 d=2e-08 t=1
+ka ji ben pai 	卡基本牌	c=1 d=2e-08 t=1
+ka ju li 	卡距离	c=1 d=2e-08 t=1
+ka lou 	卡露	c=1 d=2e-08 t=1
+ka lou tu kou 	卡露吐口	c=1 d=2e-08 t=1
+ka lu 	卡路	c=1 d=2e-08 t=1
+ka lu kou 	卡路口	c=1 d=2e-08 t=1
+ka shan 	卡闪	c=1 d=2e-08 t=1
+ka shi jie 	卡世界	c=1 d=2e-08 t=1
+kai 	开	c=1 d=1 t=52
+kai dun 	开蹲	c=1 d=2e-08 t=1
+kai fa bu zhou 	开发步骤	c=1 d=2e-08 t=1
+kai fang hu 	开防护	c=1 d=2e-08 t=1
+kai ga 	开噶	c=1 d=2e-08 t=1
+kai gua 	开瓜	c=1 d=2e-08 t=1
+kai guan biao 	开关表	c=1 d=2e-08 t=1
+kai ji 	开击	c=1 d=2e-08 t=1
+kai ji deng lu 	开机登陆	c=1 d=2e-08 t=1
+kai jing 	开京	c=1 d=2e-08 t=1
+kai le ge fang 	开了个房	c=1 d=2e-08 t=1
+kai sha le 	开啥了	c=1 d=2e-08 t=1
+kai shi shi jie 	开始世界	c=1 d=2e-08 t=1
+kai su 	开速	c=1 d=2e-08 t=1
+kai suo tou 	开锁头	c=1 d=2e-08 t=1
+kai yuan dai ma 	开源代码	c=1 d=2e-08 t=1
+kan bi hua tuo 	堪比华佗	c=1 d=2e-08 t=1
+kan bu chu de 	看不出的	c=1 d=2e-08 t=1
+kan bu tai chu 	看不太出	c=1 d=2e-08 t=1
+kan chuan yi qie 	看穿一切	c=1 d=2e-08 t=1
+kan cuo wen jian 	看错文件	c=1 d=2e-08 t=1
+kan da ge biao yan 	看大哥表演	c=1 d=2e-08 t=1
+kan de shang yan 	看得上眼	c=1 d=2e-08 t=1
+kan de wo 	看的我	c=1 d=2e-08 t=1
+kan gou zi 	看苟子	c=1 d=2e-08 t=1
+kan jia men kou sha 	看家门口啥	c=1 d=2e-08 t=1
+kan jian fang 	看见房	c=1 d=2e-08 t=1
+kan jian jia te lin 	看见加特林	c=1 d=2e-08 t=1
+kan jian ne 	看见呢	c=1 d=2e-08 t=1
+kan jian zhong jie zhe 	看见终结者	c=1 d=2e-08 t=1
+kan lai hai shi 	看来海事	c=1 d=2e-08 t=1
+kan lou ti 	看楼梯	c=1 d=2e-08 t=1
+kan mian zi 	看面子	c=1 d=2e-08 t=1
+kan ta de 	看她的	c=1 d=2e-08 t=1
+kan tai dong 	看太懂	c=1 d=2e-08 t=1
+kan wo fa 	看我发	c=1 d=2e-08 t=1
+kan xian shi ping 	看显示屏	c=1 d=2e-08 t=1
+kan xiao 	看笑	c=1 d=2e-08 t=1
+kan xiao le 	看笑了	c=1 d=2e-08 t=1
+kan xue 	砍血	c=1 d=2e-08 t=1
+kan yu 	看余	c=1 d=2e-08 t=1
+kang de zhu nan 	扛得住南	c=1 d=2e-08 t=1
+kang liang lun 	康两轮	c=1 d=2e-08 t=1
+kang yong bo 	康永波	c=1 d=2e-08 t=1
+kao bian le 	考编了	c=1 d=2e-08 t=1
+kao bian zhi 	考编制	c=1 d=2e-08 t=1
+kao gong kao bian 	考公考编	c=1 d=2e-08 t=1
+kao gong ke 	考公科	c=1 d=2e-08 t=1
+kao guo qi 	考国企	c=1 d=2e-08 t=1
+kao shang duo hao 	考上多好	c=1 d=2e-08 t=1
+kao shi a wang 	考试阿旺	c=1 d=2e-08 t=1
+kao shi da 	考试大	c=1 d=2e-08 t=1
+kao shi qian dao dan 	考试签到单	c=1 d=2e-08 t=1
+kao shi ye dan wei 	考事业单位	c=1 d=2e-08 t=1
+kao yan he 	考验和	c=1 d=2e-08 t=1
+kao yan ren shu 	考研人数	c=1 d=2e-08 t=1
+kao yan zhe 	考验着	c=1 d=2e-08 t=1
+ke 	可	c=1 d=1 t=77
+ke bi 	可闭	c=1 d=2e-08 t=1
+ke bian xing juan ji wang luo 	可变性卷积网络	c=1 d=2e-08 t=1
+ke biao da 	课表打	c=1 d=2e-08 t=1
+ke cheng ming zi 	课程名字	c=1 d=2e-08 t=1
+ke dao chu 	可导出	c=1 d=2e-08 t=1
+ke dao jiao 	磕到脚	c=1 d=2e-08 t=1
+ke fa yu dao 	可发遇到	c=1 d=2e-08 t=1
+ke fu 	科赋	c=1 d=2e-08 t=1
+ke he 	科核	c=1 d=2e-08 t=1
+ke ji gang 	科技岗	c=1 d=2e-08 t=1
+ke ji gang 	科技杠	c=1 d=2e-08 t=1
+ke ji gou 	科技苟	c=1 d=2e-08 t=1
+ke jin wu 	氪金武	c=1 d=2e-08 t=1
+ke li tu 	颗粒图	c=1 d=2e-08 t=1
+ke liao de 	可聊的	c=1 d=2e-08 t=1
+ke neng bu cuo 	可能不错	c=1 d=2e-08 t=1
+ke neng zhen shi 	可能真是	c=1 d=2e-08 t=1
+ke qin 	柯琴	c=1 d=2e-08 t=1
+ke sheng 	科生	c=1 d=2e-08 t=1
+ke tai ci ji le 	可太刺激了	c=1 d=2e-08 t=1
+ke ti yan jiu bei jing 	课题研究背景	c=1 d=2e-08 t=1
+ke wo he ge 	可我合格	c=1 d=2e-08 t=1
+ke xi bu 	可惜不	c=1 d=2e-08 t=1
+ke xuan xiang hen duo 	可选项很多	c=1 d=2e-08 t=1
+ke xun lian 	可训练	c=1 d=2e-08 t=1
+ke yan xiang mu hui bao 	科研项目汇报	c=1 d=2e-08 t=1
+ke yao yan 	颗耀眼	c=1 d=2e-08 t=1
+ke yi la zhuang bei 	可以拉装备	c=1 d=2e-08 t=1
+ke yi se 	可以色	c=1 d=2e-08 t=1
+ke yi she 	可以设	c=1 d=2e-08 t=1
+ke zhong ke fan 	克重可凡	c=1 d=2e-08 t=1
+ken gong zuo 	恳工作	c=1 d=2e-08 t=1
+keng huo dui 	坑货队	c=1 d=2e-08 t=1
+keng si dui you 	坑死队友	c=1 d=2e-08 t=1
+kong ba 	空把	c=1 d=2e-08 t=1
+kong cao zuo 	空操作	c=1 d=2e-08 t=1
+kong ge tian 	空格填	c=1 d=2e-08 t=1
+kong jian dian ya shi liang 	空间电压矢量	c=1 d=2e-08 t=1
+kong jian shi liang 	空间矢量	c=1 d=2e-08 t=1
+kong jian si 	空间斯	c=1 d=2e-08 t=1
+kong ju 	控距	c=1 d=2e-08 t=1
+kong le 	控乐	c=1 d=2e-08 t=1
+kong luo luo de 	空落落的	c=1 d=2e-08 t=1
+kong shan dian a 	控闪电啊	c=1 d=2e-08 t=1
+kong shi jian 	空时间	c=1 d=2e-08 t=1
+kong yi sheng 	空一声	c=1 d=2e-08 t=1
+kong zai shi 	空载时	c=1 d=2e-08 t=1
+kong zhi bu zhu de xiao 	控制不住地笑	c=1 d=2e-08 t=1
+kong zhi guo cheng zhong 	控制过程中	c=1 d=2e-08 t=1
+kong zhi xi tong zhong 	控制系统中	c=1 d=2e-08 t=1
+kou ben 	口本	c=1 d=2e-08 t=1
+kou bie dong 	口别动	c=1 d=2e-08 t=1
+kou chang 	口常	c=1 d=2e-08 t=1
+kou gu ding 	口固定	c=1 d=2e-08 t=1
+kou ka 	口卡	c=1 d=2e-08 t=1
+kou ka wo 	口卡我	c=1 d=2e-08 t=1
+kou lo 	口咯	c=1 d=2e-08 t=1
+kou me 	口么	c=1 d=2e-08 t=1
+kou shi xin fei de 	口是心非地	c=1 d=2e-08 t=1
+kou shou lei 	口手雷	c=1 d=2e-08 t=1
+kou song 	口送	c=1 d=2e-08 t=1
+kou xian ti zhi 	口嫌体直	c=1 d=2e-08 t=1
+kou xing me 	口行么	c=1 d=2e-08 t=1
+kou yun shu ju 	口运输局	c=1 d=2e-08 t=1
+kou zi shang 	口子上	c=1 d=2e-08 t=1
+ku dang kong 	裤裆空	c=1 d=2e-08 t=1
+ku dang kou 	裤裆扣	c=1 d=2e-08 t=1
+ku dang li dian 	裤裆里点	c=1 d=2e-08 t=1
+ku dang li mian 	裤裆里面	c=1 d=2e-08 t=1
+ku shou 	酷兽	c=1 d=2e-08 t=1
+ku xia 	库下	c=1 d=2e-08 t=1
+ku xia lai 	库下来	c=1 d=2e-08 t=1
+ku zhuang 	库装	c=1 d=2e-08 t=1
+kua yue cai hong 	跨越彩虹	c=1 d=2e-08 t=1
+kuai gun 	快衮	c=1 d=2e-08 t=1
+kui ke yi 	傀可以	c=1 d=2e-08 t=1
+kui lai 	傀来	c=1 d=2e-08 t=1
+kuo chong yi dian 	扩充一点	c=1 d=2e-08 t=1
+kuo e 	扩额	c=1 d=2e-08 t=1
+la ji dui 	垃圾队	c=1 d=2e-08 t=1
+la kua 	拉跨	c=1 d=2e-08 t=1
+la tuo fa 	拉脱法	c=1 d=2e-08 t=1
+lai bu ji gan 	来不及干	c=1 d=2e-08 t=1
+lai chan sheng 	来产生	c=1 d=2e-08 t=1
+lai dao wo shen bian 	来到我身边	c=1 d=2e-08 t=1
+lai dian pai 	来点牌	c=1 d=2e-08 t=1
+lai fei pai 	莱斐派	c=1 d=2e-08 t=1
+lai ge shan 	来个闪	c=1 d=2e-08 t=1
+lai hui kai 	来回开	c=1 d=2e-08 t=1
+lai hui kao 	来回考	c=1 d=2e-08 t=1
+lai huo hai 	来祸害	c=1 d=2e-08 t=1
+lai huo hai ren 	来祸害人	c=1 d=2e-08 t=1
+lai liang 	来量	c=1 d=2e-08 t=1
+lai liang dao 	来两刀	c=1 d=2e-08 t=1
+lai pi se 	赖皮色	c=1 d=2e-08 t=1
+lai pi se zhu gong nan 	赖皮色主公难	c=1 d=2e-08 t=1
+lai zhao ni la 	来找你啦	c=1 d=2e-08 t=1
+lai zi tai guo 	来自泰国	c=1 d=2e-08 t=1
+lan cang ku 	烂仓库	c=1 d=2e-08 t=1
+lan juan wen dang 	览卷文档	c=1 d=2e-08 t=1
+lan ku dang 	烂裤裆	c=1 d=2e-08 t=1
+lan ni tan 	烂泥潭	c=1 d=2e-08 t=1
+lan qiao bei liao ning sai qu 	蓝桥杯辽宁赛区	c=1 d=2e-08 t=1
+lan rui 	蓝睿	c=1 d=2e-08 t=1
+lang dang de 	浪荡的	c=1 d=2e-08 t=1
+lang man chang jing 	浪漫场景	c=1 d=2e-08 t=1
+lao jia de hao 	老家的号	c=1 d=2e-08 t=1
+lao jie mian 	老界面	c=1 d=2e-08 t=1
+lao ke 	老课	c=1 d=2e-08 t=1
+lao ke ti 	老课题	c=1 d=2e-08 t=1
+lao mu tou 	老木头	c=1 d=2e-08 t=1
+lao tou yao shi 	老头要是	c=1 d=2e-08 t=1
+lao xiong ni 	老兄你	c=1 d=2e-08 t=1
+lao ya 	佬呀	c=1 d=2e-08 t=1
+lao yan zhou 	老严州	c=1 d=2e-08 t=1
+lao zhen 	佬真	c=1 d=2e-08 t=1
+lao zi bei 	老子呗	c=1 d=2e-08 t=1
+lao zi chou 	老子抽	c=1 d=2e-08 t=1
+lao zi fan 	老子反	c=1 d=2e-08 t=1
+lao zi shu 	老子书	c=1 d=2e-08 t=1
+lao zi yi 	老子一	c=1 d=2e-08 t=1
+le du 	勒杜	c=1 d=2e-08 t=1
+le du ke 	勒杜克	c=1 d=2e-08 t=1
+le du ke xiao yuan 	勒杜克校园	c=1 d=2e-08 t=1
+le guan sheng huo 	乐观生活	c=1 d=2e-08 t=1
+le he he de 	乐呵呵地	c=1 d=2e-08 t=1
+le kong 	乐控	c=1 d=2e-08 t=1
+le zhu 	乐主	c=1 d=2e-08 t=1
+le zhu gong 	乐主公	c=1 d=2e-08 t=1
+lei gu he 	擂鼓和	c=1 d=2e-08 t=1
+lei pan 	雷攀	c=1 d=2e-08 t=1
+lei shen me 	雷什么	c=1 d=2e-08 t=1
+lei si de 	类似地	c=1 d=2e-08 t=1
+lei si ge shi 	类似格式	c=1 d=2e-08 t=1
+li 	李	c=1 d=1 t=87
+li bao kai 	礼包开	c=1 d=2e-08 t=1
+li bi 	理必	c=1 d=2e-08 t=1
+li bu 	里部	c=1 d=2e-08 t=1
+li fen 	例分	c=1 d=2e-08 t=1
+li gu nu 	里古努	c=1 d=2e-08 t=1
+li hai bi 	厉害必	c=1 d=2e-08 t=1
+li hang zhou 	离杭州	c=1 d=2e-08 t=1
+li ji 	里纪	c=1 d=2e-08 t=1
+li jia bu yuan 	离家不远	c=1 d=2e-08 t=1
+li jia lu 	李佳璐	c=1 d=2e-08 t=1
+li jia lu 	李佳鲁	c=1 d=2e-08 t=1
+li ju ti 	例具体	c=1 d=2e-08 t=1
+li kai yi yuan hou 	离开医院后	c=1 d=2e-08 t=1
+li ke fen shou 	立刻分手	c=1 d=2e-08 t=1
+li ke sheng jin e 	理科生金额	c=1 d=2e-08 t=1
+li kou 	力扣	c=1 d=2e-08 t=1
+li pei ran 	李沛然	c=1 d=2e-08 t=1
+li sha xiang 	离沙箱	c=1 d=2e-08 t=1
+li shi tian qi 	历史天气	c=1 d=2e-08 t=1
+li shi zi 	历史资	c=1 d=2e-08 t=1
+li wu jiang 	力武将	c=1 d=2e-08 t=1
+li xin 	璃心	c=1 d=2e-08 t=1
+li xing tao 	黎兴涛	c=1 d=2e-08 t=1
+li ying xiang 	利影响	c=1 d=2e-08 t=1
+li yu yu fang 	利于预防	c=1 d=2e-08 t=1
+li zhi en 	李智恩	c=1 d=2e-08 t=1
+li zhi en 	李知恩	c=1 d=2e-08 t=1
+li zou 	李走	c=1 d=2e-08 t=1
+lia cui 	俩脆	c=1 d=2e-08 t=1
+lia dou sha 	俩都杀	c=1 d=2e-08 t=1
+lia xue zhang 	俩学长	c=1 d=2e-08 t=1
+lian ai bo fang lie biao 	恋爱播放列表	c=1 d=1 t=6
+lian ai shi ji 	恋爱世纪	c=1 d=2e-08 t=1
+lian bang xue xi 	联邦学习	c=1 d=2e-08 t=1
+lian bang xue xi huo 	联邦学习或	c=1 d=2e-08 t=1
+lian biao shi bu shi 	链表是不是	c=1 d=2e-08 t=1
+lian cuo le 	练错了	c=1 d=2e-08 t=1
+lian gou ta 	连勾他	c=1 d=2e-08 t=1
+lian huai 	练坏	c=1 d=2e-08 t=1
+lian jie fang 	连接方	c=1 d=2e-08 t=1
+lian jie fu 	连接扶	c=1 d=2e-08 t=1
+lian jie yuan 	连接远	c=1 d=2e-08 t=1
+lian lian me 	练练么	c=1 d=2e-08 t=1
+lian me 	脸么	c=1 d=2e-08 t=1
+lian shao 	连烧	c=1 d=2e-08 t=1
+lian shou 	连收	c=1 d=2e-08 t=1
+lian ta 	连它	c=1 d=1 t=59
+lian wei 	连位	c=1 d=2e-08 t=1
+lian wei pi 	连位匹	c=1 d=2e-08 t=1
+lian xiang 	联想	c=3 d=2.82344 t=91
+lian ya 	怜呀	c=1 d=2e-08 t=1
+lian yu hong 	炼狱宏	c=1 d=2e-08 t=1
+liang a ge 	两阿哥	c=1 d=2e-08 t=1
+liang bu liao 	亮不了	c=1 d=2e-08 t=1
+liang bu shou ji ma 	两部手机嘛	c=1 d=2e-08 t=1
+liang jian 	量减	c=1 d=2e-08 t=1
+liang ning sheng 	梁宁生	c=1 d=2e-08 t=1
+liang qi 	凉企	c=1 d=2e-08 t=1
+liang ren shui 	两人谁	c=1 d=2e-08 t=1
+liang wan yi 	两万亿	c=1 d=2e-08 t=1
+liang zhong zhi 	两种值	c=1 d=2e-08 t=1
+liao cao shou chang 	潦草收场	c=1 d=2e-08 t=1
+liao jie yi dian 	了解一点	c=1 d=2e-08 t=1
+liao ning sai qu 	辽宁赛区	c=1 d=2e-08 t=1
+liao shen fen 	辽身份	c=1 d=2e-08 t=1
+liao tian guo 	聊天过	c=1 d=2e-08 t=1
+liao tong xiao 	聊通宵	c=1 d=2e-08 t=1
+liao xi e 	辽西恶	c=1 d=2e-08 t=1
+liao xu xin 	廖旭鑫	c=1 d=2e-08 t=1
+liao xu xun 	聊许逊	c=1 d=2e-08 t=1
+liao yi xia tian 	聊一下天	c=1 d=2e-08 t=1
+liao zhe me duo 	了这么多	c=1 d=2e-08 t=1
+lie chu biao ge 	列出表格	c=1 d=2e-08 t=1
+lie hu zhe 	猎狐者	c=1 d=2e-08 t=1
+lie ju yi xia 	列举一下	c=1 d=2e-08 t=1
+lie lao shi 	列老师	c=1 d=2e-08 t=1
+lie long er 	烈龙二	c=1 d=2e-08 t=1
+lie qi 	列其	c=1 d=2e-08 t=1
+lie shan 	列删	c=1 d=2e-08 t=1
+lie shi 	列是	c=1 d=2e-08 t=1
+lie suo yin 	列索引	c=1 d=2e-08 t=1
+lie xun lian 	列训练	c=1 d=2e-08 t=1
+lin chuan shu ju 	临川数据	c=1 d=2e-08 t=1
+lin chuan te zheng 	临川特征	c=1 d=2e-08 t=1
+lin chuang jie gou hua 	临床结构化	c=1 d=2e-08 t=1
+lin chuang shu ju 	临床数据	c=1 d=2e-08 t=1
+lin chuang te zheng 	临床特征	c=1 d=2e-08 t=1
+lin lian bang 	林联邦	c=1 d=2e-08 t=1
+lin shi mi ma 	临时密码	c=1 d=2e-08 t=1
+ling dian ya shi liang 	零电压矢量	c=1 d=2e-08 t=1
+ling ge jiang li 	另个奖励	c=1 d=2e-08 t=1
+ling gong hui 	领公会	c=1 d=2e-08 t=1
+ling jian zhuang 	零件装	c=1 d=2e-08 t=1
+ling jing 	领京	c=1 d=2e-08 t=1
+ling mo pai 	灵摸牌	c=1 d=2e-08 t=1
+ling qu hong bao 	领取红包	c=1 d=2e-08 t=1
+ling tou che qi 	领头车企	c=1 d=2e-08 t=1
+ling yi fen 	零一分	c=1 d=2e-08 t=1
+ling yi ge shi 	另一个市	c=1 d=2e-08 t=1
+ling yi ge xue zhe 	另一个学者	c=1 d=2e-08 t=1
+ling yi shou ge 	另一首歌	c=1 d=2e-08 t=1
+liu bei mei 	刘备没	c=1 d=2e-08 t=1
+liu bei zhi 	刘备直	c=1 d=2e-08 t=1
+liu biao kai 	刘表开	c=1 d=2e-08 t=1
+liu bu zhu ta 	留不住他	c=1 d=2e-08 t=1
+liu chang wan 	流畅玩	c=1 d=2e-08 t=1
+liu dian zuo ye 	留点作业	c=1 d=2e-08 t=1
+liu feng a 	刘封啊	c=1 d=2e-08 t=1
+liu feng na 	刘封哪	c=1 d=2e-08 t=1
+liu feng ya 	刘封呀	c=1 d=2e-08 t=1
+liu feng you 	刘封又	c=1 d=2e-08 t=1
+liu feng you 	刘封有	c=1 d=2e-08 t=1
+liu ge tao zi 	留个桃子	c=1 d=2e-08 t=1
+liu ji dong 	刘继东	c=1 d=2e-08 t=1
+liu lan qi kai qi le 	浏览器开启了	c=1 d=2e-08 t=1
+liu mi ma 	六密码	c=1 d=2e-08 t=1
+liu mi ma 	流密码	c=1 d=2e-08 t=1
+liu ning hang 	刘宁杭	c=1 d=2e-08 t=1
+liu qi hai 	刘琦还	c=1 d=2e-08 t=1
+liu sha fang ta 	留杀防他	c=1 d=2e-08 t=1
+liu shan 	留闪	c=1 d=2e-08 t=1
+liu tao 	留桃	c=1 d=2e-08 t=1
+liu wei tong xue 	六位同学	c=1 d=2e-08 t=1
+liu xiang feng mian 	刘翔封面	c=1 d=2e-08 t=1
+liu xing fan zei bu 	流行反贼不	c=1 d=2e-08 t=1
+lou jian 	漏捡	c=1 d=2e-08 t=1
+lou ti kou du ren 	楼梯口渡人	c=1 d=2e-08 t=1
+lu guang 	录光	c=1 d=2e-08 t=1
+lu jing dao 	路径到	c=1 d=2e-08 t=1
+lu lian 	露脸	c=1 d=2e-08 t=1
+lu mo ban 	录模板	c=1 d=2e-08 t=1
+lu qu gui ze 	录取规则	c=1 d=2e-08 t=1
+lu ren fang 	路人房	c=1 d=2e-08 t=1
+lu wei bing 	卢伟冰	c=1 d=2e-08 t=1
+lu xian 	录先	c=1 d=2e-08 t=1
+lu xue zhang 	卢学长	c=1 d=2e-08 t=1
+lu ya 	路压	c=1 d=2e-08 t=1
+lu you qu 	路由去	c=1 d=2e-08 t=1
+lu zhan bo 	陆展博	c=1 d=2e-08 t=1
+lu zhi 	鲁芝	c=1 d=2e-08 t=1
+luan diu shan 	乱丢闪	c=1 d=2e-08 t=1
+luan dou tuan 	乱斗团	c=1 d=2e-08 t=1
+luan zang 	乱葬	c=1 d=2e-08 t=1
+lue shuo ci 	略说词	c=1 d=2e-08 t=1
+lun da 	轮打	c=1 d=2e-08 t=1
+lun da si 	轮打死	c=1 d=2e-08 t=1
+lun liu xie 	轮流写	c=1 d=2e-08 t=1
+lun miao 	轮秒	c=1 d=2e-08 t=1
+lun pi 	轮劈	c=1 d=2e-08 t=1
+lun ta 	轮他	c=1 d=2e-08 t=1
+lun wen di 	论文第	c=1 d=2e-08 t=1
+lun wen fang 	论文方	c=1 d=2e-08 t=1
+lun wen jie 	论文解	c=1 d=2e-08 t=1
+lun wen liang 	论文亮	c=1 d=2e-08 t=1
+lun wen shi yan xiao guo 	论文实验效果	c=1 d=2e-08 t=1
+lun wen tong 	论文同	c=1 d=2e-08 t=1
+lun wen wen zhang 	论文文章	c=1 d=2e-08 t=1
+lun wen xie 	论文写	c=1 d=2e-08 t=1
+lun wen xie zuo zhi dao 	论文写作指导	c=1 d=2e-08 t=1
+lun wen yue 	论文阅	c=1 d=2e-08 t=1
+lun wen yue du 	论文月度	c=1 d=2e-08 t=1
+lun you 	轮游	c=1 d=2e-08 t=1
+lun zhi 	轮直	c=1 d=2e-08 t=1
+luo di ni ya 	罗迪尼亚	c=1 d=2e-08 t=1
+luo meng zi 	罗梦姿	c=1 d=2e-08 t=1
+lv se pian 	滤色片	c=1 d=2e-08 t=1
+ma 	吗	c=1 d=1 t=37
+ma bao 	马报	c=1 d=2e-08 t=1
+ma bao guo 	马保国	c=1 d=2e-08 t=1
+ma bao guo 	马报过	c=1 d=2e-08 t=1
+ma bu 	马不	c=1 d=2e-08 t=1
+ma chai le 	马拆乐	c=1 d=2e-08 t=1
+ma chao ming 	马超明	c=1 d=2e-08 t=1
+ma de gang cai 	玛德刚才	c=1 d=2e-08 t=1
+ma de lao zi 	玛德老子	c=1 d=2e-08 t=1
+ma de le 	玛德了	c=1 d=2e-08 t=1
+ma de ni 	玛德你	c=1 d=2e-08 t=1
+ma de pei zhi 	玛德配置	c=1 d=2e-08 t=1
+ma de wei zhi 	玛德位置	c=1 d=2e-08 t=1
+ma de xiao si 	玛德笑死	c=1 d=2e-08 t=1
+ma de yi ju you xi 	玛德一句游戏	c=1 d=2e-08 t=1
+ma de zuo zhe 	玛德作者	c=1 d=2e-08 t=1
+ma gei 	妈给	c=1 d=2e-08 t=1
+ma gei bi 	妈给逼	c=1 d=2e-08 t=1
+ma le ba 	麻了吧	c=1 d=2e-08 t=1
+ma le pi 	妈了皮	c=1 d=2e-08 t=1
+ma liang hui 	马良会	c=1 d=2e-08 t=1
+ma ma men shi shang pin pai 	妈妈们时尚品牌	c=1 d=2e-08 t=1
+ma mei 	马没	c=1 d=2e-08 t=1
+ma shi 	嫲视	c=1 d=2e-08 t=1
+ma shi 	马师	c=1 d=2e-08 t=1
+ma shou ku 	马受苦	c=1 d=2e-08 t=1
+ma shua 	马刷	c=1 d=2e-08 t=1
+ma su bi 	马谡必	c=1 d=2e-08 t=1
+ma su bu 	马谡不	c=1 d=2e-08 t=1
+ma su gun 	马谡衮	c=1 d=2e-08 t=1
+ma su ni 	马谡你	c=1 d=2e-08 t=1
+ma wei xin 	妈微信	c=1 d=2e-08 t=1
+ma yi 	马懿	c=1 d=2e-08 t=1
+ma yi zheng ju 	骂一整局	c=1 d=2e-08 t=1
+ma zhi 	马只	c=1 d=2e-08 t=1
+ma zhu li ma 	码助力码	c=1 d=2e-08 t=1
+ma zuo tian 	马昨天	c=1 d=2e-08 t=1
+mai di li 	麦地里	c=1 d=2e-08 t=1
+mai gao tie piao 	买高铁票	c=1 d=2e-08 t=1
+mai ji piao ba 	买机票吧	c=1 d=2e-08 t=1
+mai ke er sun 	迈克耳孙	c=1 d=2e-08 t=1
+mai ke er sun gan she 	迈克耳孙干涉	c=1 d=2e-08 t=1
+mai kuan tiao zhi 	脉宽调制	c=1 d=2e-08 t=1
+mai le hua 	买了花	c=1 d=2e-08 t=1
+mai ting de 	麦听得	c=1 d=2e-08 t=1
+mai wei zhen 	麦微针	c=1 d=2e-08 t=1
+mai xie jiang 	卖血将	c=1 d=2e-08 t=1
+mai xue jiang 	卖血将	c=1 d=2e-08 t=1
+man er cha 	满二叉	c=1 d=2e-08 t=1
+man hui xue 	蛮会学	c=1 d=2e-08 t=1
+man li hai 	满厉害	c=1 d=2e-08 t=1
+man pai 	满牌	c=1 d=2e-08 t=1
+mang de shi qing 	忙的事情	c=1 d=2e-08 t=1
+mang he 	盲盒	c=1 d=2e-08 t=1
+mang sha 	盲杀	c=1 d=2e-08 t=1
+mao jiao ben 	毛脚本	c=1 d=2e-08 t=1
+mao xia 	猫下	c=1 d=2e-08 t=1
+mao yi shi chang 	贸易市场	c=1 d=2e-08 t=1
+me chi ne 	么吃呢	c=1 d=2e-08 t=1
+me xiong di 	么兄弟	c=1 d=2e-08 t=1
+mei bu yao 	没不要	c=1 d=2e-08 t=1
+mei cheng zhen 	梅城镇	c=1 d=2e-08 t=1
+mei chu pai 	没出牌	c=1 d=2e-08 t=1
+mei chu su 	没处诉	c=1 d=2e-08 t=1
+mei duo shao fen si 	没多少粉丝	c=1 d=2e-08 t=1
+mei fa shan 	没法闪	c=1 d=2e-08 t=1
+mei fang shui ping 	没放水平	c=1 d=2e-08 t=1
+mei fu wo 	没扶我	c=1 d=2e-08 t=1
+mei gang wei 	没岗位	c=1 d=2e-08 t=1
+mei ge fang mian 	每个方面	c=1 d=2e-08 t=1
+mei ge zhi biao 	每个指标	c=1 d=2e-08 t=1
+mei guan yong 	没管用	c=1 d=2e-08 t=1
+mei guo cheng nian ren 	美国成年人	c=1 d=2e-08 t=1
+mei guo za zhi 	美国杂志	c=1 d=2e-08 t=1
+mei hao de yang zi 	美好的样子	c=1 d=2e-08 t=1
+mei hao yuan wang 	美好愿望	c=1 d=2e-08 t=1
+mei hu shuo 	每户说	c=1 d=2e-08 t=1
+mei hui de 	没会的	c=1 d=2e-08 t=1
+mei jia ban de ba 	没加班的吧	c=1 d=2e-08 t=1
+mei jia ji ge 	没加几个	c=1 d=2e-08 t=1
+mei jia jin qu ma 	没加进去吗	c=1 d=2e-08 t=1
+mei kan dao 	没砍刀	c=1 d=2e-08 t=1
+mei kong 	每空	c=1 d=2e-08 t=1
+mei kong jie 	没空接	c=1 d=2e-08 t=1
+mei kong jie wo 	没空接我	c=1 d=2e-08 t=1
+mei li bie 	没理别	c=1 d=2e-08 t=1
+mei li ke 	梅里克	c=1 d=2e-08 t=1
+mei lie long 	没烈龙	c=1 d=2e-08 t=1
+mei mai guo bu dong 	没买过不懂	c=1 d=2e-08 t=1
+mei mei yang 	妹妹养	c=1 d=2e-08 t=1
+mei mo ban 	没模板	c=1 d=2e-08 t=1
+mei na ge shi jian 	没那个时间	c=1 d=2e-08 t=1
+mei nong zu 	梅农族	c=1 d=2e-08 t=1
+mei pin dian 	没拼点	c=1 d=2e-08 t=1
+mei qian ta men 	没钱他们	c=1 d=2e-08 t=1
+mei qiang 	每枪	c=1 d=2e-08 t=1
+mei ren shou ce 	媒人手册	c=1 d=2e-08 t=1
+mei sha liang yang 	没啥两样	c=1 d=2e-08 t=1
+mei shu chu he 	没输出和	c=1 d=2e-08 t=1
+mei si kao 	没思考	c=1 d=2e-08 t=1
+mei tian cha 	每天差	c=1 d=2e-08 t=1
+mei xie da an 	没写答案	c=1 d=2e-08 t=1
+mei xin wu jiang 	没新武将	c=1 d=2e-08 t=1
+mei yi fa 	每一发	c=1 d=2e-08 t=1
+mei yi jian nan guo 	每一件难过	c=1 d=2e-08 t=1
+mei yi qiang 	每一枪	c=1 d=2e-08 t=1
+mei you dui bi shi yan 	没有对比实验	c=1 d=2e-08 t=1
+mei you gei ta 	没有给他	c=1 d=2e-08 t=1
+mei you jie shu 	没有结束	c=1 d=2e-08 t=1
+mei zhou dou 	每周都	c=1 d=2e-08 t=1
+mei zou ji bu 	没走几步	c=1 d=2e-08 t=1
+men dian shi bu shi 	门店是不是	c=1 d=2e-08 t=1
+men men 	们们	c=1 d=2e-08 t=1
+mi cheng zhe yang 	迷成这样	c=1 d=2e-08 t=1
+mi du wu ti 	密度物体	c=1 d=2e-08 t=1
+mi ma shi 	密码时	c=1 d=2e-08 t=1
+mi ma suan fa 	密码算法	c=1 d=2e-08 t=1
+mi ma xie zuo ye 	密码写作业	c=1 d=2e-08 t=1
+mi ma xue yu 	密码学与	c=1 d=2e-08 t=1
+mi ma yong 	密码用	c=1 d=2e-08 t=1
+mi xiao jie 	米小姐	c=1 d=2e-08 t=1
+mi yao bu hao 	密钥不好	c=1 d=2e-08 t=1
+mi yue 	密钥	c=1 d=2e-08 t=1
+mi zi 	米自	c=1 d=2e-08 t=1
+mian cai 	面菜	c=1 d=2e-08 t=1
+mian dian liu biao fen ya 	面电流表分压	c=1 d=2e-08 t=1
+mian dian ya biao fen liu 	面电压表分流	c=1 d=2e-08 t=1
+mian duan shu 	面断叔	c=1 d=2e-08 t=1
+mian er zi 	面儿子	c=1 d=2e-08 t=1
+mian gu er 	面孤儿	c=1 d=2e-08 t=1
+mian jia 	面家	c=1 d=2e-08 t=1
+mian jia li 	面家里	c=1 d=2e-08 t=1
+mian jia men 	面家门	c=1 d=2e-08 t=1
+mian lia 	面俩	c=1 d=2e-08 t=1
+mian qian dao 	面签到	c=1 d=2e-08 t=1
+mian qiang neng yong 	勉强能用	c=1 d=2e-08 t=1
+mian sha 	面啥	c=1 d=2e-08 t=1
+mian shu biao 	面鼠标	c=1 d=2e-08 t=1
+mian xiang 	面像	c=1 d=2e-08 t=1
+mian yin 	面阴	c=1 d=2e-08 t=1
+miao chang 	秒场	c=1 d=2e-08 t=1
+miao chang ju 	秒长句	c=1 d=2e-08 t=1
+miao mei shou zhu 	秒没守住	c=1 d=2e-08 t=1
+miao mei wen ti 	秒没问题	c=1 d=2e-08 t=1
+miao quan chang 	秒全场	c=1 d=2e-08 t=1
+miao quan tu 	秒全图	c=1 d=2e-08 t=1
+miao tou 	秒头	c=1 d=2e-08 t=1
+miao zhen you yi si 	瞄真有意思	c=1 d=2e-08 t=1
+mie gou 	灭狗	c=1 d=2e-08 t=1
+mie la kua 	灭拉跨	c=1 d=2e-08 t=1
+min zhu wen ming 	民主文明	c=1 d=2e-08 t=1
+ming an tiao wen 	明暗条纹	c=1 d=2e-08 t=1
+ming chang mian 	名场面	c=1 d=2e-08 t=1
+ming dong xi 	明东西	c=1 d=2e-08 t=1
+ming ke xue 	明科学	c=1 d=2e-08 t=1
+ming ming 	名命	c=1 d=2e-08 t=1
+ming ming shu ju 	命名数据	c=1 d=2e-08 t=1
+ming ming shu ju wang luo 	命名数据网络	c=1 d=2e-08 t=1
+ming shi 	名是	c=1 d=2e-08 t=1
+ming shi 	明识	c=1 d=2e-08 t=1
+ming tao 	明桃	c=1 d=2e-08 t=1
+ming tian mo dian 	明天模电	c=1 d=2e-08 t=1
+ming tian wan shang zai xie 	明天晚上再写	c=1 d=2e-08 t=1
+ming wen jian 	名文件	c=1 d=2e-08 t=1
+ming xian da 	明显打	c=1 d=2e-08 t=1
+ming xian ta 	明显他	c=1 d=2e-08 t=1
+ming xian you 	明显有	c=1 d=2e-08 t=1
+ming xian you shi 	明显优势	c=1 d=2e-08 t=1
+ming xian zi miao 	明显自瞄	c=1 d=2e-08 t=1
+ming xiao de 	名校的	c=1 d=2e-08 t=1
+ming zhu she qu 	明珠社区	c=1 d=2e-08 t=1
+mo bu guo 	磨不过	c=1 d=2e-08 t=1
+mo fa jiao 	抹发胶	c=1 d=2e-08 t=1
+mo gu wu 	蘑菇屋	c=1 d=2e-08 t=1
+mo hu yi dian 	模糊一点	c=1 d=2e-08 t=1
+mo ji de 	磨叽的	c=1 d=2e-08 t=1
+mo ji sha 	墨迹啥	c=1 d=2e-08 t=1
+mo ji shi ji miao 	磨叽十几秒	c=1 d=2e-08 t=1
+mo kao shi 	末考试	c=1 d=2e-08 t=1
+mo lian zhong 	磨练中	c=1 d=2e-08 t=1
+mo ni wu 	模拟五	c=1 d=2e-08 t=1
+mo pai bai ban 	摸牌白板	c=1 d=2e-08 t=1
+mo pai jiu 	摸牌就	c=1 d=2e-08 t=1
+mo pai le 	摸牌了	c=1 d=2e-08 t=1
+mo pai liang 	摸牌量	c=1 d=2e-08 t=1
+mo pai liang bei 	摸牌两倍	c=1 d=2e-08 t=1
+mo ren wu hen 	默认无痕	c=1 d=2e-08 t=1
+mo ren wu hong 	默认无宏	c=1 d=2e-08 t=1
+mo ren yuan 	默认原	c=1 d=2e-08 t=1
+mo ren zi 	默认字	c=1 d=2e-08 t=1
+mo tai rong he 	模态融合	c=1 d=2e-08 t=1
+mo ti 	末题	c=1 d=2e-08 t=1
+mo wei shu zi 	末尾数字	c=1 d=2e-08 t=1
+mo xing ban ben 	模型版本	c=1 d=2e-08 t=1
+mo xing jiao jian dan 	模型较简单	c=1 d=2e-08 t=1
+mo xing xun lian 	模型训练	c=1 d=2e-08 t=1
+mo xing yan jiu 	模型研究	c=1 d=2e-08 t=1
+mo xing zai 	模型在	c=1 d=2e-08 t=1
+mo yi 	摸一	c=1 d=2e-08 t=1
+mo yi zhang 	摸一张	c=1 d=2e-08 t=1
+mou bu te ding 	某部特定	c=1 d=2e-08 t=1
+mou ge lu jing xia 	某个路径下	c=1 d=2e-08 t=1
+mou ge quan 	某个圈	c=1 d=2e-08 t=1
+mou hang zhong 	某行中	c=1 d=2e-08 t=1
+mou ji hang 	某几行	c=1 d=2e-08 t=1
+mou ji lie 	某几列	c=1 d=2e-08 t=1
+mou yi lie zhong han you 	某一列中含有	c=1 d=2e-08 t=1
+mou yi shi jian duan 	某一时间段	c=1 d=2e-08 t=1
+mu biao jian ce mo xing 	目标检测模型	c=1 d=2e-08 t=1
+mu biao zi yuan 	目标资源	c=1 d=2e-08 t=1
+mu chu 	母出	c=1 d=2e-08 t=1
+mu da 	母大	c=1 d=2e-08 t=1
+mu ti yi qi zhui 	母体一起追	c=1 d=2e-08 t=1
+na chai 	拿拆	c=1 d=2e-08 t=1
+na chong 	拿冲	c=1 d=2e-08 t=1
+na ci hui yi 	那次会议	c=1 d=2e-08 t=1
+na da pao ni 	拿大炮你	c=1 d=2e-08 t=1
+na ge dai ma 	那个代码	c=1 d=2e-08 t=1
+na ge dian ming 	那个点名	c=1 d=2e-08 t=1
+na ge ju 	拿个狙	c=1 d=2e-08 t=1
+na ge ren jiu hui 	那个人就会	c=1 d=2e-08 t=1
+na geng rong yi 	那更容易	c=1 d=2e-08 t=1
+na hou du 	那厚度	c=1 d=2e-08 t=1
+na hui er yi yang 	那会儿一样	c=1 d=2e-08 t=1
+na ji fen 	那几分	c=1 d=2e-08 t=1
+na ji ge sheng 	哪几个省	c=1 d=2e-08 t=1
+na ji lie 	那几列	c=1 d=2e-08 t=1
+na jia te lin 	拿加特林	c=1 d=2e-08 t=1
+na jian xiao shi 	那件小事	c=1 d=2e-08 t=1
+na ke geng che dan 	那可更扯淡	c=1 d=2e-08 t=1
+na ke zheng hao 	那颗正好	c=1 d=2e-08 t=1
+na liang zhou 	那两周	c=1 d=2e-08 t=1
+na me duo sha 	那么多杀	c=1 d=2e-08 t=1
+na nan hai 	那男孩	c=1 d=2e-08 t=1
+na ni wen le 	那你稳了	c=1 d=2e-08 t=1
+na ri tong 	那日同	c=1 d=2e-08 t=1
+na sao 	拿扫	c=1 d=2e-08 t=1
+na sha 	拿杀	c=1 d=2e-08 t=1
+na shen me da 	拿什么打	c=1 d=2e-08 t=1
+na ting hao de ya 	那挺好的呀	c=1 d=2e-08 t=1
+na wo jiu bu da rao 	那我就不打扰	c=1 d=2e-08 t=1
+na xie lun wen 	那些论文	c=1 d=2e-08 t=1
+na xie sheng 	哪些省	c=1 d=2e-08 t=1
+na yao bu ming wan 	那要不明晚	c=1 d=2e-08 t=1
+na yi shu 	哪一束	c=1 d=2e-08 t=1
+na yi xia ma 	拿一下吗	c=1 d=2e-08 t=1
+na you dian nan ding 	那有点难顶	c=1 d=2e-08 t=1
+na you mei shi 	那又没事	c=1 d=2e-08 t=1
+na you pai 	哪有牌	c=1 d=2e-08 t=1
+na you tao 	哪有桃	c=1 d=2e-08 t=1
+na zhe ju 	拿着狙	c=1 d=2e-08 t=1
+nai cha qian 	奶茶钱	c=1 d=2e-08 t=1
+nai leng 	耐冷	c=1 d=2e-08 t=1
+nai niu kuai chuan 	奶牛快船	c=1 d=2e-08 t=1
+nai xin he 	耐心和	c=1 d=2e-08 t=1
+nan fu 	难复	c=1 d=2e-08 t=1
+nan jing mei zi 	南京妹子	c=1 d=2e-08 t=1
+nan shou de shi 	难受的是	c=1 d=2e-08 t=1
+nan xue mei 	男学妹	c=1 d=2e-08 t=1
+nan yi men 	南一门	c=1 d=2e-08 t=1
+nang pei fa yu 	囊胚发育	c=1 d=2e-08 t=1
+nang pei tu xiang 	囊胚图像	c=1 d=2e-08 t=1
+nao ma le 	闹麻了	c=1 d=2e-08 t=1
+nao xi da lao 	脑希达劳	c=1 d=2e-08 t=1
+nao zi bu 	脑子不	c=1 d=2e-08 t=1
+nao zi me 	脑子么	c=1 d=2e-08 t=1
+ne ju 	呢据	c=1 d=2e-08 t=1
+nei bu da an 	内部答案	c=1 d=2e-08 t=1
+nei cun tiao qu 	内存条区	c=1 d=2e-08 t=1
+nei fa 	内伐	c=1 d=2e-08 t=1
+nei jian feng kuang shu chu 	内奸疯狂输出	c=1 d=2e-08 t=1
+nei jie fa 	内接伐	c=1 d=2e-08 t=1
+nei jie fa 	内接法	c=1 d=2e-08 t=1
+nei pai 	内派	c=1 d=2e-08 t=1
+nei rong fen dian 	内容分点	c=1 d=2e-08 t=1
+nei rong fu zhi 	内容复制	c=1 d=2e-08 t=1
+nei rong lao shi 	内容老师	c=1 d=2e-08 t=1
+nei rong zen me ban 	内容怎么办	c=1 d=2e-08 t=1
+nei wu de 	内务的	c=1 d=2e-08 t=1
+nei xi bao tuan 	内细胞团	c=1 d=2e-08 t=1
+neng chi ruan fan 	能吃软饭	c=1 d=2e-08 t=1
+neng chu pai 	能除牌	c=1 d=2e-08 t=1
+neng fa yi fen 	能发一份	c=1 d=2e-08 t=1
+neng fang jia 	能放假	c=1 d=2e-08 t=1
+neng fou shuo ming 	能否说明	c=1 d=2e-08 t=1
+neng gu yo 	能股哟	c=1 d=2e-08 t=1
+neng li tu chu 	能力突出	c=1 d=2e-08 t=1
+neng qiu chu 	能求出	c=1 d=2e-08 t=1
+neng rang xia 	能让下	c=1 d=2e-08 t=1
+neng ru dang 	能入党	c=1 d=2e-08 t=1
+neng shua 	能耍	c=1 d=2e-08 t=1
+neng si te 	能斯特	c=1 d=2e-08 t=1
+neng song le 	能怂了	c=1 d=2e-08 t=1
+neng te si 	能特斯	c=1 d=2e-08 t=1
+neng ying ta 	能赢他	c=1 d=2e-08 t=1
+neng yo 	能哟	c=1 d=2e-08 t=1
+neng zuo xie 	能做些	c=1 d=2e-08 t=1
+ni 	你	c=1 d=1 t=86
+ni ba pai 	你扒牌	c=1 d=2e-08 t=1
+ni ban yan 	你扮演	c=1 d=2e-08 t=1
+ni bei zhan 	你备战	c=1 d=2e-08 t=1
+ni bie kao 	你别考	c=1 d=2e-08 t=1
+ni bu she 	你不设	c=1 d=2e-08 t=1
+ni chi dong 	你吃东	c=1 d=2e-08 t=1
+ni chu fa de shi hou 	你出发的时候	c=1 d=2e-08 t=1
+ni chu ji ge 	你出几个	c=1 d=2e-08 t=1
+ni de chi le 	你的吃了	c=1 d=2e-08 t=1
+ni de fen 	你的份	c=1 d=2e-08 t=1
+ni de shi xiong 	你的师兄	c=1 d=2e-08 t=1
+ni deng dai 	你等待	c=1 d=2e-08 t=1
+ni du le 	你读了	c=1 d=2e-08 t=1
+ni dui wo lai shuo 	你对我来说	c=1 d=2e-08 t=1
+ni gei chu 	你给出	c=1 d=2e-08 t=1
+ni hai mei shuo wan 	你还没说完	c=1 d=2e-08 t=1
+ni hao hui ya 	你好会压	c=1 d=2e-08 t=1
+ni hui qian tan zhen 	你回乾潭镇	c=1 d=2e-08 t=1
+ni jiang jin xing 	你将进行	c=1 d=2e-08 t=1
+ni jin nian kao 	你今年考	c=1 d=2e-08 t=1
+ni jiu na hao ba 	你就那好吧	c=1 d=2e-08 t=1
+ni jiu ta 	你救它	c=1 d=2e-08 t=1
+ni jiu zhe ya 	你就这呀	c=1 d=2e-08 t=1
+ni kai dun 	你开盾	c=1 d=2e-08 t=1
+ni li jie cu 	你理解醋	c=1 d=2e-08 t=1
+ni lia ci 	你俩次	c=1 d=2e-08 t=1
+ni lia qu ba 	你俩去吧	c=1 d=2e-08 t=1
+ni ma shou shi 	泥马收尸	c=1 d=2e-08 t=1
+ni mei 	妮妹	c=1 d=2e-08 t=1
+ni men jue de shi 	你们觉得是	c=1 d=2e-08 t=1
+ni na zhen shi 	你那真是	c=1 d=2e-08 t=1
+ni neng bang dao ta 	你能帮到他	c=1 d=2e-08 t=1
+ni pi de 	你批的	c=1 d=2e-08 t=1
+ni pi yi xia 	你批一下	c=1 d=2e-08 t=1
+ni shang chuan ba 	你上传吧	c=1 d=2e-08 t=1
+ni shang jia 	你上家	c=1 d=2e-08 t=1
+ni shuang de 	你爽的	c=1 d=2e-08 t=1
+ni wei guo 	你魏国	c=1 d=2e-08 t=1
+ni xie sha ta 	你写啥他	c=1 d=2e-08 t=1
+ni xin dong le 	你心动了	c=1 d=2e-08 t=1
+ni xiu xi hui er 	你休息会儿	c=1 d=2e-08 t=1
+ni yao ji zhong 	你要集中	c=1 d=2e-08 t=1
+ni you de shi shi jian 	你有的是时间	c=1 d=2e-08 t=1
+ni you dui xiang ma 	你有对象吗	c=1 d=2e-08 t=1
+ni you kan guo yi xie 	你有看过一些	c=1 d=2e-08 t=1
+ni you tai duo 	你有太多	c=1 d=2e-08 t=1
+ni za bei 	你咋被	c=1 d=2e-08 t=1
+ni zai he bie ren liao tian ma 	你在和别人聊天吗	c=1 d=2e-08 t=1
+ni zheng zai gen 	你正在跟	c=1 d=2e-08 t=1
+ni zhuan ju 	逆转矩	c=1 d=2e-08 t=1
+ni zi xun xia a 	你咨询下啊	c=1 d=2e-08 t=1
+nian neng 	年能	c=1 d=2e-08 t=1
+nian ruan jian 	年软件	c=1 d=2e-08 t=1
+nian shan 	年删	c=1 d=2e-08 t=1
+nian ying 	年应	c=1 d=2e-08 t=1
+niao yo 	鸟哟	c=1 d=2e-08 t=1
+nie ma 	捏吗	c=1 d=2e-08 t=1
+niu kuai 	牛快	c=1 d=2e-08 t=1
+niu zhi wen 	牛志文	c=1 d=2e-08 t=1
+nong 	弄	c=0 d=0.1 t=42
+nong za yang 	弄咋样	c=1 d=2e-08 t=1
+nong zhu 	弄主	c=1 d=2e-08 t=1
+nong zu 	农族	c=1 d=2e-08 t=1
+nu li kong zhi 	努力控制	c=1 d=2e-08 t=1
+nv dao shi 	女导师	c=1 d=2e-08 t=1
+nv guan yuan 	女官员	c=1 d=2e-08 t=1
+nv gui lai 	女鬼来	c=1 d=2e-08 t=1
+nv gui shi 	女鬼是	c=1 d=2e-08 t=1
+nv gui xia 	女鬼吓	c=1 d=2e-08 t=1
+nv hai cheng zhang ji 	女孩成长记	c=1 d=2e-08 t=1
+nv pu zhi shi 	女仆执事	c=1 d=2e-08 t=1
+nv xing ming zi 	女性名字	c=1 d=2e-08 t=1
+nv zhu hui dao 	女主回到	c=1 d=2e-08 t=1
+nv zhu ye 	女主也	c=1 d=2e-08 t=1
+nv zi wu cai bian shi de 	女子无才便是的	c=1 d=2e-08 t=1
+o kong kong mei shi 	哦空空没事	c=1 d=2e-08 t=1
+o lei 	哦类	c=1 d=2e-08 t=1
+o nian jian 	哦年间	c=1 d=2e-08 t=1
+o wo jiu 	哦我就	c=1 d=2e-08 t=1
+ou er ao ye 	偶尔熬夜	c=1 d=2e-08 t=1
+ou er geng xin 	偶尔更新	c=1 d=2e-08 t=1
+ou mei ge shou 	欧美歌手	c=1 d=2e-08 t=1
+ou ran ma 	偶然吗	c=1 d=2e-08 t=1
+pa wai 	爬外	c=1 d=2e-08 t=1
+pai bu dong 	排不动	c=1 d=2e-08 t=1
+pai bu guo 	派不过	c=1 d=2e-08 t=1
+pai da 	牌打	c=1 d=2e-08 t=1
+pai ding 	牌顶	c=1 d=2e-08 t=1
+pai dou bei 	牌都被	c=1 d=2e-08 t=1
+pai hui 	牌会	c=1 d=2e-08 t=1
+pai liang 	牌量	c=1 d=2e-08 t=1
+pai mai gong neng 	拍卖功能	c=1 d=2e-08 t=1
+pai mei 	牌没	c=1 d=2e-08 t=1
+pai ming ru he ji suan 	排名如何计算	c=1 d=2e-08 t=1
+pai sha zhong 	牌杀忠	c=1 d=2e-08 t=1
+pai ye shao 	牌也少	c=1 d=2e-08 t=1
+pai zui duo 	派最多	c=1 d=2e-08 t=1
+pan ding pai 	判定牌	c=1 d=2e-08 t=1
+pan kong jian 	盘空间	c=1 d=2e-08 t=1
+pan yi jiao 	盘一脚	c=1 d=2e-08 t=1
+pan zhi liang 	盘质量	c=1 d=2e-08 t=1
+pang de shu 	庞德属	c=1 d=2e-08 t=1
+pang zi e xin ren 	胖子恶心人	c=1 d=2e-08 t=1
+pao lu ya 	跑路呀	c=1 d=2e-08 t=1
+pao yi tang hai pa ni 	跑一趟害怕你	c=1 d=2e-08 t=1
+pei cha 	配锸	c=1 d=2e-08 t=1
+pei he men 	配合们	c=1 d=2e-08 t=1
+pei ma 	配马	c=1 d=2e-08 t=1
+pei shi you 	陪室友	c=1 d=2e-08 t=1
+pei tai ping gu 	胚胎评估	c=1 d=2e-08 t=1
+pei tai tu xiang 	胚胎图像	c=1 d=2e-08 t=1
+pei tao jiu xing 	配套就行	c=1 d=2e-08 t=1
+pei xun ji hui 	培训机会	c=1 d=2e-08 t=1
+pei ya li 	配压力	c=1 d=2e-08 t=1
+pei zhi duan kou 	配置端口	c=1 d=2e-08 t=1
+pei zhi fang an 	配置方案	c=1 d=1 t=24
+pei zhi gong ju 	配置工具	c=1 d=2e-08 t=1
+pei zhi gu 	配置古	c=1 d=2e-08 t=1
+pen quan yi yang 	喷泉一样	c=1 d=2e-08 t=1
+pen si ni mei 	喷死妮妹	c=1 d=2e-08 t=1
+peng dao yang 	碰到阳	c=1 d=2e-08 t=1
+peng ling xuan 	彭玲瑄	c=1 d=2e-08 t=1
+peng you tong bu 	朋友同步	c=1 d=2e-08 t=1
+peng you yi 	朋友一	c=1 d=2e-08 t=1
+peng zhe me ge 	碰着么个	c=1 d=2e-08 t=1
+pi gai guo cheng zhong 	批改过程中	c=1 d=2e-08 t=1
+pi gai shi juan 	批改试卷	c=1 d=2e-08 t=1
+pi liang da 	批量打	c=1 d=2e-08 t=1
+pi pei mo 	匹配模	c=1 d=2e-08 t=1
+pi pei mo shi 	匹配模式	c=1 d=2e-08 t=1
+pi pei yi 	匹配一	c=1 d=2e-08 t=1
+pi ping zhi jiao 	批评指教	c=1 d=2e-08 t=1
+pi song 	批送	c=1 d=2e-08 t=1
+pi su 	皮速	c=1 d=2e-08 t=1
+pi ta 	劈他	c=1 d=2e-08 t=1
+pi wan 	皮玩	c=1 d=2e-08 t=1
+pi zhen hou 	皮真厚	c=1 d=2e-08 t=1
+pian lai 	偏来	c=1 d=2e-08 t=1
+pian tu xiang 	篇图像	c=1 d=2e-08 t=1
+pian wen zhang shou huo 	篇文章收获	c=1 d=2e-08 t=1
+piao fang qian shi 	票房前十	c=1 d=2e-08 t=1
+piao jing 	嫖京	c=1 d=2e-08 t=1
+pin dao zhu yao 	频道主要	c=1 d=2e-08 t=1
+pin zhuang 	频装	c=1 d=2e-08 t=1
+ping fang mu 	平方木	c=1 d=2e-08 t=1
+ping kou 	平寇	c=1 d=2e-08 t=1
+ping kou da 	平寇打	c=1 d=2e-08 t=1
+ping shi gong 	平时工	c=1 d=2e-08 t=1
+ping shou ji 	屏手机	c=1 d=2e-08 t=1
+ping tai bu di 	平台不低	c=1 d=2e-08 t=1
+ping yan 	屏验	c=1 d=2e-08 t=1
+ping yue yi jian 	评阅意见	c=1 d=2e-08 t=1
+ping zhi 	评指	c=1 d=2e-08 t=1
+po sa jia dou jiang a shi duo jiu a kan 	婆萨加豆浆啊是多久啊看	c=1 d=2e-08 t=1
+pou du 	剖肚	c=1 d=2e-08 t=1
+pou you xi 	剖游戏	c=1 d=2e-08 t=1
+pu an duan 	普安段	c=1 d=2e-08 t=1
+pu bian da yu 	普遍大于	c=1 d=2e-08 t=1
+pu bian ti sheng 	普遍提升	c=1 d=2e-08 t=1
+pu qu xiao 	铺取消	c=1 d=2e-08 t=1
+pu sha 	普杀	c=1 d=2e-08 t=1
+pu shi yi dian 	朴实一点	c=1 d=2e-08 t=1
+qi ba nian qian 	七八年前	c=1 d=2e-08 t=1
+qi ba ye 	七八页	c=1 d=2e-08 t=1
+qi bao dao 	七宝刀	c=1 d=2e-08 t=1
+qi cai 	启采	c=1 d=2e-08 t=1
+qi miao shi jie 	奇妙世界	c=1 d=2e-08 t=1
+qi mo bao gao 	期末报告	c=1 d=2e-08 t=1
+qi mo fu 	期末复	c=1 d=2e-08 t=1
+qi mo kao he 	期末考核	c=1 d=2e-08 t=1
+qi mo kao shi ta 	期末考试他	c=1 d=2e-08 t=1
+qi mo kao shi zhou 	期末考试周	c=1 d=2e-08 t=1
+qi mo shi juan de 	期末试卷的	c=1 d=2e-08 t=1
+qi mo ti 	期末题	c=1 d=2e-08 t=1
+qi mo xiang guan 	期末相关	c=1 d=2e-08 t=1
+qi mo zhou 	期末周	c=1 d=2e-08 t=1
+qi mo zong fen 	期末总分	c=1 d=2e-08 t=1
+qi pi pei 	起匹配	c=1 d=2e-08 t=1
+qi shi wo you dian hao qi 	其实我有点好奇	c=1 d=2e-08 t=1
+qi ta xiang guan zhao pian 	其他相关照片	c=1 d=2e-08 t=1
+qi ta yan jiu 	其他研究	c=1 d=2e-08 t=1
+qi wen bang 	气温帮	c=1 d=2e-08 t=1
+qi xin qiang 	奇心强	c=1 d=2e-08 t=1
+qi ye wei 	企业为	c=1 d=2e-08 t=1
+qi yi ye ye 	起一夜页	c=1 d=2e-08 t=1
+qian dao hu le 	千岛湖了	c=1 d=2e-08 t=1
+qian dao hu yu 	千岛湖鱼	c=1 d=2e-08 t=1
+qian gong 	签工	c=1 d=2e-08 t=1
+qian hua 	签华	c=1 d=2e-08 t=1
+qian jing yan jiu 	前景研究	c=1 d=2e-08 t=1
+qian li dan qi 	千里单骑	c=1 d=2e-08 t=1
+qian liang fen zhong 	前两分钟	c=1 d=2e-08 t=1
+qian lu jing 	前路径	c=1 d=2e-08 t=1
+qian qi shou 	牵起手	c=1 d=2e-08 t=1
+qian shou de shi hou 	牵手的时候	c=1 d=2e-08 t=1
+qian shou tu 	签收图	c=1 d=2e-08 t=1
+qian shu 	签数	c=1 d=2e-08 t=1
+qian ta 	欠它	c=1 d=2e-08 t=1
+qian tai zi xi tong 	前台子系统	c=1 d=2e-08 t=1
+qian tan 	乾潭	c=1 d=2e-08 t=1
+qian tan che zhan 	乾潭车站	c=1 d=2e-08 t=1
+qian tan chu ji 	乾潭初级	c=1 d=2e-08 t=1
+qian tan di yi xiao xue 	乾潭第一小学	c=1 d=2e-08 t=1
+qian tan hua 	乾潭话	c=1 d=2e-08 t=1
+qian tan zai 	浅谈在	c=1 d=2e-08 t=1
+qian tan zhen 	乾潭镇	c=1 d=2e-08 t=1
+qian ti zhi xia 	前提之下	c=1 d=2e-08 t=1
+qian tiao 	牵条	c=1 d=2e-08 t=1
+qian tu si jin 	前途似锦	c=1 d=2e-08 t=1
+qian xin yi 	钱欣宜	c=1 d=2e-08 t=1
+qiang guang zhao she 	强光照射	c=1 d=2e-08 t=1
+qiang qiang tou 	枪枪头	c=1 d=2e-08 t=1
+qiang yang 	强样	c=1 d=2e-08 t=1
+qiang zi miao 	墙自瞄	c=1 d=2e-08 t=1
+qiao ta 	乔它	c=1 d=2e-08 t=1
+qiao za da 	乔咋打	c=1 d=2e-08 t=1
+qie cai yi yang 	切菜一样	c=1 d=2e-08 t=1
+qie huan ling 	切换另	c=1 d=2e-08 t=1
+qie huan shi jian dian 	切换时间点	c=1 d=2e-08 t=1
+qie qie cai 	切切才	c=1 d=2e-08 t=1
+qie tong 	且统	c=1 d=2e-08 t=1
+qin mu qin 	亲母亲	c=1 d=2e-08 t=1
+qin shi o 	寝室哦	c=1 d=2e-08 t=1
+qin shi qun 	寝室群	c=1 d=2e-08 t=1
+qin yuan 	勤园	c=1 d=2e-08 t=1
+qing jia shou 	请假收	c=1 d=2e-08 t=1
+qing jie he 	情节和	c=1 d=2e-08 t=1
+qing kuang ke 	情况可	c=1 d=2e-08 t=1
+qing ni gei chu 	请你给出	c=1 d=2e-08 t=1
+qing ni yong 	请你用	c=1 d=2e-08 t=1
+qing nian da xue sheng 	青年大学生	c=1 d=2e-08 t=1
+qing nian lai 	青年来	c=1 d=2e-08 t=1
+qing qiu di zhi 	请求地址	c=1 d=2e-08 t=1
+qing shuo yi xie 	请说一些	c=1 d=2e-08 t=1
+qing ting hui yuan 	蜻蜓会员	c=1 d=2e-08 t=1
+qing tuan yuan 	青团员	c=1 d=2e-08 t=1
+qing wen an zhuo shou 	请问安卓手	c=1 d=2e-08 t=1
+qing wen qi 	请问其	c=1 d=2e-08 t=1
+qing xi yi ye 	清洗衣液	c=1 d=2e-08 t=1
+qing xie shang 	请写上	c=1 d=2e-08 t=1
+qing xie yi duan 	请写一段	c=1 d=2e-08 t=1
+qing xie yi fen 	请写一份	c=1 d=2e-08 t=1
+qing xie yi ge 	倾斜一个	c=1 d=2e-08 t=1
+qing xu bao fa 	情绪爆发	c=1 d=2e-08 t=1
+qing xu gui yu ping dan 	情绪归于平淡	c=1 d=2e-08 t=1
+qing zhuan wei 	请转为	c=1 d=2e-08 t=1
+qiu chu de 	求出的	c=1 d=2e-08 t=1
+qiu jian duan dian 	求简短点	c=1 d=2e-08 t=1
+qiu jun zhi 	求均值	c=1 d=2e-08 t=1
+qiu me 	求么	c=1 d=2e-08 t=1
+qiu qiu qiu le 	求求求了	c=1 d=2e-08 t=1
+qiu su shu 	求素数	c=1 d=2e-08 t=1
+qiu zu a 	求组啊	c=1 d=2e-08 t=1
+qu a shi dan xian cheng 	去啊是单线程	c=1 d=2e-08 t=1
+qu biao ge 	取表格	c=1 d=2e-08 t=1
+qu biao ge wen jian 	取表格文件	c=1 d=2e-08 t=1
+qu chong die wang luo 	去重叠网络	c=1 d=2e-08 t=1
+qu dong mei 	驱动没	c=1 d=2e-08 t=1
+qu o cong 	去哦从	c=1 d=2e-08 t=1
+qu xi hu 	去西湖	c=1 d=2e-08 t=1
+qu xiao yong hu 	取消用户	c=1 d=2e-08 t=1
+qu xiao zi dong 	取消自动	c=1 d=2e-08 t=1
+qu yu gan zhi 	区域感知	c=1 d=2e-08 t=1
+qu zhe fa zhan 	曲折发展	c=1 d=2e-08 t=1
+qu zheng hou 	取证后	c=1 d=2e-08 t=1
+quan bu peng you quan 	全部朋友圈	c=1 d=2e-08 t=1
+quan cheng bai ban 	全程白板	c=1 d=2e-08 t=1
+quan guo shu xue yi 	全国数学一	c=1 d=2e-08 t=1
+quan qu dong 	全驱动	c=1 d=2e-08 t=1
+que dian zhi yi 	缺点之一	c=1 d=2e-08 t=1
+que fa nai 	缺乏耐	c=1 d=2e-08 t=1
+que fa nai xin 	缺乏耐心	c=1 d=2e-08 t=1
+que fa qian zhan xing 	缺乏前瞻性	c=1 d=2e-08 t=1
+que kan 	却看	c=1 d=2e-08 t=1
+que shi dei 	确实得	c=1 d=2e-08 t=1
+ran hou 	然后	c=1 d=1 t=56
+ran hou mo xing 	然后模型	c=1 d=2e-08 t=1
+ran hou pi 	然后劈	c=1 d=2e-08 t=1
+ran hou tian 	然后添	c=1 d=2e-08 t=1
+ran hou yun han 	然后云函	c=1 d=2e-08 t=1
+rang ta dao 	让他导	c=1 d=2e-08 t=1
+rang ta ren ti 	让他人体	c=1 d=2e-08 t=1
+rang wo bao 	让我抱	c=1 d=2e-08 t=1
+rao ta men 	绕他们	c=1 d=2e-08 t=1
+re ai ji shi an ji 	热爱即使安吉	c=1 d=2e-08 t=1
+re ai xue xi ji suan ji xiang guan 	热爱学习计算机相关	c=1 d=2e-08 t=1
+re en 	热嗯	c=1 d=2e-08 t=1
+re shu ju 	热数据	c=1 d=2e-08 t=1
+ren biao zi 	认婊子	c=1 d=2e-08 t=1
+ren da zhong jie zhe 	人打终结者	c=1 d=2e-08 t=1
+ren de pei he 	仁德配合	c=1 d=2e-08 t=1
+ren de zhe 	仁德这	c=1 d=2e-08 t=1
+ren ding de hao 	认定的好	c=1 d=2e-08 t=1
+ren gui ding 	人规定	c=1 d=2e-08 t=1
+ren he 	任何	c=1 d=1 t=55
+ren ji fang 	人机房	c=1 d=2e-08 t=1
+ren jia bie 	人家别	c=1 d=2e-08 t=1
+ren jia you wen ti 	人家有问题	c=1 d=2e-08 t=1
+ren jun fen shu 	人均分数	c=1 d=2e-08 t=1
+ren lei nang pei 	人类囊胚	c=1 d=2e-08 t=1
+ren liao 	人聊	c=1 d=2e-08 t=1
+ren ma diao le 	人麻掉了	c=1 d=2e-08 t=1
+ren ma le 	人吗了	c=1 d=2e-08 t=1
+ren peng cheng 	任鹏程	c=1 d=2e-08 t=1
+ren pi pei 	人匹配	c=1 d=2e-08 t=1
+ren qiu 	人求	c=1 d=2e-08 t=1
+ren shen jie guo 	妊娠结果	c=1 d=2e-08 t=1
+ren shen jie ju 	妊娠结局	c=1 d=2e-08 t=1
+ren sheng yu ce 	人生预测	c=1 d=2e-08 t=1
+ren shi ni jie ju 	认识你结局	c=1 d=2e-08 t=1
+ren shu you shi 	人数优势	c=1 d=2e-08 t=1
+ren tou ni 	人偷你	c=1 d=2e-08 t=1
+ren wu wan 	任务完	c=1 d=2e-08 t=1
+ren yong 	忍用	c=1 d=2e-08 t=1
+ren yuan shi 	人员是	c=1 d=2e-08 t=1
+ren yun da 	任运达	c=1 d=2e-08 t=1
+ren yun da ban 	任运达班	c=1 d=2e-08 t=1
+ren zhi chu 	人之处	c=1 d=2e-08 t=1
+ren zhi heng 	忍制衡	c=1 d=2e-08 t=1
+ren zhi me 	认知么	c=1 d=2e-08 t=1
+reng de hao 	扔的好	c=1 d=2e-08 t=1
+reng de shan 	扔的闪	c=1 d=2e-08 t=1
+reng shan guang 	扔闪光	c=1 d=2e-08 t=1
+ri zhi guan li yong le 	日志管理永乐	c=1 d=2e-08 t=1
+ri zhi shu 	日志输	c=1 d=2e-08 t=1
+rong cai wen ji 	融蔡文姬	c=1 d=2e-08 t=1
+rong he xue xi 	融合学习	c=1 d=2e-08 t=1
+rong liang dang 	容量党	c=1 d=2e-08 t=1
+rong yao bi 	荣耀笔	c=1 d=2e-08 t=1
+rong yi zuo de 	容易做的	c=1 d=2e-08 t=1
+rong yu wang guan 	冗余网关	c=1 d=2e-08 t=1
+rou xing 	肉行	c=1 d=2e-08 t=1
+ru ci ke ai 	如此可爱	c=1 d=2e-08 t=1
+ru ci ke ai de wo men 	如此可爱的我们	c=1 d=2e-08 t=1
+ru gui o 	入轨哦	c=1 d=2e-08 t=1
+ru guo 	如果	c=1 d=1 t=18
+ru guo yao wei 	如果要为	c=1 d=2e-08 t=1
+ru he biao shi 	如何表示	c=1 d=2e-08 t=1
+ru he ti xian 	如何体现	c=1 d=2e-08 t=1
+ru he zhua duo kan 	如何抓多看	c=1 d=2e-08 t=1
+ru le 	如乐	c=1 d=2e-08 t=1
+ru men rang ni 	入门让你	c=1 d=2e-08 t=1
+ru qi wan cheng 	如期完成	c=1 d=2e-08 t=1
+ru qian tiao gou lai 	如牵条苟来	c=1 d=2e-08 t=1
+ru shou 	如授	c=1 d=2e-08 t=1
+ru tuan shi jian bu wan zheng 	入团时间不完整	c=1 d=2e-08 t=1
+ru xia ti 	如下提	c=1 d=2e-08 t=1
+ruan dan dui 	软蛋队	c=1 d=2e-08 t=1
+ruan jia ning 	阮家凝	c=1 d=2e-08 t=1
+ruan jian chu li 	软件处理	c=1 d=2e-08 t=1
+ruan jian de 	软件得	c=1 d=2e-08 t=1
+ruan jian jia gou shi 	软件架构师	c=1 d=2e-08 t=1
+ruan jian ke 	软件可	c=1 d=2e-08 t=1
+ruan jian mei guan yong 	软件没管用	c=1 d=2e-08 t=1
+ruan jian shu chu ji ben 	软件输出基本	c=1 d=2e-08 t=1
+ruan jian ti xi 	软件体系	c=1 d=2e-08 t=1
+ruan jian ti xi jia gou 	软件体系架构	c=1 d=2e-08 t=1
+ruan nan 	软男	c=1 d=2e-08 t=1
+rui xing 	瑞幸	c=1 d=2e-08 t=1
+ruo dang ran 	弱当然	c=1 d=2e-08 t=1
+ruo dao tong 	若导通	c=1 d=2e-08 t=1
+ruo gan ji lu 	若干记录	c=1 d=2e-08 t=1
+ruo you xiao xie 	若有小写	c=1 d=2e-08 t=1
+ruo zhi ru chu jian 	若只如初见	c=1 d=2e-08 t=1
+sa ca 	撒擦	c=1 d=2e-08 t=1
+sa da a wei da 	撒大啊伟大	c=1 d=2e-08 t=1
+sa da da 	撒大大	c=1 d=2e-08 t=1
+sa da su da 	撒大苏打	c=1 d=2e-08 t=1
+sa dan sa ca 	撒旦撒擦	c=1 d=2e-08 t=1
+sa li 	撒哩	c=1 d=2e-08 t=1
+sa shuang le 	飒爽了	c=1 d=2e-08 t=1
+san ban zhang 	三班长	c=1 d=2e-08 t=1
+san ban zhuan 	三板砖	c=1 d=2e-08 t=1
+san bu chu lai 	三不出来	c=1 d=2e-08 t=1
+san da wang da da 	散打王大大	c=1 d=2e-08 t=1
+san dao duo le 	三道剁了	c=1 d=2e-08 t=1
+san ge xian 	三个县	c=1 d=2e-08 t=1
+san lian 	三连	c=0 d=0.1 t=14
+san si xing 	三四型	c=1 d=2e-08 t=1
+san wei chang jing 	三位场景	c=1 d=2e-08 t=1
+san xiang dian ya 	三相电压	c=1 d=2e-08 t=1
+san yao 	散谣	c=1 d=2e-08 t=1
+san zhu yi fu 	三助一辅	c=1 d=2e-08 t=1
+sao sha 	扫啥	c=1 d=2e-08 t=1
+se bu liao 	色不了	c=1 d=2e-08 t=1
+se tang jie 	瑟汤杰	c=1 d=2e-08 t=1
+se yu mi qiang 	色欲迷墙	c=1 d=2e-08 t=1
+se yu shi 	色欲时	c=1 d=2e-08 t=1
+se yu shi jian 	色欲时间	c=1 d=2e-08 t=1
+sen xiao 	森效	c=1 d=2e-08 t=1
+sha bei 	莎呗	c=1 d=2e-08 t=1
+sha bi 	傻壁	c=1 d=2e-08 t=1
+sha bi dong 	傻壁东	c=1 d=2e-08 t=1
+sha bi er 	傻壁而	c=1 d=2e-08 t=1
+sha bu ding 	杀不定	c=1 d=2e-08 t=1
+sha da qiao 	杀大乔	c=1 d=2e-08 t=1
+sha dai 	杀带	c=1 d=2e-08 t=1
+sha dao 	啥到	c=1 d=2e-08 t=1
+sha dao ta 	杀到他	c=1 d=2e-08 t=1
+sha de kong jian si ke la 	啥的空间斯科拉	c=1 d=2e-08 t=1
+sha dui 	杀对	c=1 d=2e-08 t=1
+sha dui 	杀队	c=1 d=2e-08 t=1
+sha fan zei 	杀反贼	c=1 d=2e-08 t=1
+sha gei 	杀给	c=1 d=2e-08 t=1
+sha gou 	傻苟	c=1 d=2e-08 t=1
+sha he san 	杀和三	c=1 d=2e-08 t=1
+sha ji 	杀急	c=1 d=2e-08 t=1
+sha ji yan 	杀鸡眼	c=1 d=2e-08 t=1
+sha ji yan le 	杀急眼了	c=1 d=2e-08 t=1
+sha ju 	傻狙	c=1 d=2e-08 t=1
+sha ju dun men kou song 	傻狙蹲门口送	c=1 d=2e-08 t=1
+sha ma su 	杀马谡	c=1 d=2e-08 t=1
+sha man xue 	杀满血	c=1 d=2e-08 t=1
+sha me 	杀么	c=1 d=2e-08 t=1
+sha ming fan 	杀明反	c=1 d=2e-08 t=1
+sha ming nei 	杀明内	c=1 d=2e-08 t=1
+sha mo qi 	沙漠其	c=1 d=2e-08 t=1
+sha nei 	杀内	c=1 d=2e-08 t=1
+sha o 	濈哦	c=1 d=2e-08 t=1
+sha sha 	啥杀	c=1 d=2e-08 t=1
+sha shan tao 	杀闪桃	c=1 d=2e-08 t=1
+sha ta 	杀它	c=1 d=2e-08 t=1
+sha tai meng 	杀太猛	c=1 d=2e-08 t=1
+sha tou 	莎头	c=1 d=2e-08 t=1
+sha yi 	杀一	c=1 d=2e-08 t=1
+sha yi dao guo 	杀一刀过	c=1 d=2e-08 t=1
+sha yi dao mo 	杀一刀摸	c=1 d=2e-08 t=1
+sha you 	杀有	c=1 d=2e-08 t=1
+sha yuan shao 	杀袁绍	c=1 d=2e-08 t=1
+sha zhang jiao 	杀张角	c=1 d=2e-08 t=1
+sha zhang lang 	杀蟑螂	c=1 d=2e-08 t=1
+sha zhi men 	砂纸们	c=1 d=2e-08 t=1
+sha zhi shang 	傻智商	c=1 d=2e-08 t=1
+sha zhong 	杀忠	c=1 d=2e-08 t=1
+sha zhong gei 	杀忠给	c=1 d=2e-08 t=1
+sha zhou tai 	杀周泰	c=1 d=2e-08 t=1
+sha zhou tai de 	杀周泰的	c=1 d=2e-08 t=1
+sha zhou tai hai 	杀周泰还	c=1 d=2e-08 t=1
+sha zhou tai hao 	杀周泰号	c=1 d=2e-08 t=1
+sha zhu gong 	杀主公	c=1 d=2e-08 t=1
+sha zhu huan 	杀朱桓	c=1 d=2e-08 t=1
+sha zhu le 	杀主了	c=1 d=2e-08 t=1
+sha zhu sha zhong 	杀主杀忠	c=1 d=2e-08 t=1
+shai xuan nang pei 	筛选囊胚	c=1 d=2e-08 t=1
+shan cao zuo 	擅操作	c=1 d=2e-08 t=1
+shan chang ke mu 	擅长科目	c=1 d=2e-08 t=1
+shan chu dai ma 	删除代码	c=1 d=2e-08 t=1
+shan chu ji lu 	删除记录	c=1 d=2e-08 t=1
+shan chu kong bai xing 	删除空白行	c=1 d=2e-08 t=1
+shan chu suo you hang 	删除所有行	c=1 d=2e-08 t=1
+shan chu wan 	删除完	c=1 d=2e-08 t=1
+shan diao hou 	删掉后	c=1 d=2e-08 t=1
+shan dui you 	闪队友	c=1 d=2e-08 t=1
+shan er 	闪而	c=1 d=2e-08 t=1
+shan gou mang he 	闪购盲盒	c=1 d=2e-08 t=1
+shan guang gou 	闪光狗	c=1 d=2e-08 t=1
+shan guang li hai 	闪光厉害	c=1 d=2e-08 t=1
+shan guang reng 	闪光扔	c=1 d=2e-08 t=1
+shan he tu 	山河图	c=1 d=2e-08 t=1
+shan jiu tao 	闪酒桃	c=1 d=2e-08 t=1
+shan nan 	闪南	c=1 d=2e-08 t=1
+shang 	上	c=1 d=1 t=36
+shang bai wei le 	上百位了	c=1 d=2e-08 t=1
+shang bai xuan shou 	上百选手	c=1 d=2e-08 t=1
+shang bai zi 	上百字	c=1 d=2e-08 t=1
+shang biao ma 	商标吗	c=1 d=2e-08 t=1
+shang chuan 	上传	c=1 d=1 t=64
+shang da xue qian 	上大学前	c=1 d=2e-08 t=1
+shang fen la 	上分啦	c=1 d=2e-08 t=1
+shang ge shi 	上格式	c=1 d=2e-08 t=1
+shang ji kao shi bu da yin 	上机考试不打印	c=1 d=2e-08 t=1
+shang jia shang jia 	上家商家	c=1 d=2e-08 t=1
+shang kao chang 	上考场	c=1 d=2e-08 t=1
+shang le chuan 	上了船	c=1 d=2e-08 t=1
+shang lin chun tian 	上林春天	c=1 d=2e-08 t=1
+shang nan yang 	商南洋	c=1 d=2e-08 t=1
+shang shang tu 	上上图	c=1 d=2e-08 t=1
+shang xian hen di 	上线很低	c=1 d=2e-08 t=1
+shang yuan 	熵源	c=1 d=2e-08 t=1
+shao bo wen 	邵博文	c=1 d=2e-08 t=1
+shao ceng 	少层	c=1 d=2e-08 t=1
+shao dai 	少待	c=1 d=2e-08 t=1
+shao ju 	绍据	c=1 d=2e-08 t=1
+shao mo 	少摸	c=1 d=2e-08 t=1
+shao xue xiao 	少学校	c=1 d=2e-08 t=1
+shao yi fu yi yuan 	邵逸夫医院	c=1 d=2e-08 t=1
+she bu luo 	鞨部落	c=1 d=2e-08 t=1
+she bu xia lai 	舍不下来	c=1 d=2e-08 t=1
+she bu xia le 	舍不下了	c=1 d=2e-08 t=1
+she chuang 	设创	c=1 d=2e-08 t=1
+she hui hou 	社会后	c=1 d=2e-08 t=1
+she hui yun dong 	社会运动	c=1 d=2e-08 t=1
+she ji yu kai fa 	设计与开发	c=1 d=2e-08 t=1
+she ling 	蛇灵	c=1 d=2e-08 t=1
+she qu gong zuo zhe 	社区工作者	c=1 d=2e-08 t=1
+she shen me 	设什么	c=1 d=2e-08 t=1
+she xing 	设性	c=1 d=2e-08 t=1
+she zhi xiang dao 	设置向导	c=1 d=2e-08 t=1
+shen bao shi jian 	申报时间	c=1 d=2e-08 t=1
+shen bian shi 	身边时	c=1 d=2e-08 t=1
+shen du xin nian 	深度信念	c=1 d=2e-08 t=1
+shen du xue 	深度学	c=1 d=2e-08 t=1
+shen du xue xi 	深度学洗	c=1 d=2e-08 t=1
+shen du xue xi zhong 	深度学习中	c=1 d=2e-08 t=1
+shen du xue xi zhuan jia 	深度学习专家	c=1 d=2e-08 t=1
+shen hua qu le 	神话去了	c=1 d=2e-08 t=1
+shen jie guo 	审结果	c=1 d=2e-08 t=1
+shen ju 	神狙	c=1 d=2e-08 t=1
+shen ju shou 	神狙手	c=1 d=2e-08 t=1
+shen ju shou zhan 	神狙手站	c=1 d=2e-08 t=1
+shen lan 	深蓝	c=1 d=1 t=114
+shen me 	什么	c=1 d=1 t=113
+shen me ji neng 	什么机能	c=1 d=2e-08 t=1
+shen me jie dao 	什么街道	c=1 d=2e-08 t=1
+shen me jie gou 	什么结构	c=1 d=2e-08 t=1
+shen me shi 	什么十	c=1 d=2e-08 t=1
+shen me yi si huo 	什么意思或	c=1 d=2e-08 t=1
+shen sha bu 	神杀不	c=1 d=2e-08 t=1
+shen shu xing 	神属性	c=1 d=2e-08 t=1
+shen ti hao dian mei 	身体好点没	c=1 d=2e-08 t=1
+shen tian yong mei 	深田咏美	c=1 d=2e-08 t=1
+shen wei gan dong 	甚为感动	c=1 d=2e-08 t=1
+shen wu zai shi 	神武再世	c=1 d=2e-08 t=1
+shen wu zai shi 	神武在世	c=1 d=2e-08 t=1
+shen wu zai shi dui 	神武再世队	c=1 d=2e-08 t=1
+shen zhen ji 	神甄姬	c=1 d=2e-08 t=1
+shen zhi fu ze 	甚至负责	c=1 d=2e-08 t=1
+shen zhi neng 	甚至能	c=1 d=2e-08 t=1
+shen zhuang bei ding 	神装备顶	c=1 d=2e-08 t=1
+sheng bie 	生别	c=1 d=2e-08 t=1
+sheng cheng han shu 	生成函数	c=1 d=2e-08 t=1
+sheng cheng jian yue 	生成简约	c=1 d=2e-08 t=1
+sheng dian shi jian 	省点时间	c=1 d=2e-08 t=1
+sheng fen zhong 	省份中	c=1 d=2e-08 t=1
+sheng ge shi 	声格式	c=1 d=2e-08 t=1
+sheng hua ren shen 	生化妊娠	c=1 d=2e-08 t=1
+sheng kao shi 	省考时	c=1 d=2e-08 t=1
+sheng ku duan 	生苦短	c=1 d=2e-08 t=1
+sheng li xin xi 	生理信息	c=1 d=2e-08 t=1
+sheng li xin xi 	胜利信息	c=1 d=2e-08 t=1
+sheng shou fei 	生收费	c=1 d=2e-08 t=1
+sheng wu xue li 	生物学里	c=1 d=2e-08 t=1
+sheng wu xue shen me 	生物学什么	c=1 d=2e-08 t=1
+sheng wu yun dong 	生物运动	c=1 d=2e-08 t=1
+sheng zhi lun wen zhong 	生殖论文中	c=1 d=2e-08 t=1
+sheng zhi xiang guan 	生殖相关	c=1 d=2e-08 t=1
+shi 	是	c=2 d=1.87372 t=112
+shi ba qiang 	十八强	c=1 d=2e-08 t=1
+shi ba qiang sai 	是八强赛	c=1 d=2e-08 t=1
+shi bing ji hua 	士兵计划	c=1 d=2e-08 t=1
+shi ci 	史慈	c=1 d=2e-08 t=1
+shi cui 	实脆	c=1 d=2e-08 t=1
+shi da kai le 	是打开了	c=1 d=2e-08 t=1
+shi da lu jun 	实大陆军	c=1 d=2e-08 t=1
+shi da shi da lu jun 	实打实大陆军	c=1 d=2e-08 t=1
+shi dai de fei chang shu fu 	时代的非常舒服	c=1 d=2e-08 t=1
+shi de la ji 	是的垃圾	c=1 d=2e-08 t=1
+shi ding 	试顶	c=1 d=2e-08 t=1
+shi duo 	时多	c=1 d=2e-08 t=1
+shi duo nian 	事多年	c=1 d=2e-08 t=1
+shi fa sheng 	事发生	c=1 d=2e-08 t=1
+shi guan yu ou ba 	是关于欧巴	c=1 d=2e-08 t=1
+shi hao chi na 	是好吃那	c=1 d=2e-08 t=1
+shi he ce 	适合测	c=1 d=2e-08 t=1
+shi hou bu 	时候不	c=1 d=2e-08 t=1
+shi hua ping 	实话平	c=1 d=2e-08 t=1
+shi ji 	十季	c=1 d=2e-08 t=1
+shi ji lun 	十几轮	c=1 d=2e-08 t=1
+shi ji mei 	实际没	c=1 d=2e-08 t=1
+shi ji xie yun dong de 	是机械运动的	c=1 d=2e-08 t=1
+shi jian dian she 	时间点射	c=1 d=2e-08 t=1
+shi jian shi jie 	事件视界	c=1 d=2e-08 t=1
+shi jian zheng 	实践证	c=1 d=2e-08 t=1
+shi jue da shi 	是觉大师	c=1 d=2e-08 t=1
+shi le yi ban 	湿了一半	c=1 d=2e-08 t=1
+shi li fen 	实例分	c=1 d=2e-08 t=1
+shi li fen ge 	实例分割	c=1 d=2e-08 t=1
+shi li fen ge mo xing 	实例分割模型	c=1 d=2e-08 t=1
+shi li gan jiang 	实力干将	c=1 d=2e-08 t=1
+shi liu ji 	十六集	c=1 d=2e-08 t=1
+shi ming me 	失明么	c=1 d=2e-08 t=1
+shi mu jie gou 	石木结构	c=1 d=2e-08 t=1
+shi nian ru yi ri 	十年如一日	c=1 d=2e-08 t=1
+shi ou ran 	是偶然	c=1 d=2e-08 t=1
+shi pin bo 	视频播	c=1 d=2e-08 t=1
+shi pin jiao 	视频交	c=1 d=2e-08 t=1
+shi qi dian 	十七点	c=1 d=2e-08 t=1
+shi qing kuang er 	视情况而	c=1 d=2e-08 t=1
+shi re en 	湿热嗯	c=1 d=2e-08 t=1
+shi san ji 	十三集	c=1 d=2e-08 t=1
+shi shi bu ran 	事实不然	c=1 d=2e-08 t=1
+shi shi er 	事实而	c=1 d=2e-08 t=1
+shi shi zen me 	事实怎么	c=1 d=2e-08 t=1
+shi shi zi mu 	是是字母	c=1 d=2e-08 t=1
+shi shou li 	时手里	c=1 d=2e-08 t=1
+shi si ji 	十四集	c=1 d=2e-08 t=1
+shi tao 	施涛	c=1 d=2e-08 t=1
+shi wei 	施维	c=1 d=2e-08 t=1
+shi wu ji 	十五集	c=1 d=2e-08 t=1
+shi wu yun dong 	事物运动	c=1 d=2e-08 t=1
+shi xi 	似洗	c=1 d=2e-08 t=1
+shi xia 	室瞎	c=1 d=2e-08 t=1
+shi xian you xi zhong 	实现游戏中	c=1 d=2e-08 t=1
+shi xu shu ju 	时序数据	c=1 d=2e-08 t=1
+shi xu shu ju jiu 	时序数据就	c=1 d=2e-08 t=1
+shi yan fang zhen tu 	实验仿真图	c=1 d=2e-08 t=1
+shi yan huan jie 	实验环节	c=1 d=2e-08 t=1
+shi yan jie gai 	实验界盖	c=1 d=2e-08 t=1
+shi yan she zhi 	实验设置	c=1 d=2e-08 t=1
+shi yan shi da 	实验室打	c=1 d=2e-08 t=1
+shi yan si wei de 	实验思维得	c=1 d=2e-08 t=1
+shi yan xiao guo hao 	实验效果好	c=1 d=2e-08 t=1
+shi yan xie shi yan 	实验写实验	c=1 d=2e-08 t=1
+shi yan xu ni 	实验虚拟	c=1 d=2e-08 t=1
+shi yan yi yi 	实验意义	c=1 d=2e-08 t=1
+shi yan zhi qian 	实验之前	c=1 d=2e-08 t=1
+shi ye jiao yu 	始业教育	c=1 d=2e-08 t=1
+shi ye wu wei 	事业五位	c=1 d=2e-08 t=1
+shi yi ci ba 	试一次吧	c=1 d=2e-08 t=1
+shi yi yi yuan 	市一医院	c=1 d=2e-08 t=1
+shi ying bi 	是硬币	c=1 d=2e-08 t=1
+shi ying li qiang 	适应力强	c=1 d=2e-08 t=1
+shi yong 	使用	c=1 d=1 t=22
+shi yong wu li tian ping 	使用物理天平	c=1 d=2e-08 t=1
+shi you jie shao 	是有介绍	c=1 d=2e-08 t=1
+shi yu du yue 	始于赌约	c=1 d=2e-08 t=1
+shi zai cai ya 	实在蔡呀	c=1 d=2e-08 t=1
+shi zhong la 	始终拉	c=1 d=2e-08 t=1
+shou bu 	守不	c=1 d=2e-08 t=1
+shou chun shou 	手纯手	c=1 d=2e-08 t=1
+shou dao jiu shou dao piao 	收到就收到票	c=1 d=2e-08 t=1
+shou de duo 	瘦的多	c=1 d=2e-08 t=1
+shou dong chu fa 	手动触发	c=1 d=2e-08 t=1
+shou dong fa shi da shi 	手动阀实打实	c=1 d=2e-08 t=1
+shou dong yun xing 	手动运行	c=1 d=2e-08 t=1
+shou dong zhua 	手动抓	c=1 d=2e-08 t=1
+shou duan lai 	手段来	c=1 d=2e-08 t=1
+shou hai yuan 	收海员	c=1 d=2e-08 t=1
+shou hu hao 	守护好	c=1 d=2e-08 t=1
+shou ji 	手机	c=2 d=1.92774 t=66
+shou ji hao yi jing 	手机号已经	c=1 d=2e-08 t=1
+shou ji lai dian 	手机来电	c=1 d=2e-08 t=1
+shou ji xin pian 	手机芯片	c=1 d=2e-08 t=1
+shou jiao ling huo 	手脚灵活	c=1 d=2e-08 t=1
+shou jing fang shi 	受精方式	c=1 d=2e-08 t=1
+shou ju 	手据	c=1 d=2e-08 t=1
+shou quan yi xia ma 	授权一下吗	c=1 d=2e-08 t=1
+shou ta pai 	收他牌	c=1 d=2e-08 t=1
+shou xian 	首先	c=1 d=1 t=9
+shou xian bian yi 	首先编译	c=1 d=2e-08 t=1
+shou xu 	手许	c=1 d=2e-08 t=1
+shou yin ji a 	收音机啊	c=1 d=2e-08 t=1
+shou zhe he 	守着和	c=1 d=2e-08 t=1
+shu bao cuo 	数报错	c=1 d=2e-08 t=1
+shu biao he 	鼠标和	c=1 d=2e-08 t=1
+shu biao mo shi 	鼠标模式	c=1 d=2e-08 t=1
+shu bie song 	输别怂	c=1 d=2e-08 t=1
+shu chu hui 	输出会	c=1 d=2e-08 t=1
+shu chu jiang 	输出将	c=1 d=2e-08 t=1
+shu chu meng 	输出猛	c=1 d=2e-08 t=1
+shu chu pai 	输出拍	c=1 d=2e-08 t=1
+shu ding yi 	数定义	c=1 d=2e-08 t=1
+shu fu yu 	束缚于	c=1 d=2e-08 t=1
+shu jie dian 	树结点	c=1 d=2e-08 t=1
+shu ju bu 	数据不	c=1 d=2e-08 t=1
+shu ju ceng mian 	数据层面	c=1 d=2e-08 t=1
+shu ju ji de 	数据集的	c=1 d=2e-08 t=1
+shu ju ji dou 	数据集都	c=1 d=2e-08 t=1
+shu ju ji shang 	数据集上	c=1 d=2e-08 t=1
+shu ju lai shuo 	数据来说	c=1 d=2e-08 t=1
+shu ju mian 	数据面	c=1 d=2e-08 t=1
+shu ju te zheng 	数据特征	c=1 d=2e-08 t=1
+shu ju wang luo ke cheng 	数据网络课程	c=1 d=2e-08 t=1
+shu ju wang luo shao shu 	数据网络少数	c=1 d=2e-08 t=1
+shu ju xiang guan 	数据相关	c=1 d=2e-08 t=1
+shu ju yao 	数据要	c=1 d=2e-08 t=1
+shu ju zheng que 	数据正确	c=1 d=2e-08 t=1
+shu ju zi gong 	数据子宫	c=1 d=2e-08 t=1
+shu lai 	书来	c=1 d=2e-08 t=1
+shu li lun zhi 	数理论值	c=1 d=2e-08 t=1
+shu mei pai xiao yuan wang 	树莓派校园网	c=1 d=2e-08 t=1
+shu qi pei xun ke 	暑期培训课	c=1 d=2e-08 t=1
+shu qian shu 	书签书	c=1 d=2e-08 t=1
+shu qian shu 	书签数	c=1 d=2e-08 t=1
+shu ru fa 	输入法	c=5 d=3.89544 t=104
+shu ru shu ju ku biao 	输入数据库表	c=1 d=2e-08 t=1
+shu sheng cheng 	数生成	c=1 d=2e-08 t=1
+shu shi liu pai 	属实流派	c=1 d=2e-08 t=1
+shu xiao lv 	输效率	c=1 d=2e-08 t=1
+shu xue liang 	数学两	c=1 d=2e-08 t=1
+shu xue shen me 	数学什么	c=1 d=2e-08 t=1
+shu ying wu 	输赢无	c=1 d=2e-08 t=1
+shu yu qiao qian zhi xi 	属于乔迁之喜	c=1 d=2e-08 t=1
+shu yun 	署云	c=1 d=2e-08 t=1
+shu yun xing 	数运行	c=1 d=2e-08 t=1
+shu zi biao qian hua 	数字标签化	c=1 d=2e-08 t=1
+shu zi te 	数字特	c=1 d=2e-08 t=1
+shu zu a 	数组啊	c=1 d=2e-08 t=1
+shu zu zhi zhen 	数组指针	c=1 d=2e-08 t=1
+shua ban 	刷半	c=1 d=2e-08 t=1
+shua dian fen 	刷点分	c=1 d=2e-08 t=1
+shua feng 	刷疯	c=1 d=2e-08 t=1
+shua ge men 	刷哥们	c=1 d=2e-08 t=1
+shua guo fen 	刷过份	c=1 d=2e-08 t=1
+shua he 	刷和	c=1 d=2e-08 t=1
+shua hu sha 	刷虎鲨	c=1 d=2e-08 t=1
+shua hua 	刷化	c=1 d=2e-08 t=1
+shua si ren 	刷死人	c=1 d=2e-08 t=1
+shuan jin 	栓紧	c=1 d=2e-08 t=1
+shuan jin gou lian 	栓紧狗链	c=1 d=2e-08 t=1
+shuan shou 	栓收	c=1 d=2e-08 t=1
+shuang mian da 	双面打	c=1 d=2e-08 t=1
+shuang wai wai le 	爽歪歪了	c=1 d=2e-08 t=1
+shui biao mian 	水表面	c=1 d=2e-08 t=1
+shui bu mi mang 	谁不迷茫	c=1 d=2e-08 t=1
+shui dong a 	谁懂啊	c=1 d=2e-08 t=1
+shui dou bu ren shi shui 	谁都不认识谁	c=1 d=2e-08 t=1
+shui guo hong 	水果红	c=1 d=2e-08 t=1
+shui jian 	水溅	c=1 d=2e-08 t=1
+shui jie chu shi 	水接触时	c=1 d=2e-08 t=1
+shui kan bu jian 	谁看不见	c=1 d=2e-08 t=1
+shui li yin 	水里阴	c=1 d=2e-08 t=1
+shui ni na 	水泥那	c=1 d=2e-08 t=1
+shui ping da 	水平打	c=1 d=2e-08 t=1
+shui ping wan 	水平玩	c=1 d=2e-08 t=1
+shui ping ya 	水平呀	c=1 d=2e-08 t=1
+shui reng de 	谁扔的	c=1 d=2e-08 t=1
+shui shui shui shui shui shui 	水水水水水水	c=1 d=2e-08 t=1
+shui wen yu 	水文与	c=1 d=2e-08 t=1
+shui xia tou 	水下偷	c=1 d=2e-08 t=1
+shui xiang 	谁像	c=1 d=2e-08 t=1
+shui yao ri 	水曜日	c=1 d=2e-08 t=1
+shui you sha 	谁有杀	c=1 d=2e-08 t=1
+shui zai da 	谁在打	c=1 d=2e-08 t=1
+shui zhe 	睡着	c=1 d=2e-08 t=1
+shui zhe me wan de ma 	睡这么晚的吗	c=1 d=2e-08 t=1
+shun chai 	顺拆	c=1 d=2e-08 t=1
+shun dui 	顺队	c=1 d=2e-08 t=1
+shun li o 	顺利哦	c=1 d=2e-08 t=1
+shun ta 	顺它	c=1 d=2e-08 t=1
+shun teng 	顺藤	c=1 d=2e-08 t=1
+shun wan 	顺完	c=1 d=2e-08 t=1
+shun zhu ge 	顺诸葛	c=1 d=2e-08 t=1
+shun zou le 	顺走了	c=1 d=2e-08 t=1
+shuo cheng yi ju hua 	说成一句话	c=1 d=2e-08 t=1
+shuo da qiao 	说大乔	c=1 d=2e-08 t=1
+shuo fang yu 	说防御	c=1 d=2e-08 t=1
+shuo li 	说里	c=1 d=2e-08 t=1
+shuo ming bu 	说明不	c=1 d=2e-08 t=1
+shuo ming gai 	说明该	c=1 d=2e-08 t=1
+shuo ming ne 	说明呢	c=1 d=2e-08 t=1
+shuo san yao 	说散谣	c=1 d=2e-08 t=1
+shuo shi hang zhou 	说是杭州	c=1 d=2e-08 t=1
+shuo shi hua bu xiang 	说实话不想	c=1 d=2e-08 t=1
+shuo shi xue li 	硕士学历	c=1 d=2e-08 t=1
+shuo shi zhuan ye 	硕士专业	c=1 d=2e-08 t=1
+shuo shu biao hong 	说鼠标宏	c=1 d=2e-08 t=1
+si dao 	思道	c=1 d=2e-08 t=1
+si deng da li bao 	斯登大礼包	c=1 d=2e-08 t=1
+si dun 	斯敦	c=1 d=2e-08 t=1
+si fa deng 	司法等	c=1 d=2e-08 t=1
+si fu dian zi 	伺服电子	c=1 d=2e-08 t=1
+si ge ju 	四个狙	c=1 d=2e-08 t=1
+si ge shi 	似格式	c=1 d=2e-08 t=1
+si guan wang 	斯官网	c=1 d=2e-08 t=1
+si jia 	死家	c=1 d=2e-08 t=1
+si liu ji kao shi 	四六级考试	c=1 d=2e-08 t=1
+si ma ye 	司马冶	c=1 d=2e-08 t=1
+si ren bu 	死人不	c=1 d=2e-08 t=1
+si shi si ci 	四十四次	c=1 d=2e-08 t=1
+si tai er bu 	斯泰尔不	c=1 d=2e-08 t=1
+si tai er bu da 	斯泰尔不打	c=1 d=2e-08 t=1
+si tai er ya zhu 	斯泰尔压住	c=1 d=2e-08 t=1
+si wang yang 	死王旸	c=1 d=2e-08 t=1
+si wang zhi yan wan 	死亡之眼玩	c=1 d=2e-08 t=1
+si wei dao 	思维导	c=1 d=2e-08 t=1
+si xing 	四型	c=1 d=2e-08 t=1
+si you biao zhu 	私有标注	c=1 d=2e-08 t=1
+song de ren 	送的人	c=1 d=2e-08 t=1
+song fang song 	松放松	c=1 d=2e-08 t=1
+song fen ni 	送分你	c=1 d=2e-08 t=1
+song jue xing 	送觉醒	c=1 d=2e-08 t=1
+song ma 	送马	c=1 d=2e-08 t=1
+song sha 	送杀	c=1 d=2e-08 t=1
+song shen me pai 	送什么牌	c=1 d=2e-08 t=1
+song zhou tai shua shou 	送周泰刷手	c=1 d=2e-08 t=1
+sou suo fang fa fa 	搜索方法发	c=1 d=2e-08 t=1
+su dong 	肃动	c=1 d=2e-08 t=1
+su fen xi 	素分析	c=1 d=2e-08 t=1
+su shu ma 	素数马	c=1 d=2e-08 t=1
+su wang yang 	肃王扬	c=1 d=2e-08 t=1
+su zhu yu 	诉诸于	c=1 d=2e-08 t=1
+suan de 	算地	c=1 d=2e-08 t=1
+suan fa she ji yu fen xi 	算法设计与分析	c=1 d=2e-08 t=1
+suan fang yu 	算防御	c=1 d=2e-08 t=1
+suan hao hou 	算好后	c=1 d=2e-08 t=1
+suan shu le 	算数了	c=1 d=2e-08 t=1
+sui ji dian ming 	随机点名	c=1 d=2e-08 t=1
+sui ni zhi shen bu ke ce 	随你至深不可测	c=1 d=2e-08 t=1
+sui yuan la 	随缘啦	c=1 d=2e-08 t=1
+sun hai shou 	损害收	c=1 d=2e-08 t=1
+sun quan wan 	孙权玩	c=1 d=2e-08 t=1
+sun xiao yan 	孙晓燕	c=1 d=2e-08 t=1
+sun ya 	损压	c=1 d=2e-08 t=1
+suo kan guo 	所看过	c=1 d=2e-08 t=1
+suo rui 	索睿	c=1 d=2e-08 t=1
+suo shu xue yuan 	所属学院	c=1 d=2e-08 t=1
+suo te you 	所特有	c=1 d=2e-08 t=1
+suo yue du 	所阅读	c=1 d=2e-08 t=1
+ta ban jin ba 	他半斤八	c=1 d=2e-08 t=1
+ta bu ye 	他不也	c=1 d=2e-08 t=1
+ta de si xiang 	他的思想	c=1 d=2e-08 t=1
+ta dui wo hao 	她对我好	c=1 d=2e-08 t=1
+ta dui yu 	它对与	c=1 d=2e-08 t=1
+ta hen wen 	他很稳	c=1 d=2e-08 t=1
+ta huo bu nu li 	他或不努力	c=1 d=2e-08 t=1
+ta jia men kou 	她家门口	c=1 d=2e-08 t=1
+ta kai lia 	他开俩	c=1 d=2e-08 t=1
+ta ma fan 	他麻烦	c=1 d=2e-08 t=1
+ta nan xun 	他南浔	c=1 d=2e-08 t=1
+ta xiang ge 	她像个	c=1 d=2e-08 t=1
+ta yan xi 	他演戏	c=1 d=2e-08 t=1
+ta yao 	塔要	c=1 d=2e-08 t=1
+ta ye you le 	他也有了	c=1 d=2e-08 t=1
+ta you 	她友	c=1 d=2e-08 t=1
+ta you bu 	他又不	c=1 d=2e-08 t=1
+tai da ti 	台答题	c=1 d=2e-08 t=1
+tai dai le 	太呆了	c=1 d=2e-08 t=1
+tai diao 	台调	c=1 d=2e-08 t=1
+tai duo ju 	太多狙	c=1 d=2e-08 t=1
+tai guo dian ying 	泰国电影	c=1 d=2e-08 t=1
+tai hao 	台好	c=1 d=2e-08 t=1
+tai ji suan ji 	台计算机	c=1 d=2e-08 t=1
+tai jin bu le 	抬进不了	c=1 d=2e-08 t=1
+tai ju a 	抬举啊	c=1 d=2e-08 t=1
+tai luan 	台乱	c=1 d=2e-08 t=1
+tai mei 	台没	c=1 d=2e-08 t=1
+tai shi ji yong 	台式机用	c=1 d=2e-08 t=1
+tai wan ren shuo 	台湾人说	c=1 d=2e-08 t=1
+tai wan ren shuo de 	台湾人说的	c=1 d=2e-08 t=1
+tai xiao 	太笑	c=1 d=2e-08 t=1
+tai ya 	台压	c=1 d=2e-08 t=1
+tai yin 	台阴	c=1 d=2e-08 t=1
+tai zhong 	台终	c=1 d=2e-08 t=1
+tan jiu 	谭久	c=1 d=2e-08 t=1
+tan lao 	谭老	c=1 d=2e-08 t=1
+tan lao de 	谭老的	c=1 d=2e-08 t=1
+tan qi bing 	弹起并	c=1 d=2e-08 t=1
+tan tan ji chu 	谈谈基础	c=1 d=2e-08 t=1
+tan zi qiang 	谭自强	c=1 d=2e-08 t=1
+tang jia qi 	唐佳琪	c=1 d=2e-08 t=1
+tao bao chong 	淘宝冲	c=1 d=2e-08 t=1
+tao bie 	桃别	c=1 d=2e-08 t=1
+tao bu zou le 	逃不走了	c=1 d=2e-08 t=1
+tao cai 	桃才	c=1 d=2e-08 t=1
+tao jian 	套键	c=1 d=2e-08 t=1
+tao sha 	桃啥	c=1 d=2e-08 t=1
+tao shan 	桃闪	c=1 d=2e-08 t=1
+tao shu wei 	套数为	c=1 d=2e-08 t=1
+tao shu wu 	桃树坞	c=1 d=2e-08 t=1
+tao zhi 	桃直	c=1 d=2e-08 t=1
+tao zi bu 	桃子不	c=1 d=2e-08 t=1
+te ding bu 	特定部	c=1 d=2e-08 t=1
+te ding bu fen 	特定部分	c=1 d=2e-08 t=1
+te ding xing 	特定行	c=1 d=2e-08 t=1
+te lin 	特林	c=1 d=2e-08 t=1
+te lin hong dian 	特林宏点	c=1 d=2e-08 t=1
+te si xiao ying 	特斯效应	c=1 d=2e-08 t=1
+te xiao ying 	特效应	c=1 d=2e-08 t=1
+te zhe ti qu 	特折提取	c=1 d=2e-08 t=1
+te zheng ji 	特征级	c=1 d=2e-08 t=1
+te zheng rong he 	特征融合	c=1 d=2e-08 t=1
+te zheng suo 	特征所	c=1 d=2e-08 t=1
+te zheng wei du 	特征维度	c=1 d=2e-08 t=1
+te zheng xin xi 	特征信息	c=1 d=2e-08 t=1
+te zheng yi 	特征以	c=1 d=2e-08 t=1
+teng jia cai 	藤甲蔡	c=1 d=2e-08 t=1
+teng jia wu shi 	藤甲无视	c=1 d=2e-08 t=1
+teng jia xia 	藤甲下	c=1 d=2e-08 t=1
+teng xun hui yi 	腾讯会议	c=1 d=2e-08 t=1
+teng xun wen dang 	腾讯文档	c=1 d=2e-08 t=1
+teng xun yun han 	腾讯云函	c=1 d=2e-08 t=1
+ti chou 	体丑	c=1 d=2e-08 t=1
+ti fei ying 	体飞鹰	c=1 d=2e-08 t=1
+ti hao he 	题号和	c=1 d=2e-08 t=1
+ti hao yu 	题号与	c=1 d=2e-08 t=1
+ti huan wen 	替换文	c=1 d=2e-08 t=1
+ti li he 	体力和	c=1 d=2e-08 t=1
+ti lian cheng 	提炼成	c=1 d=2e-08 t=1
+ti lian hou 	提炼后	c=1 d=2e-08 t=1
+ti mu yao he 	题目要和	c=1 d=2e-08 t=1
+ti qian qiang 	提前枪	c=1 d=2e-08 t=1
+ti qiu guo 	踢球过	c=1 d=2e-08 t=1
+ti qu cheng 	提取成	c=1 d=2e-08 t=1
+ti qu wen dang 	提取文档	c=1 d=2e-08 t=1
+ti shi shou ji 	提示手机	c=1 d=2e-08 t=1
+ti tai 	题太	c=1 d=2e-08 t=1
+ti wai shou 	体外收	c=1 d=2e-08 t=1
+ti wai shou jing 	体外受精	c=1 d=2e-08 t=1
+ti wai shou jing ji shu 	体外受精技术	c=1 d=2e-08 t=1
+ti xian zai na 	体现在哪	c=1 d=2e-08 t=1
+ti xu 	题需	c=1 d=2e-08 t=1
+ti zhi wen 	题纸文	c=1 d=2e-08 t=1
+ti zi kou 	梯子口	c=1 d=2e-08 t=1
+tian gong 	天功	c=1 d=2e-08 t=1
+tian gong zuo 	天工作	c=1 d=2e-08 t=1
+tian ji tu 	天机图	c=1 d=2e-08 t=1
+tian jia wo 	添加我	c=1 d=2e-08 t=1
+tian jia yi 	添加以	c=1 d=2e-08 t=1
+tian le jiu you feng 	填了就有风	c=1 d=2e-08 t=1
+tian qi hao de hua 	天气好的话	c=1 d=2e-08 t=1
+tian ran ci tie kuang shi 	天然磁铁矿石	c=1 d=2e-08 t=1
+tian yi wang pan 	天翼网盘	c=1 d=2e-08 t=1
+tian yo 	天哟	c=1 d=2e-08 t=1
+tian yuan lu 	田源路	c=1 d=2e-08 t=1
+tiao gou dai 	条苟带	c=1 d=2e-08 t=1
+tiao ji ming e 	调剂名额	c=1 d=2e-08 t=1
+tiao ming 	跳明	c=1 d=2e-08 t=1
+tiao pen 	跳喷	c=1 d=2e-08 t=1
+tiao shi shi bai 	调试失败	c=1 d=2e-08 t=1
+tiao tiao de 	条条的	c=1 d=2e-08 t=1
+tiao xu 	挑许	c=1 d=2e-08 t=1
+tiao yi xia shun xu 	调一下顺序	c=1 d=2e-08 t=1
+tie ba duo 	贴吧多	c=1 d=2e-08 t=1
+tie ba le he le he 	贴吧乐呵乐呵	c=1 d=2e-08 t=1
+tie fei 	铁费	c=1 d=2e-08 t=1
+tie lian le 	铁链了	c=1 d=2e-08 t=1
+tie suo sha 	铁索杀	c=1 d=2e-08 t=1
+tie suo shang 	铁索上	c=1 d=2e-08 t=1
+ting chi de 	挺迟的	c=1 d=2e-08 t=1
+ting jiao xiu 	听娇羞	c=1 d=2e-08 t=1
+ting zhen shi de 	挺真实的	c=1 d=2e-08 t=1
+ting zhi ji lu 	停止记录	c=1 d=2e-08 t=1
+ting zhi jian de 	停止间的	c=1 d=2e-08 t=1
+ting zhi yue 	停止阅	c=1 d=2e-08 t=1
+tong bu 	同步	c=4 d=3.07918 t=99
+tong bu bie ren 	同步别人	c=1 d=2e-08 t=1
+tong bu cang ku er 	同步仓库而	c=1 d=2e-08 t=1
+tong bu qi 	同步其	c=1 d=2e-08 t=1
+tong dao shu wei 	通道数位	c=1 d=2e-08 t=1
+tong dian le 	痛点了	c=1 d=2e-08 t=1
+tong gong zuo 	同工作	c=1 d=2e-08 t=1
+tong guo cha yue 	通过查阅	c=1 d=2e-08 t=1
+tong guo yi zhong 	通过一种	c=1 d=2e-08 t=1
+tong ji duo 	统级多	c=1 d=2e-08 t=1
+tong ji su shu 	统计素数	c=1 d=2e-08 t=1
+tong ji sui ji xing 	统计随机性	c=1 d=2e-08 t=1
+tong ping 	通平	c=1 d=2e-08 t=1
+tong shi zhao 	同时找	c=1 d=2e-08 t=1
+tong wen 	同文	c=4 d=3.79163 t=95
+tong xiao lv 	通效率	c=1 d=2e-08 t=1
+tong xin guan dao zhong 	通信管道中	c=1 d=2e-08 t=1
+tong xue dui 	同学对	c=1 d=2e-08 t=1
+tong xue xin xi wu wu 	同学信息无误	c=1 d=2e-08 t=1
+tong yi 	通义	c=1 d=2e-08 t=1
+tong yi da bian 	同意答辩	c=1 d=2e-08 t=1
+tong yi ge 	同一个	c=1 d=1 t=23
+tong yi yu sha 	同意与沙	c=1 d=2e-08 t=1
+tong yun shu bu 	通运输部	c=1 d=2e-08 t=1
+tong zhi qin 	同志勤	c=1 d=2e-08 t=1
+tong zhu ren 	童主任	c=1 d=2e-08 t=1
+tou bi o 	投币哦	c=1 d=2e-08 t=1
+tou di dao 	偷地道	c=1 d=2e-08 t=1
+tou jie dian he tou zhi zhen 	头节点和头指针	c=1 d=2e-08 t=1
+tou ku 	头裤	c=1 d=2e-08 t=1
+tou kui zhe 	偷窥者	c=1 d=2e-08 t=1
+tou ma le 	头马了	c=1 d=2e-08 t=1
+tou po 	透破	c=1 d=2e-08 t=1
+tou shan 	偷闪	c=1 d=2e-08 t=1
+tou shang lai 	头上来	c=1 d=2e-08 t=1
+tou xiang bu 	投降不	c=1 d=2e-08 t=1
+tu di le ma 	土地了吗	c=1 d=2e-08 t=1
+tu di san 	图第三	c=1 d=2e-08 t=1
+tu he biao 	图和表	c=1 d=2e-08 t=1
+tu la ding ba 	图拉丁吧	c=1 d=2e-08 t=1
+tu ling lian 	图灵联	c=1 d=2e-08 t=1
+tu mu ji suan ji 	土木计算机	c=1 d=2e-08 t=1
+tu pian qian 	图片嵌	c=1 d=2e-08 t=1
+tu pian ru 	图片如	c=1 d=2e-08 t=1
+tu ran song 	突然松	c=1 d=2e-08 t=1
+tu xiang dui yu 	图像对于	c=1 d=2e-08 t=1
+tu xiang ling yu 	图像领域	c=1 d=2e-08 t=1
+tu xiang shu ru 	图像输入	c=1 d=2e-08 t=1
+tu xiang te zheng 	图像特征	c=1 d=2e-08 t=1
+tu xiang yan jiu fang 	图像研究方	c=1 d=2e-08 t=1
+tu xing xu ruo 	图形虚弱	c=1 d=2e-08 t=1
+tuan dui jing ji 	团队竞技	c=1 d=2e-08 t=1
+tuan tui you 	团推优	c=1 d=2e-08 t=1
+tuan zhi shu hao 	团支书好	c=1 d=2e-08 t=1
+tui chang le 	退场了	c=1 d=2e-08 t=1
+tui ke 	退可	c=1 d=2e-08 t=1
+tui li tu 	推理图	c=1 d=2e-08 t=1
+tui ruan le 	腿软了	c=1 d=2e-08 t=1
+tui te ming zi 	推特名字	c=1 d=2e-08 t=1
+tui tui rang rang 	推推让让	c=1 d=2e-08 t=1
+tui yi 	推一	c=1 d=2e-08 t=1
+tui yi da xue sheng 	退役大学生	c=1 d=2e-08 t=1
+tui you xi 	退游戏	c=1 d=2e-08 t=1
+tui you xi ba 	退游戏吧	c=1 d=2e-08 t=1
+tun sha 	屯杀	c=1 d=2e-08 t=1
+tun shan 	屯闪	c=1 d=2e-08 t=1
+tun xi fen ju 	屯溪分局	c=1 d=2e-08 t=1
+tun zhe pai 	屯着拍	c=1 d=2e-08 t=1
+tuo dan gao ji 	脱单告急	c=1 d=2e-08 t=1
+tuo dao shi 	拖到十	c=1 d=2e-08 t=1
+tuo dou 	拖都	c=1 d=2e-08 t=1
+tuo fa 	脱法	c=1 d=2e-08 t=1
+tuo mei 	拖没	c=1 d=2e-08 t=1
+tuo pu qi ye 	拓扑企业	c=1 d=2e-08 t=1
+wa le ge ca 	挖了个擦	c=1 d=2e-08 t=1
+wa luo lan te 	瓦洛兰特	c=1 d=2e-08 t=1
+wa ma hui lai 	娃妈回来	c=1 d=2e-08 t=1
+wa wa wa wa wa 	哇哇哇哇哇	c=1 d=2e-08 t=1
+wa wa wa wa wa wa wa 	哇哇哇哇哇哇哇	c=1 d=2e-08 t=1
+wa wa wa wa wa wa wa wa 	哇哇哇哇哇哇哇哇	c=1 d=2e-08 t=1
+wa wa wa wa wa wa wa wa wa wa 	哇哇哇哇哇哇哇哇哇哇	c=1 d=2e-08 t=1
+wa wa wa wa wa wa wa wa wa wa wa 	哇哇哇哇哇哇哇哇哇哇哇	c=1 d=2e-08 t=1
+wai dian liu biao dian liu biao 	外电流表电流表	c=1 d=2e-08 t=1
+wai fang ting 	外放听	c=1 d=2e-08 t=1
+wai ga 	外噶	c=1 d=2e-08 t=1
+wai gei 	外给	c=1 d=2e-08 t=1
+wai gua suo tou 	外挂锁头	c=1 d=2e-08 t=1
+wai guan he 	外观和	c=1 d=2e-08 t=1
+wai jiao ying 	外教英	c=1 d=2e-08 t=1
+wai jie fa 	外接法	c=1 d=2e-08 t=1
+wai xiang su 	外像素	c=1 d=2e-08 t=1
+wan a wu nai 	玩啊无奈	c=1 d=2e-08 t=1
+wan cai 	玩才	c=1 d=2e-08 t=1
+wan da jin jie 	万达金街	c=1 d=2e-08 t=1
+wan de 	玩地	c=1 d=2e-08 t=1
+wan duo xue 	万多学	c=1 d=2e-08 t=1
+wan fa me 	玩法么	c=1 d=2e-08 t=1
+wan ge tui you xi 	玩个退游戏	c=1 d=2e-08 t=1
+wan jian diao 	万箭吊	c=1 d=2e-08 t=1
+wan jian me 	万剑么	c=1 d=2e-08 t=1
+wan jian mei 	万剑没	c=1 d=2e-08 t=1
+wan jian ne 	万箭呢	c=1 d=2e-08 t=1
+wan ju ka 	玩狙卡	c=1 d=2e-08 t=1
+wan le bei 	玩了呗	c=1 d=2e-08 t=1
+wan qi rong he 	晚期融合	c=1 d=2e-08 t=1
+wan qian li 	玩千里	c=1 d=2e-08 t=1
+wan sheng hua 	玩生化	c=1 d=2e-08 t=1
+wan ting hao 	玩挺好	c=1 d=2e-08 t=1
+wan yi ka 	玩意卡	c=1 d=2e-08 t=1
+wan yi zhi 	玩意直	c=1 d=2e-08 t=1
+wan yu 	宛瑜	c=1 d=2e-08 t=1
+wan yu 	宛育	c=1 d=2e-08 t=1
+wan zai sha gu ke 	玩宰杀顾客	c=1 d=2e-08 t=1
+wang cheng quan 	王成全	c=1 d=2e-08 t=1
+wang dun 	王盾	c=1 d=2e-08 t=1
+wang gen ni shuo le 	忘跟你说了	c=1 d=2e-08 t=1
+wang hao bo 	汪昊博	c=1 d=2e-08 t=1
+wang hou sha 	往后杀	c=1 d=2e-08 t=1
+wang huo 	王火	c=1 d=2e-08 t=1
+wang ji shuo xi jie le 	忘记说洗劫了	c=1 d=2e-08 t=1
+wang jia men 	王家门	c=1 d=2e-08 t=1
+wang jian xun 	王建勋	c=1 d=2e-08 t=1
+wang jin rong 	王金荣	c=1 d=2e-08 t=1
+wang luo geng 	网络梗	c=1 d=2e-08 t=1
+wang luo tai ka 	网络太卡	c=1 d=2e-08 t=1
+wang luo xue 	网络学	c=1 d=2e-08 t=1
+wang luo yi ji 	网络以及	c=1 d=2e-08 t=1
+wang qian yi 	往前移	c=1 d=2e-08 t=1
+wang shou dao 	网收到	c=1 d=2e-08 t=1
+wang tian peng 	王天鹏	c=1 d=2e-08 t=1
+wang xuan shou 	网选手	c=1 d=2e-08 t=1
+wang xue zhang 	汪学长	c=1 d=2e-08 t=1
+wang xue zhang 	王学长	c=1 d=2e-08 t=1
+wang yang 	王扬	c=1 d=1 t=1
+wang yang da 	王扬大	c=1 d=2e-08 t=1
+wang yang hu zhu 	王扬互助	c=1 d=2e-08 t=1
+wang yang zuo ye 	王扬作业	c=1 d=2e-08 t=1
+wang ye bu rang 	网页不让	c=1 d=2e-08 t=1
+wang ye cun dang 	网页存当	c=1 d=2e-08 t=1
+wang zhe ta de 	望着她的	c=1 d=2e-08 t=1
+wang zhong de 	王忠德	c=1 d=2e-08 t=1
+wei bang guo 	未绑过	c=1 d=2e-08 t=1
+wei dao 	维导	c=1 d=2e-08 t=1
+wei duo bi 	为躲避	c=1 d=2e-08 t=1
+wei fu 	位符	c=1 d=2e-08 t=1
+wei guan liang 	微观量	c=1 d=2e-08 t=1
+wei jian du 	为监督	c=1 d=2e-08 t=1
+wei jin liang 	位尽量	c=1 d=2e-08 t=1
+wei kai yuan 	为开源	c=1 d=2e-08 t=1
+wei lai ke qi 	未来可期	c=1 d=2e-08 t=1
+wei le fou ding yun dong 	为了否定运动	c=1 d=2e-08 t=1
+wei neng xing 	位能性	c=1 d=2e-08 t=1
+wei neng xing 	位能行	c=1 d=2e-08 t=1
+wei qi zi 	为妻子	c=1 d=2e-08 t=1
+wei ruan 	微软	c=1 d=1 t=89
+wei ruan ying wen shu ru fa 	微软英文输入法	c=1 d=2e-08 t=1
+wei ruan zi dai 	微软自带	c=1 d=2e-08 t=1
+wei shao 	维少	c=1 d=2e-08 t=1
+wei suo you 	为所有	c=1 d=2e-08 t=1
+wei ti dao 	未提到	c=1 d=2e-08 t=1
+wei tong xue 	维同学	c=1 d=2e-08 t=1
+wei xia ci 	为下次	c=1 d=2e-08 t=1
+wei xin li shuo 	微信里说	c=1 d=2e-08 t=1
+wei xing zhou 	卫星轴	c=1 d=2e-08 t=1
+wei yan kai 	魏延开	c=1 d=2e-08 t=1
+wei yan lia 	魏延俩	c=1 d=2e-08 t=1
+wei yan xia 	魏延瞎	c=1 d=2e-08 t=1
+wei yi yi dui 	唯一一对	c=1 d=2e-08 t=1
+wei yu tai hu 	位于太湖	c=1 d=2e-08 t=1
+wei zhen zhi 	微针植	c=1 d=2e-08 t=1
+wei zhi biao qian 	未知标签	c=1 d=2e-08 t=1
+wei zhi tiao zheng 	位置调整	c=1 d=2e-08 t=1
+wei zhu ren 	为主任	c=1 d=2e-08 t=1
+wen deng 	问等	c=1 d=2e-08 t=1
+wen ding shi 	稳定时	c=1 d=2e-08 t=1
+wen ding xia lai le 	稳定下来了	c=1 d=2e-08 t=1
+wen e 	文娥	c=1 d=2e-08 t=1
+wen gan ning 	问甘宁	c=1 d=2e-08 t=1
+wen han zi xie 	文汉字写	c=1 d=2e-08 t=1
+wen he ji 	文合计	c=1 d=2e-08 t=1
+wen ji 	文级	c=2 d=1 t=62
+wen jia kuai 	问加快	c=1 d=2e-08 t=1
+wen jian 	文件	c=1 d=1 t=63
+wen jian cong 	文件从	c=1 d=2e-08 t=1
+wen jian gai 	文件改	c=1 d=2e-08 t=1
+wen jian ming ming 	文件命名	c=1 d=2e-08 t=1
+wen jian ru he jie ya cheng wen jian jia 	文件如何解压成文件夹	c=1 d=2e-08 t=1
+wen jie shao 	文介绍	c=1 d=2e-08 t=1
+wen liang ju 	问两句	c=1 d=2e-08 t=1
+wen ti mu 	文题目	c=1 d=2e-08 t=1
+wen wen bi er 	问问比尔	c=1 d=2e-08 t=1
+wen xian bu luo 	文献部落	c=1 d=2e-08 t=1
+wen xian lie biao 	文献列表	c=1 d=2e-08 t=1
+wen xian wen xian 	文献文献	c=1 d=2e-08 t=1
+wen xian yue du 	文献月度	c=1 d=2e-08 t=1
+wen xin yi yan 	文心一眼	c=1 d=2e-08 t=1
+wen xin yi yan 	文心一言	c=1 d=2e-08 t=1
+wen xin yi yan zuo 	文心一言做	c=1 d=2e-08 t=1
+wen yi ai xian zhi 	文艺爱限制	c=1 d=2e-08 t=1
+wen yi bing 	文艺兵	c=1 d=2e-08 t=1
+wen ying ju 	稳赢局	c=1 d=2e-08 t=1
+wen zhang kai tou 	文章开头	c=1 d=2e-08 t=1
+wen zhang lun wen 	文章论文	c=1 d=2e-08 t=1
+wen zhang shu liang 	文章数量	c=1 d=2e-08 t=1
+wen zhang zai 	文章在	c=1 d=2e-08 t=1
+wen zhang zhuan zai 	文章转载	c=1 d=2e-08 t=1
+wen zhang zhuan zai dao wei bo 	文章转载到微博	c=1 d=2e-08 t=1
+wen zhu fang yu 	稳住防御	c=1 d=2e-08 t=1
+wen zhu ju 	稳住局	c=1 d=2e-08 t=1
+wen zi dao 	文字到	c=1 d=2e-08 t=1
+wen zi qu xiao 	文字取消	c=1 d=2e-08 t=1
+wen zi wen dang 	文字文档	c=1 d=2e-08 t=1
+wen zi zi ding 	文字自定	c=1 d=2e-08 t=1
+weng weng weng weng weng weng 	嗡嗡嗡嗡嗡嗡	c=1 d=2e-08 t=1
+wo 	我	c=3 d=2.88995 t=41
+wo ben jiang xin 	我本将心	c=1 d=2e-08 t=1
+wo bu gan dong 	我不敢动	c=1 d=2e-08 t=1
+wo bu qu er ding 	我不去而定	c=1 d=2e-08 t=1
+wo bu yi ding ji 	我不一定急	c=1 d=2e-08 t=1
+wo cao bi 	卧槽比	c=1 d=2e-08 t=1
+wo da chu cuo 	我打出错	c=1 d=2e-08 t=1
+wo dei you 	我得游	c=1 d=2e-08 t=1
+wo dou kong 	我都空	c=1 d=2e-08 t=1
+wo dou you dian xiang 	我都有点想	c=1 d=2e-08 t=1
+wo guo she 	我国社	c=1 d=2e-08 t=1
+wo hai huo 	我还活	c=1 d=2e-08 t=1
+wo he gui 	我和鬼	c=1 d=2e-08 t=1
+wo jia li deng si 	窝家里等死	c=1 d=2e-08 t=1
+wo jia mei 	我家没	c=1 d=2e-08 t=1
+wo jiu dui ta hao 	我就对他好	c=1 d=2e-08 t=1
+wo jiu gong 	我舅公	c=1 d=2e-08 t=1
+wo jiu lai da 	我就来打	c=1 d=2e-08 t=1
+wo long feng chu 	卧龙凤雏	c=1 d=2e-08 t=1
+wo mei dao 	我没刀	c=1 d=2e-08 t=1
+wo mei mao bing 	我没毛病	c=1 d=2e-08 t=1
+wo mei o guan xi de 	我没哦关系的	c=1 d=2e-08 t=1
+wo men bie 	我们别	c=1 d=2e-08 t=1
+wo mo pai 	我摸牌	c=1 d=2e-08 t=1
+wo neng chai 	我能拆	c=1 d=2e-08 t=1
+wo neng gen shui shuo 	我能跟谁说	c=1 d=2e-08 t=1
+wo neng hui qu ma 	我能回去吗	c=1 d=2e-08 t=1
+wo shi wang yang 	我是汪洋	c=1 d=2e-08 t=1
+wo shuo hua me 	我说话么	c=1 d=2e-08 t=1
+wo shuo xue xi 	我说学习	c=1 d=2e-08 t=1
+wo si dang mai 	我死党买	c=1 d=2e-08 t=1
+wo si wang yang 	我死王旸	c=1 d=2e-08 t=1
+wo xian shang wang 	我先上网	c=1 d=2e-08 t=1
+wo xiang yao que ren 	我想要确认	c=1 d=2e-08 t=1
+wo yao se 	我要色	c=1 d=2e-08 t=1
+wo ye kan chu lai le 	我也看出来了	c=1 d=2e-08 t=1
+wo ye mei tao 	我也没桃	c=1 d=2e-08 t=1
+wo yong 	我用	c=1 d=1 t=50
+wo you ge 	我有个	c=1 d=1 t=16
+wo zai zhua 	我再抓	c=1 d=2e-08 t=1
+wo zhuan ma cheng gong er ling 	我转码成功二零	c=1 d=2e-08 t=1
+wu biao qian te 	无标签特	c=1 d=2e-08 t=1
+wu dian liu 	无电流	c=1 d=2e-08 t=1
+wu e yi 	无恶意	c=1 d=2e-08 t=1
+wu gang qiang 	无钢枪	c=1 d=2e-08 t=1
+wu ge deng ji 	五个等级	c=1 d=2e-08 t=1
+wu gu ke yi 	五谷可以	c=1 d=2e-08 t=1
+wu gu sha 	五谷啥	c=1 d=2e-08 t=1
+wu guan te zheng 	无关特征	c=1 d=2e-08 t=1
+wu guan xiang 	无关项	c=1 d=2e-08 t=1
+wu gui bei 	乌龟呗	c=1 d=2e-08 t=1
+wu gui na 	无归纳	c=1 d=2e-08 t=1
+wu gui yi yang 	乌龟一样	c=1 d=2e-08 t=1
+wu guo de 	吴国的	c=1 d=2e-08 t=1
+wu guo ju 	吴国局	c=1 d=2e-08 t=1
+wu guo yi 	吴国一	c=1 d=2e-08 t=1
+wu guo zhi 	吴国至	c=1 d=2e-08 t=1
+wu guo zuo 	吴国做	c=1 d=2e-08 t=1
+wu hen mo shi 	无痕模式	c=1 d=2e-08 t=1
+wu hua ke 	无话可	c=1 d=2e-08 t=1
+wu jia 	无加	c=1 d=2e-08 t=1
+wu jiang bao 	武将包	c=1 d=2e-08 t=1
+wu jie ju 	无结局	c=1 d=2e-08 t=1
+wu li tian ping 	物理天平	c=1 d=2e-08 t=1
+wu li xue yan 	物理学眼	c=1 d=2e-08 t=1
+wu nao sha 	无脑杀	c=1 d=2e-08 t=1
+wu shi fang ju 	无视防具	c=1 d=2e-08 t=1
+wu shi jie jing ji 	五世界经济	c=1 d=2e-08 t=1
+wu shua zhi liu 	无刷直流	c=1 d=2e-08 t=1
+wu song 	雾凇	c=3 d=2.77759 t=82
+wu ti mi du 	物体密度	c=1 d=2e-08 t=1
+wu ti shi li 	物体实例	c=1 d=2e-08 t=1
+wu xian qiao jie 	无线桥接	c=1 d=2e-08 t=1
+wu xian tao yuan 	无限桃园	c=1 d=2e-08 t=1
+wu xiao lu 	无效路	c=1 d=2e-08 t=1
+wu xie sha 	无邪杀	c=1 d=2e-08 t=1
+wu xie wo 	无邪我	c=1 d=2e-08 t=1
+wu xie zhu 	无邪主	c=1 d=2e-08 t=1
+wu xiu me 	午休么	c=1 d=2e-08 t=1
+wu ye yang guang 	午夜阳光	c=1 d=2e-08 t=1
+wu yu qu 	吴语区	c=1 d=2e-08 t=1
+wu yuan si xi 	五院四系	c=1 d=2e-08 t=1
+wu zhao 	午找	c=1 d=2e-08 t=1
+wu zhe jiao cha 	五折交叉	c=1 d=2e-08 t=1
+wu zhua 	午抓	c=1 d=2e-08 t=1
+xi ai xia zhou 	喜爱下周	c=1 d=2e-08 t=1
+xi bao chong die 	细胞重叠	c=1 d=2e-08 t=1
+xi bao he yu 	细胞核与	c=1 d=2e-08 t=1
+xi bao shi li 	细胞实例	c=1 d=2e-08 t=1
+xi bao shi li feng ge 	细胞实例风格	c=1 d=2e-08 t=1
+xi bao xue de 	细胞学的	c=1 d=2e-08 t=1
+xi hai 	西还	c=1 d=2e-08 t=1
+xi hao zhi 	喜好之	c=1 d=2e-08 t=1
+xi huan du 	喜欢堵	c=1 d=2e-08 t=1
+xi huan jiu zhui 	喜欢就追	c=1 d=2e-08 t=1
+xi huan ka 	喜欢卡	c=1 d=2e-08 t=1
+xi huan ka lu 	喜欢卡路	c=1 d=2e-08 t=1
+xi huan mang 	喜欢盲	c=1 d=2e-08 t=1
+xi huan tuo 	喜欢拖	c=1 d=2e-08 t=1
+xi huan zhan 	喜欢站	c=1 d=2e-08 t=1
+xi huan zuo si 	喜欢作死	c=1 d=2e-08 t=1
+xi jie li 	细节理	c=1 d=2e-08 t=1
+xi jie xue 	细节学	c=1 d=2e-08 t=1
+xi jin 	习近	c=1 d=2e-08 t=1
+xi le gen yan 	吸了根烟	c=1 d=2e-08 t=1
+xi nan hua yuan 	西南花园	c=1 d=2e-08 t=1
+xi shu yu 	习术语	c=1 d=2e-08 t=1
+xi tong 	习通	c=1 d=2e-08 t=1
+xi tong fen xi yu 	系统分析与	c=1 d=2e-08 t=1
+xi tou lao 	洗头老	c=1 d=2e-08 t=1
+xi xi shui e le 	洗洗睡饿了	c=1 d=2e-08 t=1
+xi xin du 	细心度	c=1 d=2e-08 t=1
+xi xin he 	细心核	c=1 d=2e-08 t=1
+xi yi 	西移	c=1 d=2e-08 t=1
+xi zhen duo 	西真多	c=1 d=2e-08 t=1
+xia ban zai 	下班再	c=1 d=2e-08 t=1
+xia duan luo 	下段落	c=1 d=2e-08 t=1
+xia he 	下合	c=1 d=2e-08 t=1
+xia hou hui 	夏侯徽	c=1 d=2e-08 t=1
+xia jia chuan mu ma 	下家传木马	c=1 d=2e-08 t=1
+xia jing 	下京	c=1 d=2e-08 t=1
+xia ma ren 	瞎骂人	c=1 d=2e-08 t=1
+xia mao peng peng 	瞎猫碰碰	c=1 d=2e-08 t=1
+xia mian kan 	下面看	c=1 d=2e-08 t=1
+xia pin 	下拼	c=1 d=2e-08 t=1
+xia shan 	下闪	c=1 d=2e-08 t=1
+xia shi yan 	下实验	c=1 d=2e-08 t=1
+xia tui 	下退	c=1 d=2e-08 t=1
+xia wen zhang 	下文章	c=1 d=2e-08 t=1
+xia wo mu biao nu 	吓我目标怒	c=1 d=2e-08 t=1
+xia wu zai wan 	下午再玩	c=1 d=2e-08 t=1
+xia xian a 	下线啊	c=1 d=2e-08 t=1
+xia xue xi 	下学习	c=1 d=2e-08 t=1
+xia yi ge geng guai 	下一个更乖	c=1 d=2e-08 t=1
+xia ying chun 	夏迎春	c=1 d=2e-08 t=1
+xia ying wen 	下英文	c=1 d=2e-08 t=1
+xia zai lian 	下载链	c=1 d=2e-08 t=1
+xia zhen 	下甄	c=1 d=2e-08 t=1
+xian bao cuo 	现报错	c=1 d=2e-08 t=1
+xian bie sha 	先别杀	c=1 d=2e-08 t=1
+xian cai huang lian 	苋菜黄连	c=1 d=2e-08 t=1
+xian chi 	现翅	c=1 d=2e-08 t=1
+xian chi tao 	先吃桃	c=1 d=2e-08 t=1
+xian chu 	现初	c=1 d=2e-08 t=1
+xian chu sha 	先出杀	c=1 d=2e-08 t=1
+xian ding ji 	限定技	c=1 d=2e-08 t=1
+xian ding ji liu 	限定技留	c=1 d=2e-08 t=1
+xian ding ji yong 	限定技用	c=1 d=2e-08 t=1
+xian fang jia li 	先放家里	c=1 d=2e-08 t=1
+xian hou fa 	先后发	c=1 d=2e-08 t=1
+xian hui 	先汇	c=1 d=2e-08 t=1
+xian jie fa 	限界法	c=1 d=2e-08 t=1
+xian jie jue shu liang wen ti 	先解决数量问题	c=1 d=2e-08 t=1
+xian jiu suo 	县九所	c=1 d=2e-08 t=1
+xian me 	限么	c=1 d=2e-08 t=1
+xian ming 	现命	c=1 d=2e-08 t=1
+xian pei 	鲜胚	c=1 d=2e-08 t=1
+xian qu dao 	先去到	c=1 d=2e-08 t=1
+xian que shi 	限确实	c=1 d=2e-08 t=1
+xian shang gang 	先上岗	c=1 d=2e-08 t=1
+xian shang kao shi 	线上考试	c=1 d=2e-08 t=1
+xian shi xian 	显示线	c=1 d=2e-08 t=1
+xian shi xing 	现实型	c=1 d=2e-08 t=1
+xian shou le 	先收了	c=1 d=2e-08 t=1
+xian shua jiu 	先刷就	c=1 d=2e-08 t=1
+xian tuo 	先拖	c=1 d=2e-08 t=1
+xian wei da yuan 	县委大院	c=1 d=2e-08 t=1
+xian wen zhang 	线文章	c=1 d=2e-08 t=1
+xian xing ceng 	线性层	c=1 d=2e-08 t=1
+xian xing tong yu 	线性同余	c=1 d=2e-08 t=1
+xian ying 	限应	c=1 d=2e-08 t=1
+xian zhu na 	显著那	c=1 d=2e-08 t=1
+xian zhuan ye 	限专业	c=1 d=2e-08 t=1
+xiang bi ye le 	想毕业了	c=1 d=2e-08 t=1
+xiang chi ruan fan 	想吃软饭	c=1 d=2e-08 t=1
+xiang chuan 	向川	c=1 d=2e-08 t=1
+xiang dang yu yi tai 	相当于一台	c=1 d=2e-08 t=1
+xiang dang zi you 	相当自由	c=1 d=2e-08 t=1
+xiang dui bu 	相对不	c=1 d=2e-08 t=1
+xiang dui yu ming ming shu ju wang luo 	相对于命名数据网络	c=1 d=2e-08 t=1
+xiang gai gui 	想改归	c=1 d=2e-08 t=1
+xiang gua pi 	像瓜皮	c=1 d=2e-08 t=1
+xiang guan ceng 	相关层	c=1 d=2e-08 t=1
+xiang guan cheng 	相关成	c=1 d=2e-08 t=1
+xiang guan zi 	相关资	c=1 d=2e-08 t=1
+xiang hu gu li 	相互鼓励	c=1 d=2e-08 t=1
+xiang hui jia ai 	想回家哎	c=1 d=2e-08 t=1
+xiang ju 	想聚	c=1 d=2e-08 t=1
+xiang ju jiu ju 	相聚旧居	c=1 d=2e-08 t=1
+xiang ka 	箱卡	c=1 d=2e-08 t=1
+xiang me 	香么	c=1 d=2e-08 t=1
+xiang mu guo lai 	项目过来	c=1 d=2e-08 t=1
+xiang mu wei 	项目未	c=1 d=2e-08 t=1
+xiang mu zen me 	项目怎么	c=1 d=2e-08 t=1
+xiang na me yuan 	想那么远	c=1 d=2e-08 t=1
+xiang qi lai xie 	想起来写	c=1 d=2e-08 t=1
+xiang ren lei 	像人类	c=1 d=2e-08 t=1
+xiang si ma 	相似吗	c=1 d=2e-08 t=1
+xiang ta xiang de shui bu zhao 	想他想得睡不着	c=1 d=2e-08 t=1
+xiang xia mian 	像下面	c=1 d=2e-08 t=1
+xiang xiang ma liang 	想象马良	c=1 d=2e-08 t=1
+xiang ye wu 	项业务	c=1 d=2e-08 t=1
+xiang ying su du kuai 	响应速度快	c=1 d=2e-08 t=1
+xiang you hui 	享优惠	c=1 d=2e-08 t=1
+xiang zhe he 	想着和	c=1 d=2e-08 t=1
+xiang zhe yao kao yan 	想着要考研	c=1 d=2e-08 t=1
+xiang zhi neng hua 	向智能化	c=1 d=2e-08 t=1
+xiao beng le 	笑崩了	c=1 d=2e-08 t=1
+xiao biao qing bao 	小表情包	c=1 d=2e-08 t=1
+xiao che ke ti 	小车课题	c=1 d=2e-08 t=1
+xiao cheng da pao 	削成大炮	c=1 d=2e-08 t=1
+xiao dao zhong 	小道中	c=1 d=2e-08 t=1
+xiao de 	效地	c=1 d=2e-08 t=1
+xiao er fen 	小贰分	c=1 d=2e-08 t=1
+xiao fa cai le 	笑发财了	c=1 d=2e-08 t=1
+xiao guan zhu 	消关注	c=1 d=2e-08 t=1
+xiao hao ta 	消耗他	c=1 d=2e-08 t=1
+xiao huang niao 	小黄鸟	c=1 d=2e-08 t=1
+xiao kuan song 	小宽松	c=1 d=2e-08 t=1
+xiao lan ma 	小蓝吗	c=1 d=2e-08 t=1
+xiao lian bing 	笑脸兵	c=1 d=2e-08 t=1
+xiao lun wen yao qiu 	小论文要求	c=1 d=2e-08 t=1
+xiao mi qi jian 	小米旗舰	c=1 d=2e-08 t=1
+xiao peng you e mo ni 	小朋友恶魔你	c=1 d=2e-08 t=1
+xiao po tie mu 	笑破铁幕	c=1 d=2e-08 t=1
+xiao po wu 	小破屋	c=1 d=2e-08 t=1
+xiao rong shi yan 	消融实验	c=1 d=2e-08 t=1
+xiao shan ji 	萧山机	c=1 d=2e-08 t=1
+xiao shi re en 	小湿热嗯	c=1 d=2e-08 t=1
+xiao shu 	效数	c=1 d=2e-08 t=1
+xiao si e le 	笑死饿了	c=1 d=2e-08 t=1
+xiao si ye 	笑死爷	c=1 d=2e-08 t=1
+xiao tian ge 	小天哥	c=1 d=2e-08 t=1
+xiao xiang 	小想	c=1 d=2e-08 t=1
+xiao xin ren zhen de 	小心认真地	c=1 d=2e-08 t=1
+xiao xing gong chang 	小型工厂	c=1 d=2e-08 t=1
+xiao xue bi ye zheng 	小学毕业证	c=1 d=2e-08 t=1
+xiao xue mei bi ye me 	小学没毕业么	c=1 d=2e-08 t=1
+xiao yi wen 	小疑问	c=1 d=1 t=17
+xiao yuan ka huan yao 	校园卡换钥	c=1 d=2e-08 t=1
+xiao zhi 	削之	c=1 d=2e-08 t=1
+xie cheng yi duan hua bie 	写成一段话别	c=1 d=2e-08 t=1
+xie chu jia gou 	写出架构	c=1 d=2e-08 t=1
+xie de duo qie 	写得多且	c=1 d=2e-08 t=1
+xie de shao 	写得少	c=1 d=2e-08 t=1
+xie di 	写滴	c=1 d=2e-08 t=1
+xie ge shi hua 	写格式化	c=1 d=2e-08 t=1
+xie han 	写汉	c=1 d=2e-08 t=1
+xie jie jue 	写解决	c=1 d=2e-08 t=1
+xie jiu xing de ba 	写就行的吧	c=1 d=2e-08 t=1
+xie jue ruan 	谢绝软	c=1 d=2e-08 t=1
+xie keng 	些坑	c=1 d=2e-08 t=1
+xie ming 	写名	c=1 d=2e-08 t=1
+xie shang ma 	写上吗	c=1 d=2e-08 t=1
+xie tiao deng 	协调等	c=1 d=2e-08 t=1
+xie tong 	协同	c=1 d=1 t=80
+xie xiao lun wen 	写小论文	c=1 d=2e-08 t=1
+xie xie fang zhu 	谢谢房主	c=1 d=2e-08 t=1
+xie xie tao ge 	谢谢涛哥	c=1 d=2e-08 t=1
+xie xing 	写行	c=1 d=2e-08 t=1
+xie yao 	写要	c=1 d=2e-08 t=1
+xie yi xian 	协议先	c=1 d=2e-08 t=1
+xie zai ruan jian 	卸载软件	c=1 d=2e-08 t=1
+xie zai tai 	卸载太	c=1 d=2e-08 t=1
+xie zhong 	写中	c=1 d=2e-08 t=1
+xie zi you zhi ye 	写自由职业	c=1 d=2e-08 t=1
+xie zuo zhi dao 	写作指导	c=1 d=2e-08 t=1
+xin an jiang xiao 	新安江校	c=1 d=2e-08 t=1
+xin an jiang xiao qu 	新安江校区	c=1 d=2e-08 t=1
+xin an jiang zhong xue 	新安江中学	c=1 d=2e-08 t=1
+xin an jiang zong xiang 	新安江纵向	c=1 d=2e-08 t=1
+xin fan zei 	心反贼	c=1 d=2e-08 t=1
+xin jiao yu hao 	心教育好	c=1 d=2e-08 t=1
+xin ku wen jian 	新库文件	c=1 d=2e-08 t=1
+xin li de hua 	心里的话	c=1 d=2e-08 t=1
+xin qi 	新起	c=1 d=2e-08 t=1
+xin qing an wei 	心情安慰	c=1 d=2e-08 t=1
+xin qing da hao 	心情大好	c=1 d=2e-08 t=1
+xin shi ji shi yan xue xiao 	新世纪实验学校	c=1 d=2e-08 t=1
+xin shi ma 	心事吗	c=1 d=2e-08 t=1
+xin shou ju 	新手据	c=1 d=2e-08 t=1
+xin tou yi chan 	心头一颤	c=1 d=2e-08 t=1
+xin wu 	新武	c=1 d=2e-08 t=1
+xin xi fen xi 	信息分析	c=1 d=2e-08 t=1
+xin xi jie 	信息解	c=1 d=2e-08 t=1
+xin xi jie shao 	信息介绍	c=1 d=2e-08 t=1
+xin xi ke xue yu ji shu xue yuan 	信息科学与技术学院	c=1 d=2e-08 t=1
+xin xi wu guan 	信息无关	c=1 d=2e-08 t=1
+xin xiao xue 	心小学	c=1 d=2e-08 t=1
+xin yang yi jiu 	信仰一九	c=1 d=2e-08 t=1
+xing ba yong 	行吧用	c=1 d=2e-08 t=1
+xing ce shen lun 	行测申论	c=1 d=2e-08 t=1
+xing chang du 	型长度	c=1 d=2e-08 t=1
+xing gu tai 	星固态	c=1 d=2e-08 t=1
+xing jiao ben ming ling 	行脚本命令	c=1 d=2e-08 t=1
+xing li tuo yun 	行李托运	c=1 d=2e-08 t=1
+xing li xiang ma 	行李箱吗	c=1 d=2e-08 t=1
+xing song jue xing 	行送觉醒	c=1 d=2e-08 t=1
+xing tai xue te zheng 	形态学特征	c=1 d=2e-08 t=1
+xing you 	行游	c=1 d=2e-08 t=1
+xing zhou wu lian xi 	行周五联系	c=1 d=2e-08 t=1
+xing zuo 	行作	c=1 d=2e-08 t=1
+xiong an ren 	雄安人	c=1 d=2e-08 t=1
+xiong hai hong 	熊海虹	c=1 d=2e-08 t=1
+xiong zhi qiang 	熊志强	c=1 d=2e-08 t=1
+xiu gai pai ban 	修改排版	c=1 d=2e-08 t=1
+xiu gai ti mu 	修改题目	c=1 d=2e-08 t=1
+xiu me 	休么	c=1 d=2e-08 t=1
+xiu si dun huo jian 	休斯敦火箭	c=1 d=2e-08 t=1
+xu chen lan 	徐晨岚	c=1 d=2e-08 t=1
+xu duo rong yu 	许多荣誉	c=1 d=2e-08 t=1
+xu hai peng 	徐海鹏	c=1 d=2e-08 t=1
+xu ming 	序名	c=1 d=2e-08 t=1
+xu ni ji xian shi 	虚拟机显示	c=1 d=2e-08 t=1
+xu ru he chu li 	续如何处理	c=1 d=2e-08 t=1
+xu sheng hui 	徐盛会	c=1 d=2e-08 t=1
+xu shi kong 	徐氏空	c=1 d=2e-08 t=1
+xu shui li za 	许水里杂	c=1 d=2e-08 t=1
+xu tian hao 	许天昊	c=1 d=2e-08 t=1
+xu tian hao xue zhang 	许天昊学长	c=1 d=2e-08 t=1
+xu xing 	许行	c=1 d=2e-08 t=1
+xu yao bao han yi xia 	需要包含以下	c=1 d=2e-08 t=1
+xu zi ji 	诩自己	c=1 d=2e-08 t=1
+xuan ba ban 	选拔班	c=1 d=2e-08 t=1
+xuan ba ren yuan 	选拔人员	c=1 d=2e-08 t=1
+xuan diao kao shi 	选调考试	c=1 d=2e-08 t=1
+xuan e ke 	选鳄科	c=1 d=2e-08 t=1
+xuan fang an 	选方案	c=1 d=2e-08 t=1
+xuan gan ning 	选甘宁	c=1 d=2e-08 t=1
+xuan ran xia 	渲染下	c=1 d=2e-08 t=1
+xuan ti yuan yin 	选题原因	c=1 d=2e-08 t=1
+xuan ze me 	选择么	c=1 d=2e-08 t=1
+xuan ze ti da an 	选择题答案	c=1 d=2e-08 t=1
+xue ba 	血把	c=1 d=2e-08 t=1
+xue bu pai 	血补牌	c=1 d=2e-08 t=1
+xue cha dian 	血差点	c=1 d=2e-08 t=1
+xue fen xiang 	学分享	c=1 d=2e-08 t=1
+xue gong ke 	学工科	c=1 d=2e-08 t=1
+xue han hai 	学瀚海	c=1 d=2e-08 t=1
+xue hao he 	学号和	c=1 d=2e-08 t=1
+xue hen da 	雪恨打	c=1 d=2e-08 t=1
+xue hui he zuo 	学会合作	c=1 d=2e-08 t=1
+xue ji neng 	血技能	c=1 d=2e-08 t=1
+xue jian dan 	学简单	c=1 d=2e-08 t=1
+xue jie shao 	学介绍	c=1 d=2e-08 t=1
+xue jue xing 	血觉醒	c=1 d=2e-08 t=1
+xue ke yan jiu 	学科研究	c=1 d=2e-08 t=1
+xue le yi ci 	学了一次	c=1 d=2e-08 t=1
+xue li he 	学历和	c=1 d=2e-08 t=1
+xue lun wen 	学论文	c=1 d=2e-08 t=1
+xue man pai 	血满牌	c=1 d=2e-08 t=1
+xue mei shi 	血没事	c=1 d=2e-08 t=1
+xue mo pai 	血摸牌	c=1 d=2e-08 t=1
+xue sheng ke yan 	学生科研	c=1 d=2e-08 t=1
+xue sheng xue sheng 	学生学生	c=1 d=2e-08 t=1
+xue shuo tong 	学硕同	c=1 d=2e-08 t=1
+xue shuo xian 	学硕线	c=1 d=2e-08 t=1
+xue tai 	血太	c=1 d=2e-08 t=1
+xue ting hao 	学挺好	c=1 d=2e-08 t=1
+xue xi dang 	学习党	c=1 d=2e-08 t=1
+xue xi dui 	学习对	c=1 d=2e-08 t=1
+xue xi gong 	学习工	c=1 d=2e-08 t=1
+xue xi gong cheng shi 	学习工程师	c=1 d=2e-08 t=1
+xue xi gong zuo shi 	学习工作时	c=1 d=2e-08 t=1
+xue xi li 	学习里	c=1 d=2e-08 t=1
+xue xi mo 	学习模	c=1 d=2e-08 t=1
+xue xi mo dian 	学习模电	c=1 d=2e-08 t=1
+xue xi shu 	学习数	c=1 d=2e-08 t=1
+xue xi ta 	学习他	c=1 d=2e-08 t=1
+xue xi wu 	学习五	c=1 d=2e-08 t=1
+xue xi zi 	学习资	c=1 d=2e-08 t=1
+xue xiao hai you shi 	学校还有事	c=1 d=2e-08 t=1
+xue xiao yi 	学小易	c=1 d=2e-08 t=1
+xue xiao yuan wang 	学校园网	c=1 d=2e-08 t=1
+xue xing 	学行	c=1 d=2e-08 t=1
+xue xue le 	学血了	c=1 d=2e-08 t=1
+xue xue sheng qian 	学学生乾	c=1 d=2e-08 t=1
+xue yan 	学眼	c=1 d=2e-08 t=1
+xue yao 	学要	c=1 d=2e-08 t=1
+xue yi diao 	雪翼雕	c=1 d=2e-08 t=1
+xue yi duo 	学一多	c=1 d=2e-08 t=1
+xue you liu li 	血有琉璃	c=1 d=2e-08 t=1
+xue you suo de 	学有所得	c=1 d=2e-08 t=1
+xue yu 	学语	c=1 d=2e-08 t=1
+xue yun dong 	学运动	c=1 d=2e-08 t=1
+xue zhang jun 	学长军	c=1 d=2e-08 t=1
+xue zhang shou 	学长手	c=1 d=2e-08 t=1
+xue zhang xue jie you 	学长学姐有	c=1 d=2e-08 t=1
+xue zhang ya 	血张亚	c=1 d=2e-08 t=1
+xue zong shu 	学综述	c=1 d=2e-08 t=1
+xue zu gou 	血足够	c=1 d=2e-08 t=1
+xun chen 	寻晨	c=1 d=2e-08 t=1
+xun guan shi 	逊贯石	c=1 d=2e-08 t=1
+xun gui 	循规	c=1 d=2e-08 t=1
+xun huan jian tou 	循环箭头	c=1 d=2e-08 t=1
+xun huan lian biao 	循环链表	c=1 d=2e-08 t=1
+xun lian dao 	训练到	c=1 d=2e-08 t=1
+xun lian ri qi 	训练日期	c=1 d=2e-08 t=1
+xun ming xian 	逊明显	c=1 d=2e-08 t=1
+xun wan 	逊玩	c=1 d=2e-08 t=1
+xun zhi bu zhou 	寻址步骤	c=1 d=2e-08 t=1
+ya ba 	呀吧	c=1 d=2e-08 t=1
+ya bu 	压不	c=1 d=2e-08 t=1
+ya bu dong 	压不动	c=1 d=2e-08 t=1
+ya bu yi zu 	呀布依族	c=1 d=2e-08 t=1
+ya bu zhun 	压不准	c=1 d=2e-08 t=1
+ya chu qu 	呀出去	c=1 d=2e-08 t=1
+ya de di 	压得低	c=1 d=2e-08 t=1
+ya de dui mian 	压得对面	c=1 d=2e-08 t=1
+ya gao tai 	压高台	c=1 d=2e-08 t=1
+ya jia 	压家	c=1 d=2e-08 t=1
+ya le 	亚了	c=1 d=2e-08 t=1
+ya li fang 	压力放	c=1 d=2e-08 t=1
+ya shang xian 	呀上线	c=1 d=2e-08 t=1
+ya ta men 	亚他们	c=1 d=2e-08 t=1
+ya wan 	压玩	c=1 d=2e-08 t=1
+ya xue bu dai 	压血不代	c=1 d=2e-08 t=1
+ya yu sai 	亚预赛	c=1 d=2e-08 t=1
+yan cao gong 	烟草公	c=1 d=2e-08 t=1
+yan cao ren 	烟草人	c=1 d=2e-08 t=1
+yan chao gong si 	彦超公司	c=1 d=2e-08 t=1
+yan dao zhe di bu 	演到这地步	c=1 d=2e-08 t=1
+yan er xue zhang 	研二学长	c=1 d=2e-08 t=1
+yan er yan san 	研二研三	c=1 d=2e-08 t=1
+yan fen 	严分	c=1 d=2e-08 t=1
+yan fen 	盐份	c=1 d=2e-08 t=1
+yan fen de 	盐份的	c=1 d=2e-08 t=1
+yan ji le 	研几了	c=1 d=2e-08 t=1
+yan jiu guan jian 	研究关键	c=1 d=2e-08 t=1
+yan jiu sheng zu hui 	研究生组会	c=1 d=2e-08 t=1
+yan mo sheng cheng 	掩膜生成	c=1 d=2e-08 t=1
+yan mo ta 	淹没他	c=1 d=2e-08 t=1
+yan suan zhi 	演算纸	c=1 d=2e-08 t=1
+yan yi tong xue men 	研一同学们	c=1 d=2e-08 t=1
+yan zheng duo 	炎症多	c=1 d=2e-08 t=1
+yan zhou 	严州	c=1 d=2e-08 t=1
+yan zhou zhong xue 	严州中学	c=1 d=2e-08 t=1
+yan zhou zhou xue 	兖州周雪	c=1 d=2e-08 t=1
+yang an 	洋安	c=1 d=2e-08 t=1
+yang ben shu wei 	样本数为	c=1 d=2e-08 t=1
+yang cun qiao 	杨村桥	c=1 d=2e-08 t=1
+yang guang cai hong 	阳光彩虹	c=1 d=2e-08 t=1
+yang hu lu lu 	养护露露	c=1 d=2e-08 t=1
+yang li pei ran 	杨李沛然	c=1 d=2e-08 t=1
+yang qiu hao 	杨秋浩	c=1 d=2e-08 t=1
+yang rong ren 	样容忍	c=1 d=2e-08 t=1
+yang wei 	阳微	c=1 d=2e-08 t=1
+yang wei yang 	阳痿阳	c=1 d=2e-08 t=1
+yang xian hong 	杨宪宏	c=1 d=2e-08 t=1
+yang xing 	样行	c=1 d=2e-08 t=1
+yang yang de 	洋洋的	c=1 d=2e-08 t=1
+yang zhen ze 	杨振泽	c=1 d=2e-08 t=1
+yang zhong guan 	杨仲官	c=1 d=2e-08 t=1
+yang zi xuan 	杨梓煊	c=1 d=2e-08 t=1
+yao bao xiao ma 	要报销吗	c=1 d=2e-08 t=1
+yao dang yuan 	要党员	c=1 d=2e-08 t=1
+yao diu pai 	要丢牌	c=1 d=2e-08 t=1
+yao fa gei ni na 	要发给你那	c=1 d=2e-08 t=1
+yao gan dian 	要干点	c=1 d=2e-08 t=1
+yao gang 	要刚	c=1 d=2e-08 t=1
+yao gou 	咬苟	c=1 d=2e-08 t=1
+yao mang qi lai le 	要忙起来了	c=1 d=2e-08 t=1
+yao miao le 	要秒了	c=1 d=2e-08 t=1
+yao na chong dian qi 	要拿充电器	c=1 d=2e-08 t=1
+yao pou du 	要剖肚	c=1 d=2e-08 t=1
+yao qiu de you dian duo 	要求的有点多	c=1 d=2e-08 t=1
+yao qiu zhe me xiang 	要求这么想	c=1 d=2e-08 t=1
+yao qu zheng 	要取整	c=1 d=2e-08 t=1
+yao tong ji ma 	要统计吗	c=1 d=2e-08 t=1
+yao wei 	爻为	c=1 d=2e-08 t=1
+yao yong hen duo 	要用很多	c=1 d=2e-08 t=1
+yao zhen 	药针	c=1 d=2e-08 t=1
+yao zuo yi fen 	要做一份	c=1 d=2e-08 t=1
+ye ai 	也挨	c=1 d=2e-08 t=1
+ye bu piao 	也不漂	c=1 d=2e-08 t=1
+ye bu xiang jin bu 	也不想进步	c=1 d=2e-08 t=1
+ye bu xiang zhe yang 	也不想这样	c=1 d=2e-08 t=1
+ye gou 	页够	c=1 d=2e-08 t=1
+ye hai lai de ji 	也还来得及	c=1 d=2e-08 t=1
+ye hui dian 	也会点	c=1 d=2e-08 t=1
+ye mei jiao wo 	也没叫我	c=1 d=2e-08 t=1
+ye mei shui le 	也没谁了	c=1 d=2e-08 t=1
+ye pa chong 	页爬虫	c=1 d=2e-08 t=1
+ye que fa yi xie 	也缺乏一些	c=1 d=2e-08 t=1
+ye ti biao mian 	液体表面	c=1 d=2e-08 t=1
+ye tou 	也偷	c=1 d=2e-08 t=1
+ye xie de 	也写得	c=1 d=2e-08 t=1
+ye yan 	业炎	c=1 d=2e-08 t=1
+ye ye bei 	爷爷辈	c=1 d=2e-08 t=1
+ye zai kao 	也在靠	c=1 d=2e-08 t=1
+yi 	已	c=0 d=0.1 t=14
+yi an xin de 	以安心地	c=1 d=2e-08 t=1
+yi ba hei 	一把黑	c=1 d=2e-08 t=1
+yi ba pai 	一把牌	c=1 d=2e-08 t=1
+yi ba si tai er ya 	一把斯泰尔压	c=1 d=2e-08 t=1
+yi ban zhong 	一般终	c=1 d=2e-08 t=1
+yi bang cai 	一帮菜	c=1 d=2e-08 t=1
+yi bang cai 	一帮蔡	c=1 d=2e-08 t=1
+yi bang cai ju dui 	一帮蔡狙队	c=1 d=2e-08 t=1
+yi bang dai tou 	一帮呆头	c=1 d=2e-08 t=1
+yi bang han han 	一帮憨憨	c=1 d=2e-08 t=1
+yi bang ju 	一帮狙	c=1 d=2e-08 t=1
+yi bang ju ji 	一帮狙击	c=1 d=2e-08 t=1
+yi bang keng 	一帮坑	c=1 d=2e-08 t=1
+yi bang sa 	一帮撒	c=1 d=2e-08 t=1
+yi bang sha 	一帮杀	c=1 d=2e-08 t=1
+yi bang shi 	一帮师	c=1 d=2e-08 t=1
+yi bang shi xiong 	一帮师兄	c=1 d=2e-08 t=1
+yi bang tuo guan 	一帮托管	c=1 d=2e-08 t=1
+yi bang wo long feng chu 	一帮卧龙凤雏	c=1 d=2e-08 t=1
+yi bao hu 	已保护	c=1 d=2e-08 t=1
+yi bian sha xiao 	一边傻笑	c=1 d=2e-08 t=1
+yi bo zai 	一波再	c=1 d=2e-08 t=1
+yi bu sha 	以不杀	c=1 d=2e-08 t=1
+yi bu xie zhu 	异步协助	c=1 d=2e-08 t=1
+yi bu xue 	一步学	c=1 d=2e-08 t=1
+yi bu yi qu shui ni zhi shen bu ke ce 	亦步亦趋水泥之深不可测	c=1 d=2e-08 t=1
+yi da ba ke 	一大把课	c=1 d=2e-08 t=1
+yi da ju 	以大局	c=1 d=2e-08 t=1
+yi da yi ge 	一打一个	c=1 d=2e-08 t=1
+yi da zhuo ren 	一大桌人	c=1 d=2e-08 t=1
+yi dai qi 	一带七	c=1 d=2e-08 t=1
+yi dang de 	以党的	c=1 d=2e-08 t=1
+yi dao ba 	一刀吧	c=1 d=2e-08 t=1
+yi dao cao ren shuo 	一刀曹仁说	c=1 d=2e-08 t=1
+yi de 	以地	c=1 d=2e-08 t=1
+yi deng zuo le 	一等座了	c=1 d=2e-08 t=1
+yi dian hao de 	一点好的	c=1 d=2e-08 t=1
+yi dian qi 	一点其	c=1 d=2e-08 t=1
+yi ding zi 	一定子	c=1 d=2e-08 t=1
+yi dong hao yang mao 	移动薅羊毛	c=1 d=2e-08 t=1
+yi du qu 	一度去	c=1 d=2e-08 t=1
+yi duan 	意断	c=1 d=2e-08 t=1
+yi duan wen ti 	一段问题	c=1 d=2e-08 t=1
+yi dui dui 	一堆队	c=1 d=2e-08 t=1
+yi fan chang shi 	一番尝试	c=1 d=2e-08 t=1
+yi fen lun wen 	一份论文	c=1 d=2e-08 t=1
+yi ge bi ye da 	一个毕业答	c=1 d=2e-08 t=1
+yi ge dian shou bu zhu 	一个点守不住	c=1 d=2e-08 t=1
+yi ge duo xue qi 	一个多学期	c=1 d=2e-08 t=1
+yi ge fan 	一个反	c=1 d=2e-08 t=1
+yi ge le 	一个乐	c=1 d=2e-08 t=1
+yi ge shi you 	一个室友	c=1 d=2e-08 t=1
+yi ge si tai er 	一个斯泰尔	c=1 d=2e-08 t=1
+yi ge wen jian jia zhong 	一个文件夹中	c=1 d=2e-08 t=1
+yi ge yue duo dian 	一个月多点	c=1 d=2e-08 t=1
+yi ge zhen 	一个镇	c=1 d=2e-08 t=1
+yi gou zi 	一钩子	c=1 d=2e-08 t=1
+yi guan 	以关	c=1 d=2e-08 t=1
+yi han nan ping 	遗憾难平	c=1 d=2e-08 t=1
+yi he shang dian 	义和商店	c=1 d=2e-08 t=1
+yi hu kou 	一户口	c=1 d=2e-08 t=1
+yi ji bei hou 	以及背后	c=1 d=2e-08 t=1
+yi ji qi ta peng you 	以及其他朋友	c=1 d=2e-08 t=1
+yi jia quan neng 	一家全能	c=1 d=2e-08 t=1
+yi jia shou ji 	一加手机	c=1 d=1 t=79
+yi jian dou 	一箭都	c=1 d=2e-08 t=1
+yi jian yun xing 	一键运行	c=1 d=2e-08 t=1
+yi jiao xue 	一教学	c=1 d=2e-08 t=1
+yi ju bao 	一举报	c=1 d=2e-08 t=1
+yi kai 	以开	c=1 d=2e-08 t=1
+yi kan peng you quan 	一看朋友圈	c=1 d=2e-08 t=1
+yi kao yi ge zhuan 	一考一个转	c=1 d=2e-08 t=1
+yi lou 	一露	c=1 d=2e-08 t=1
+yi lun miao le 	一轮秒了	c=1 d=2e-08 t=1
+yi lun mie 	一轮灭	c=1 d=2e-08 t=1
+yi lun xia lai 	一轮下来	c=1 d=2e-08 t=1
+yi mai 	以卖	c=1 d=2e-08 t=1
+yi mei de 	一昧的	c=1 d=2e-08 t=1
+yi mei sha 	一没啥	c=1 d=2e-08 t=1
+yi nan 	一南	c=1 d=2e-08 t=1
+yi nian mo fa 	意念魔法	c=1 d=2e-08 t=1
+yi pao tong 	一炮同	c=1 d=2e-08 t=1
+yi qi ai sha 	一起艾莎	c=1 d=2e-08 t=1
+yi qi chi la mian 	一起吃拉面	c=1 d=2e-08 t=1
+yi qi da you ji 	一起打游击	c=1 d=2e-08 t=1
+yi qi he jiu 	一起喝酒	c=1 d=2e-08 t=1
+yi qi ke xue 	仪器科学	c=1 d=2e-08 t=1
+yi qian ben ke 	以前本科	c=1 d=2e-08 t=1
+yi qiang bu 	一枪不	c=1 d=2e-08 t=1
+yi qiang bu kong 	一枪不空	c=1 d=2e-08 t=1
+yi qiang yi 	一枪一	c=1 d=2e-08 t=1
+yi qing 	以请	c=1 d=2e-08 t=1
+yi rang zai rang 	一让再让	c=1 d=2e-08 t=1
+yi rang zai rang 	一让在让	c=1 d=2e-08 t=1
+yi ren da 	一人打	c=1 d=2e-08 t=1
+yi ren da shu chu 	一人打输出	c=1 d=2e-08 t=1
+yi ren sha 	一人杀	c=1 d=2e-08 t=1
+yi ren ya 	一人压	c=1 d=2e-08 t=1
+yi ren ya neng ya 	一人压能压	c=1 d=2e-08 t=1
+yi ren yi dao 	一人一刀	c=1 d=2e-08 t=1
+yi san lian 	已三连	c=1 d=1 t=15
+yi sha yi 	一杀一	c=1 d=2e-08 t=1
+yi shan chu de 	已删除的	c=1 d=2e-08 t=1
+yi shan er 	一闪而	c=1 d=2e-08 t=1
+yi shang dai ma 	以上代码	c=1 d=2e-08 t=1
+yi she 	以射	c=1 d=2e-08 t=1
+yi she 	以蛇	c=1 d=2e-08 t=1
+yi she 	以设	c=1 d=2e-08 t=1
+yi sheng zhuan jia 	医生专家	c=1 d=2e-08 t=1
+yi shi jia 	意识加	c=1 d=2e-08 t=1
+yi shi mei fan ying guo lai 	一时没反应过来	c=1 d=2e-08 t=1
+yi shou dong 	以手动	c=1 d=2e-08 t=1
+yi shou fa 	以手法	c=1 d=2e-08 t=1
+yi shou shan 	一手闪	c=1 d=2e-08 t=1
+yi shou tao 	一手桃	c=1 d=2e-08 t=1
+yi tao fang er 	一套房而	c=1 d=2e-08 t=1
+yi teng jia 	一藤甲	c=1 d=2e-08 t=1
+yi tuo guan 	以托管	c=1 d=2e-08 t=1
+yi wan jian 	一万箭	c=1 d=2e-08 t=1
+yi wang yi 	一王怡	c=1 d=2e-08 t=1
+yi wen ruan nan 	一问软男	c=1 d=2e-08 t=1
+yi xi xia 	译西夏	c=1 d=2e-08 t=1
+yi xia dai ma 	以下代码	c=1 d=2e-08 t=1
+yi xia dian 	一下电	c=1 d=2e-08 t=1
+yi xia kai 	一下开	c=1 d=2e-08 t=1
+yi xia ti mu 	一下题目	c=1 d=2e-08 t=1
+yi xia tuo pu 	以下拓扑	c=1 d=2e-08 t=1
+yi xia wang ye nei rong 	一下网页内容	c=1 d=2e-08 t=1
+yi xian xie 	以险些	c=1 d=2e-08 t=1
+yi xiao bu 	一小部	c=1 d=2e-08 t=1
+yi xiao duan zi 	一小段字	c=1 d=2e-08 t=1
+yi xie cao zuo 	一些操作	c=1 d=2e-08 t=1
+yi xie ci hui 	一些词汇	c=1 d=2e-08 t=1
+yi xie dao li 	一些道理	c=1 d=2e-08 t=1
+yi xie lun wen 	一些论文	c=1 d=2e-08 t=1
+yi xie te zheng 	一些特征	c=1 d=2e-08 t=1
+yi xing chu 	一行出	c=1 d=2e-08 t=1
+yi xing fen 	一行分	c=1 d=2e-08 t=1
+yi xing jiu nian 	一行九年	c=1 d=2e-08 t=1
+yi xing ke 	一行可	c=1 d=2e-08 t=1
+yi xu 	一绪	c=1 d=2e-08 t=1
+yi xue ling yu 	医学领域	c=1 d=2e-08 t=1
+yi xue lun wen 	医学论文	c=1 d=2e-08 t=1
+yi xue shu ju 	医学数据	c=1 d=2e-08 t=1
+yi xue xi 	以学习	c=1 d=2e-08 t=1
+yi xue xiang jie he 	医学相结合	c=1 d=2e-08 t=1
+yi xue ying xiang lun wen 	医学影像论文	c=1 d=2e-08 t=1
+yi xue zhong 	医学中	c=1 d=2e-08 t=1
+yi yan ke yi bai du 	一言可以百度	c=1 d=2e-08 t=1
+yi yang 	一样	c=1 d=1 t=34
+yi yang bi ye 	一样毕业	c=1 d=2e-08 t=1
+yi yang dun 	一样蹲	c=1 d=2e-08 t=1
+yi yang lei 	一样累	c=1 d=2e-08 t=1
+yi ye 	衣液	c=1 d=2e-08 t=1
+yi ye mu lu 	一页目录	c=1 d=2e-08 t=1
+yi ye yan 	意业炎	c=1 d=2e-08 t=1
+yi yi dian 	以一点	c=1 d=2e-08 t=1
+yi yong 	以用	c=1 d=2e-08 t=1
+yi yong mo kuai 	以用模块	c=1 d=2e-08 t=1
+yi yuan ti jian 	医院体检	c=1 d=2e-08 t=1
+yi zheng chang 	以正常	c=1 d=2e-08 t=1
+yi zhi jia xue 	一直加血	c=1 d=2e-08 t=1
+yi zhi le 	移植了	c=1 d=2e-08 t=1
+yi zhi mei huan 	一直没换	c=1 d=2e-08 t=1
+yi zhi nong 	一直弄	c=1 d=2e-08 t=1
+yi zhi qian 	移植前	c=1 d=2e-08 t=1
+yi zhi xi bao 	抑制细胞	c=1 d=2e-08 t=1
+yi zhi xi mian 	一支洗面	c=1 d=2e-08 t=1
+yi zhu jian 	已逐渐	c=1 d=2e-08 t=1
+yi zi 	以自	c=1 d=2e-08 t=1
+yi zu 	依族	c=1 d=2e-08 t=1
+yin bing xiu xue 	因病休学	c=1 d=2e-08 t=1
+yin bu chu 	引不出	c=1 d=2e-08 t=1
+yin ci ta 	因此他	c=1 d=2e-08 t=1
+yin ci te bie 	因此特别	c=1 d=2e-08 t=1
+yin hang ke ji gang 	银行科技杠	c=1 d=2e-08 t=1
+yin jiao bian 	因狡辩	c=1 d=2e-08 t=1
+yin jin fang jian 	引进房间	c=1 d=2e-08 t=1
+yin jiu 	阴就	c=1 d=2e-08 t=1
+yin li 	音里	c=1 d=2e-08 t=1
+yin liao fei 	饮料费	c=1 d=2e-08 t=1
+yin pin yu 	音频与	c=1 d=2e-08 t=1
+yin ping zha po 	银瓶乍破	c=1 d=2e-08 t=1
+yin ruan jian 	印软件	c=1 d=2e-08 t=1
+yin tan fen he 	印碳粉盒	c=1 d=2e-08 t=1
+yin xin kai 	尹昕恺	c=1 d=2e-08 t=1
+yin yi xia 	引一下	c=1 d=2e-08 t=1
+ying bei 	硬被	c=1 d=2e-08 t=1
+ying che 	硬扯	c=1 d=2e-08 t=1
+ying dian 	营店	c=1 d=2e-08 t=1
+ying ji le 	应急了	c=1 d=2e-08 t=1
+ying ji shui guo 	应季水果	c=1 d=2e-08 t=1
+ying jian quan 	硬件圈	c=1 d=2e-08 t=1
+ying jian quan chan 	硬件圈掺	c=1 d=2e-08 t=1
+ying jian zhuan ye 	硬件专业	c=1 d=2e-08 t=1
+ying sha 	硬杀	c=1 d=2e-08 t=1
+ying wen 	英文	c=1 d=1 t=110
+ying wen lun wen fan yi 	英文论文翻译	c=1 d=2e-08 t=1
+ying xiang shi yan 	影响实验	c=1 d=2e-08 t=1
+ying xiang shui 	影响水	c=1 d=2e-08 t=1
+ying yu dui hua 	英语对话	c=1 d=2e-08 t=1
+ying zai 	迎在	c=1 d=2e-08 t=1
+yo pao 	哟跑	c=1 d=2e-08 t=1
+yong 	用	c=1 d=1 t=58
+yong bao le yi hui 	拥抱了一会	c=1 d=2e-08 t=1
+yong de 	勇的	c=1 d=2e-08 t=1
+yong de hao 	用的好	c=1 d=2e-08 t=1
+yong de tai 	用的太	c=1 d=2e-08 t=1
+yong jing 	用京	c=1 d=2e-08 t=1
+yong le duo ji 	用了多级	c=1 d=2e-08 t=1
+yong long yin 	用龙吟	c=1 d=2e-08 t=1
+yong tu guan fang 	用途官方	c=1 d=2e-08 t=1
+yong xing cun 	永兴村	c=1 d=2e-08 t=1
+yong yi bu fen 	用一部分	c=1 d=2e-08 t=1
+yong ying wen xie 	用英文写	c=1 d=2e-08 t=1
+yong yuan ya 	永远压	c=1 d=2e-08 t=1
+you bian 	有编	c=1 d=2e-08 t=1
+you biao zhu ma 	有标注吗	c=1 d=2e-08 t=1
+you bu gan lai 	又不敢来	c=1 d=2e-08 t=1
+you can kao jia zhi 	有参考价值	c=1 d=2e-08 t=1
+you chong qi bao 	有重启报	c=1 d=2e-08 t=1
+you dang you li 	又当又立	c=1 d=2e-08 t=1
+you de ka 	有的卡	c=1 d=2e-08 t=1
+you de xing 	有的行	c=1 d=2e-08 t=1
+you dian ji bu qing 	有点记不清	c=1 d=2e-08 t=1
+you dian juan 	有点卷	c=1 d=2e-08 t=1
+you dian nan shuo 	有点难说	c=1 d=2e-08 t=1
+you dian nue 	有点虐	c=1 d=2e-08 t=1
+you dian zhi yi 	优点之一	c=1 d=2e-08 t=1
+you duo kong bu 	有多恐怖	c=1 d=2e-08 t=1
+you fa wan 	有法玩	c=1 d=2e-08 t=1
+you fu chen 	有浮沉	c=1 d=2e-08 t=1
+you ge ba 	有个把	c=1 d=2e-08 t=1
+you hua liao 	有话聊	c=1 d=2e-08 t=1
+you jian dian 	右键点	c=1 d=2e-08 t=1
+you jian guan li 	右键管理	c=1 d=2e-08 t=1
+you jiang 	优酱	c=1 d=2e-08 t=1
+you jie 	优解	c=1 d=2e-08 t=1
+you jie wei 	友界魏	c=1 d=2e-08 t=1
+you jiu cong 	有就从	c=1 d=2e-08 t=1
+you kai yuan 	有开源	c=1 d=2e-08 t=1
+you kai yuan di zhi 	有开源地址	c=1 d=2e-08 t=1
+you kong zan 	有空咱	c=1 d=2e-08 t=1
+you ku 	有库	c=1 d=2e-08 t=1
+you kui yu 	有愧于	c=1 d=2e-08 t=1
+you le xiao xiao de 	有了小小的	c=1 d=2e-08 t=1
+you li gong ju 	有力工具	c=1 d=2e-08 t=1
+you li jiu shuo li 	有理就说里	c=1 d=2e-08 t=1
+you liang ge ti 	有两个提	c=1 d=2e-08 t=1
+you lin chuang shu ju 	有临床数据	c=1 d=2e-08 t=1
+you lu beng 	右路崩	c=1 d=2e-08 t=1
+you lv de 	忧虑的	c=1 d=2e-08 t=1
+you mei you shan 	有没有闪	c=1 d=2e-08 t=1
+you pai le 	有牌了	c=1 d=2e-08 t=1
+you qi 	由器	c=1 d=2e-08 t=1
+you she cai you de 	有舍才有的	c=1 d=2e-08 t=1
+you shi wu hai ying 	又是吴海英	c=1 d=2e-08 t=1
+you shi xiong 	有师兄	c=1 d=2e-08 t=1
+you shuo fa de 	有说法的	c=1 d=2e-08 t=1
+you song fen 	有送分	c=1 d=2e-08 t=1
+you suan fa 	优算法	c=1 d=2e-08 t=1
+you sun ya suo 	有损压缩	c=1 d=2e-08 t=1
+you suo bu zu 	有所不足	c=1 d=2e-08 t=1
+you tu bian 	有突变	c=1 d=2e-08 t=1
+you xi er 	游戏而	c=1 d=2e-08 t=1
+you xi kai fa zhe 	游戏开发者	c=1 d=2e-08 t=1
+you xi qu le 	游戏去了	c=1 d=2e-08 t=1
+you xi yi ban 	游戏一般	c=1 d=2e-08 t=1
+you xi zhong shi 	游戏中是	c=1 d=2e-08 t=1
+you xian tui jian 	优先推荐	c=1 d=2e-08 t=1
+you xian xuan 	优先选	c=1 d=2e-08 t=1
+you xie lie 	有些列	c=1 d=2e-08 t=1
+you xiu xue zhang bi ding 	优秀学长必定	c=1 d=2e-08 t=1
+you ya gang 	油压缸	c=1 d=2e-08 t=1
+you yao ma 	又要骂	c=1 d=2e-08 t=1
+you yao wan 	又要玩	c=1 d=2e-08 t=1
+you yong da lan qiu 	游泳打篮球	c=1 d=2e-08 t=1
+you you gou 	又有狗	c=1 d=2e-08 t=1
+you yu fa cuo wu 	有语法错误	c=1 d=2e-08 t=1
+you yu nin de 	由于您的	c=1 d=2e-08 t=1
+you yu que shao 	由于缺少	c=1 d=2e-08 t=1
+you yue duo 	优越多	c=1 d=2e-08 t=1
+you zheng bian hao 	邮政编号	c=1 d=2e-08 t=1
+you zhi shang 	友智商	c=1 d=2e-08 t=1
+you zhui 	又追	c=1 d=2e-08 t=1
+you zi zhu 	有自主	c=1 d=2e-08 t=1
+yu ce 	预测	c=2 d=1.95123 t=93
+yu ce jie ju 	预测结局	c=1 d=2e-08 t=1
+yu ce yuan 	预测源	c=1 d=2e-08 t=1
+yu fa bu quan 	语法补全	c=1 d=2e-08 t=1
+yu fang ai zheng 	预防癌症	c=1 d=2e-08 t=1
+yu gao du 	予高度	c=1 d=2e-08 t=1
+yu jiang xin shi 	欲将心事	c=1 d=2e-08 t=1
+yu ke tang 	与课堂	c=1 d=2e-08 t=1
+yu kuai ai 	愉快哎	c=1 d=2e-08 t=1
+yu le wei zhu 	娱乐为主	c=1 d=2e-08 t=1
+yu liu shi mi ma 	预留是密码	c=1 d=2e-08 t=1
+yu me 	语么	c=1 d=2e-08 t=1
+yu ru 	语入	c=1 d=2e-08 t=1
+yu she de 	预设的	c=1 d=2e-08 t=1
+yu she ding 	与设定	c=1 d=2e-08 t=1
+yu she ding 	预设定	c=1 d=2e-08 t=1
+yu she yang shi 	预设样式	c=1 d=2e-08 t=1
+yu shi zhe 	狱使者	c=1 d=2e-08 t=1
+yu tai li hai 	狱太厉害	c=1 d=2e-08 t=1
+yu te dian 	与特点	c=1 d=2e-08 t=1
+yu xi tong 	于系统	c=1 d=2e-08 t=1
+yu yan dian zi ying jian 	语言电子硬件	c=1 d=2e-08 t=1
+yu yan fen bu fen 	语言分不分	c=1 d=2e-08 t=1
+yu yan gui fan 	语言规范	c=1 d=2e-08 t=1
+yu yan hang mo fen 	语言行末分	c=1 d=2e-08 t=1
+yu yan jing xi 	语言京喜	c=1 d=2e-08 t=1
+yu yan ru men rang 	语言入门让	c=1 d=2e-08 t=1
+yu yan wei yun suan you xian ji 	语言位运算优先级	c=1 d=2e-08 t=1
+yu yan wen ben chu li 	语言文本处理	c=1 d=2e-08 t=1
+yu yan yong 	语言用	c=1 d=2e-08 t=1
+yu yan yun xing 	语言运行	c=1 d=2e-08 t=1
+yu yan zhi zhen 	语言指针	c=1 d=2e-08 t=1
+yu yi te zheng 	语义特征	c=1 d=2e-08 t=1
+yu yi xin xi 	语义信息	c=1 d=2e-08 t=1
+yu yi yi zhi ji 	语义一致集	c=1 d=2e-08 t=1
+yu yuan jian 	余元件	c=1 d=2e-08 t=1
+yu yun qi 	余韫琪	c=1 d=2e-08 t=1
+yu zha ge 	狱炸个	c=1 d=2e-08 t=1
+yu zheng que da an 	与正确答案	c=1 d=2e-08 t=1
+yuan bi bu shang 	远比不上	c=1 d=2e-08 t=1
+yuan fen me 	缘分么	c=1 d=2e-08 t=1
+yuan gu mo fa 	远古魔法	c=1 d=2e-08 t=1
+yuan hang lou 	远航楼	c=1 d=2e-08 t=1
+yuan ju 	原剧	c=1 d=2e-08 t=1
+yuan ku 	原库	c=1 d=2e-08 t=1
+yuan li ai zheng 	远离癌症	c=1 d=2e-08 t=1
+yuan li kuang tu 	原理框图	c=1 d=2e-08 t=1
+yuan nei rong 	原内容	c=1 d=2e-08 t=1
+yuan quan li 	圆圈里	c=1 d=2e-08 t=1
+yuan shao she 	袁绍射	c=1 d=2e-08 t=1
+yuan shao zhu 	袁绍主	c=1 d=2e-08 t=1
+yuan shi cheng ji 	原始成绩	c=1 d=2e-08 t=1
+yuan su shao 	元素少	c=1 d=2e-08 t=1
+yuan wen de 	原文的	c=1 d=2e-08 t=1
+yuan wen jian ba 	源文件吧	c=1 d=2e-08 t=1
+yuan xiang mu 	原项目	c=1 d=2e-08 t=1
+yuan xing me 	远行么	c=1 d=2e-08 t=1
+yuan yang xi 	鸳鸯戏	c=1 d=2e-08 t=1
+yuan you wen jian 	原有文件	c=1 d=2e-08 t=1
+yuan yu cao zuo 	原语操作	c=1 d=2e-08 t=1
+yue de 	曰得	c=1 d=2e-08 t=1
+yue deng yu ling 	约等于零	c=1 d=2e-08 t=1
+yue di jiao 	月底交	c=1 d=2e-08 t=1
+yue du lun wen 	阅读论文	c=1 d=2e-08 t=1
+yue du wen dang 	阅读文档	c=1 d=2e-08 t=1
+yue fen zui jian shi 	约分最简式	c=1 d=2e-08 t=1
+yue fu da ren 	岳父大人	c=1 d=2e-08 t=1
+yue lai yue gan jue 	越来越感觉	c=1 d=2e-08 t=1
+yue lai yue li pu 	越来越离谱	c=1 d=2e-08 t=1
+yue lai yue shui le 	越来越水了	c=1 d=2e-08 t=1
+yue she 	栎社	c=1 d=2e-08 t=1
+yue xie yue duo 	越写越多	c=1 d=2e-08 t=1
+yun bian 	云边	c=1 d=2e-08 t=1
+yun bian you ge 	云边有个	c=1 d=2e-08 t=1
+yun dan zi liao 	运单资料	c=1 d=2e-08 t=1
+yun dong hui qian 	运动会前	c=1 d=2e-08 t=1
+yun dong nv guan yuan 	运动女官员	c=1 d=2e-08 t=1
+yun han shu 	云函数	c=1 d=2e-08 t=1
+yun qi 	韫琪	c=1 d=2e-08 t=1
+yun shan shu 	云杉属	c=1 d=2e-08 t=1
+yun suan guo cheng zhong 	运算过程中	c=1 d=2e-08 t=1
+yun suan shi 	运算式	c=1 d=2e-08 t=1
+yun xing bu 	运行不	c=1 d=2e-08 t=1
+za bu ji xu shuo 	咋不继续说	c=1 d=2e-08 t=1
+za bu jiao le 	咋不叫了	c=1 d=2e-08 t=1
+za bu ju 	咋不狙	c=1 d=2e-08 t=1
+za bu she 	咋不赦	c=1 d=2e-08 t=1
+za bu wen 	咋不问	c=1 d=2e-08 t=1
+za jiao 	砸脚	c=1 d=2e-08 t=1
+za jiao guo 	杂交过	c=1 d=2e-08 t=1
+za yi dao dou 	咋一刀都	c=1 d=2e-08 t=1
+za zhi tai duo 	杂质太多	c=1 d=2e-08 t=1
+zai an zhuang 	载安装	c=1 d=2e-08 t=1
+zai bang wo pi xia 	再帮我批下	c=1 d=2e-08 t=1
+zai bu 	再部	c=1 d=2e-08 t=1
+zai cheng zhang li cheng zhong 	在成长历程中	c=1 d=2e-08 t=1
+zai guan wang 	载官网	c=1 d=2e-08 t=1
+zai hou lai 	在后来	c=1 d=2e-08 t=1
+zai hu na 	在乎那	c=1 d=2e-08 t=1
+zai jia deng 	在家等	c=1 d=2e-08 t=1
+zai jia li dun hao 	在家里蹲好	c=1 d=2e-08 t=1
+zai jia yi lie 	再加一列	c=1 d=2e-08 t=1
+zai jian shi ba ban 	再见十八般	c=1 d=2e-08 t=1
+zai ni zhuo shang 	在你桌上	c=1 d=2e-08 t=1
+zai sha gu ke 	宰杀顾客	c=1 d=2e-08 t=1
+zai shang ke 	再上课	c=1 d=2e-08 t=1
+zai shu ju 	载数据	c=1 d=2e-08 t=1
+zai ti ru 	载体如	c=1 d=2e-08 t=1
+zai tian tang 	在天堂	c=1 d=2e-08 t=1
+zai wo shu bao li 	在我书包里	c=1 d=2e-08 t=1
+zai wu ke shi 	再无可是	c=1 d=2e-08 t=1
+zai xi huan ta 	在喜欢他	c=1 d=2e-08 t=1
+zai xie di a 	在写滴啊	c=1 d=2e-08 t=1
+zai xie yi bian 	再写一遍	c=1 d=2e-08 t=1
+zai xie yi dian 	在写一点	c=1 d=2e-08 t=1
+zai xie yi fen 	再写一份	c=1 d=2e-08 t=1
+zai xing dong shang 	在行动上	c=1 d=2e-08 t=1
+zai xuan ba 	在选拔	c=1 d=2e-08 t=1
+zai zhe kan 	在这看	c=1 d=2e-08 t=1
+zai zhe li fen xi 	在这里分析	c=1 d=2e-08 t=1
+zan jia de ju 	咱家的狙	c=1 d=2e-08 t=1
+zan lia fu zhu 	咱俩辅助	c=1 d=2e-08 t=1
+zan lia lu 	咱俩路	c=1 d=2e-08 t=1
+zan lia yi 	咱俩一	c=1 d=2e-08 t=1
+zan man man 	咱慢慢	c=1 d=2e-08 t=1
+zan men yao bu 	咱们要不	c=1 d=2e-08 t=1
+zan men zhe ge shi 	咱们这个是	c=1 d=2e-08 t=1
+zan shi wan 	暂时玩	c=1 d=2e-08 t=1
+zan wu zan wu 	暂无暂无	c=1 d=2e-08 t=1
+zao dian fen bie 	早点分别	c=1 d=2e-08 t=1
+zao kang fu 	早康复	c=1 d=2e-08 t=1
+zao pi lei 	早霹雷	c=1 d=2e-08 t=1
+zao sheng qi 	早升旗	c=1 d=2e-08 t=1
+zao wang 	早忘	c=1 d=2e-08 t=1
+zen me 	怎么	c=1 d=1 t=102
+zen me chong zhu sha 	怎么重铸杀	c=1 d=2e-08 t=1
+zen me dao dao 	怎么导到	c=1 d=2e-08 t=1
+zen me gang 	怎么刚	c=1 d=2e-08 t=1
+zen me geng 	怎么更	c=1 d=2e-08 t=1
+zen me ji suan huo 	怎么计算或	c=1 d=2e-08 t=1
+zen me shang ban 	怎么上班	c=1 d=2e-08 t=1
+zen me shi 	怎么使	c=1 d=2e-08 t=1
+zen me sou suo 	怎么搜索	c=1 d=2e-08 t=1
+zen yang kao 	怎样靠	c=1 d=2e-08 t=1
+zeng jia chu fa 	增加触发	c=1 d=2e-08 t=1
+zeng jia shang 	增加熵	c=1 d=2e-08 t=1
+zeng jia shou 	增加手	c=1 d=2e-08 t=1
+zha dui you 	炸队友	c=1 d=2e-08 t=1
+zha hui o shi 	炸毁哦是	c=1 d=2e-08 t=1
+zha kan bu 	炸看不	c=1 d=2e-08 t=1
+zha wo ya 	炸我呀	c=1 d=2e-08 t=1
+zhai wu kuan du 	债务宽度	c=1 d=2e-08 t=1
+zhan ji xiao 	战绩晓	c=1 d=2e-08 t=1
+zhan men 	站门	c=1 d=2e-08 t=1
+zhan shang yi qiang 	沾上一枪	c=1 d=2e-08 t=1
+zhan shi 	站视	c=1 d=2e-08 t=1
+zhan shi guo 	展示过	c=1 d=2e-08 t=1
+zhan zhong 	站中	c=1 d=2e-08 t=1
+zhang bai 	张白	c=1 d=2e-08 t=1
+zhang chang pu 	张昌蒲	c=1 d=2e-08 t=1
+zhang dao 	张到	c=1 d=2e-08 t=1
+zhang fei xian 	张飞限	c=1 d=2e-08 t=1
+zhang jiao mei 	张角没	c=1 d=2e-08 t=1
+zhang ju 	张聚	c=1 d=2e-08 t=1
+zhang li bu jun yun 	张力不均匀	c=1 d=2e-08 t=1
+zhang li xi 	张力系	c=1 d=2e-08 t=1
+zhang li xi shu 	张力系数	c=1 d=2e-08 t=1
+zhang liao bi 	张辽比	c=1 d=2e-08 t=1
+zhang liao ke zhong 	张辽可忠	c=1 d=2e-08 t=1
+zhang liao ming 	张辽明	c=1 d=2e-08 t=1
+zhang ruo nan 	张若楠	c=1 d=2e-08 t=1
+zhang shi 	张是	c=1 d=2e-08 t=1
+zhang ying hui 	张映辉	c=1 d=2e-08 t=1
+zhao bu dao bei 	找不到北	c=1 d=2e-08 t=1
+zhao de tai duo 	招的太多	c=1 d=2e-08 t=1
+zhao fang fa fa 	找方法发	c=1 d=2e-08 t=1
+zhao ge ban 	找个班	c=1 d=2e-08 t=1
+zhao ge ban shang 	找个班上	c=1 d=2e-08 t=1
+zhao gou qu 	照沟渠	c=1 d=2e-08 t=1
+zhao gu xing 	照顾性	c=1 d=2e-08 t=1
+zhao hui deng lu ming 	找回登录名	c=1 d=2e-08 t=1
+zhao jie kou 	找接口	c=1 d=2e-08 t=1
+zhao ma le 	找麻了	c=1 d=2e-08 t=1
+zhao pin qian 	照品前	c=1 d=2e-08 t=1
+zhao shang ni 	找上你	c=1 d=2e-08 t=1
+zhao shu ba 	诏书把	c=1 d=2e-08 t=1
+zhao ye hui 	找也会	c=1 d=2e-08 t=1
+zhao ye ye 	找爷爷	c=1 d=2e-08 t=1
+zhao yun bie 	赵云憋	c=1 d=2e-08 t=1
+zhao yun bu hui 	赵云不会	c=1 d=2e-08 t=1
+zhao yun chai 	赵云拆	c=1 d=2e-08 t=1
+zhao yun de 	赵云的	c=1 d=2e-08 t=1
+zhao yun hai 	赵云还	c=1 d=2e-08 t=1
+zhao yun hui 	赵云会	c=1 d=2e-08 t=1
+zhao yun zhe 	赵云这	c=1 d=2e-08 t=1
+zhe ba bu xing 	这把不行	c=1 d=2e-08 t=1
+zhe ba nian ji 	这把年纪	c=1 d=2e-08 t=1
+zhe bu nao ne 	这不闹呢	c=1 d=2e-08 t=1
+zhe fang ji 	这方及	c=1 d=2e-08 t=1
+zhe fen shu ju zhong 	这份数据中	c=1 d=2e-08 t=1
+zhe ge bao cuo 	这个报错	c=1 d=2e-08 t=1
+zhe ge hong 	这个宏	c=1 d=2e-08 t=1
+zhe ge shu ju ji 	这个数据集	c=1 d=2e-08 t=1
+zhe ge tiao gou 	这个条狗	c=1 d=2e-08 t=1
+zhe ge zou de 	这个走的	c=1 d=2e-08 t=1
+zhe hang xiao xie 	这行小写	c=1 d=2e-08 t=1
+zhe ji de 	着急的	c=1 d=2e-08 t=1
+zhe jian xiao shi 	这件小事	c=1 d=2e-08 t=1
+zhe jiang sheng hang zhou shi 	浙江省杭州市	c=1 d=2e-08 t=1
+zhe jiang sheng kao 	浙江省考	c=1 d=2e-08 t=1
+zhe jiang sheng nei 	浙江省内	c=1 d=2e-08 t=1
+zhe jiang shi 	浙江师	c=1 d=2e-08 t=1
+zhe jiang xuan diao 	浙江悬吊	c=1 d=2e-08 t=1
+zhe jiang yi qu 	浙江一区	c=1 d=2e-08 t=1
+zhe ju hua you mei you 	这句话有没有	c=1 d=2e-08 t=1
+zhe ju hua zhong 	这句话中	c=1 d=2e-08 t=1
+zhe kuai di fang 	这块地方	c=1 d=2e-08 t=1
+zhe li bao cuo 	这里报错	c=1 d=2e-08 t=1
+zhe li dao 	这里到	c=1 d=2e-08 t=1
+zhe liang duan hua 	这两段话	c=1 d=2e-08 t=1
+zhe liang tian wo 	这两天我	c=1 d=2e-08 t=1
+zhe liao tian kuang 	这聊天框	c=1 d=2e-08 t=1
+zhe lv shui qing shan 	这绿水青山	c=1 d=2e-08 t=1
+zhe me ju ti 	这么具体	c=1 d=2e-08 t=1
+zhe me meng dou 	这么猛都	c=1 d=2e-08 t=1
+zhe me shao me 	这么少么	c=1 d=2e-08 t=1
+zhe me wen ding 	这么稳定	c=1 d=2e-08 t=1
+zhe me yi fen 	这么一份	c=1 d=2e-08 t=1
+zhe pai 	着牌	c=1 d=2e-08 t=1
+zhe shi ming ci 	这是名词	c=1 d=2e-08 t=1
+zhe shi pin 	着视频	c=1 d=2e-08 t=1
+zhe shou ji 	这手机	c=1 d=1 t=42
+zhe tang ke 	这堂课	c=1 d=1 t=14
+zhe xing me 	折行么	c=1 d=2e-08 t=1
+zhe yao ming 	这要命	c=1 d=2e-08 t=1
+zhe ye tai kou 	这也太抠	c=1 d=2e-08 t=1
+zhe yi ren 	这一人	c=1 d=2e-08 t=1
+zhe yu wen 	这语文	c=1 d=2e-08 t=1
+zhe zhang sha 	这张啥	c=1 d=2e-08 t=1
+zhen bang o 	真棒哦	c=1 d=2e-08 t=1
+zhen bang ya 	真棒呀	c=1 d=2e-08 t=1
+zhen bian jie 	真边界	c=1 d=2e-08 t=1
+zhen cai 	真材	c=1 d=2e-08 t=1
+zhen cai yu 	真材与	c=1 d=2e-08 t=1
+zhen dao na 	真到那	c=1 d=2e-08 t=1
+zhen de duo 	真的多	c=1 d=2e-08 t=1
+zhen de ma le 	真的麻了	c=1 d=2e-08 t=1
+zhen gan xie 	真敢写	c=1 d=2e-08 t=1
+zhen gei ye 	真给爷	c=1 d=2e-08 t=1
+zhen gou yi si 	真够意思	c=1 d=2e-08 t=1
+zhen jue 	真觉	c=1 d=2e-08 t=1
+zhen kan bu 	真看不	c=1 d=2e-08 t=1
+zhen la 	真拉	c=1 d=2e-08 t=1
+zhen li hai o 	真厉害哦	c=1 d=2e-08 t=1
+zhen mei xian dai gao 	真没现代高	c=1 d=2e-08 t=1
+zhen mo ji 	真磨叽	c=1 d=2e-08 t=1
+zhen mo ji a 	真墨迹啊	c=1 d=2e-08 t=1
+zhen mo ji a 	真磨叽啊	c=1 d=2e-08 t=1
+zhen nan sheng 	真男生	c=1 d=2e-08 t=1
+zhen nei jian 	真内奸	c=1 d=2e-08 t=1
+zhen sa bi 	真撒比	c=1 d=2e-08 t=1
+zhen shan liang 	真善良	c=1 d=2e-08 t=1
+zhen shao nian 	真少年	c=1 d=2e-08 t=1
+zhen sheng xue 	真省血	c=1 d=2e-08 t=1
+zhen shi jie guo 	真实结果	c=1 d=2e-08 t=1
+zhen sui ji 	真随机	c=1 d=2e-08 t=1
+zhen sui ji shu fa sheng qi 	真随机数发生器	c=1 d=2e-08 t=1
+zhen te me xiang 	真特么想	c=1 d=2e-08 t=1
+zhen you ni 	真有你	c=1 d=2e-08 t=1
+zheng bei ti 	整倍体	c=1 d=2e-08 t=1
+zheng chang you xi 	正常游戏	c=1 d=2e-08 t=1
+zheng chang zhi liang 	正常质量	c=1 d=2e-08 t=1
+zheng chao zhong 	争吵中	c=1 d=2e-08 t=1
+zheng da zhe ne 	正打着呢	c=1 d=2e-08 t=1
+zheng fang jian 	整房间	c=1 d=2e-08 t=1
+zheng fu xing 	正负性	c=1 d=2e-08 t=1
+zheng fu yin jian 	证复印件	c=1 d=2e-08 t=1
+zheng hao jiu 	正好就	c=1 d=2e-08 t=1
+zheng he jin 	整合进	c=1 d=2e-08 t=1
+zheng hou 	整后	c=1 d=2e-08 t=1
+zheng ji 	证机	c=1 d=2e-08 t=1
+zheng jian xin xi huo qu 	证件信息获取	c=1 d=2e-08 t=1
+zheng ju you xi 	整局游戏	c=1 d=2e-08 t=1
+zheng liu qiao shi xiang min zheng liu 	整流桥式相敏整流	c=1 d=2e-08 t=1
+zheng mian gang 	正面钢	c=1 d=2e-08 t=1
+zheng mu si te dan 	郑穆斯特丹	c=1 d=2e-08 t=1
+zheng rong guai 	整容怪	c=1 d=2e-08 t=1
+zheng shi chu ban 	正式出版	c=1 d=2e-08 t=1
+zheng shu ni xu 	整数逆序	c=1 d=2e-08 t=1
+zheng xiao le 	郑小了	c=1 d=2e-08 t=1
+zheng yue peng dao 	正月碰到	c=1 d=2e-08 t=1
+zheng zhi fa lv 	政治法律	c=1 d=2e-08 t=1
+zhi biao jie guo 	指标结果	c=1 d=2e-08 t=1
+zhi biao li mian 	指标里面	c=1 d=2e-08 t=1
+zhi chu wo guo 	指出我国	c=1 d=2e-08 t=1
+zhi dao ji lu biao 	指导记录表	c=1 d=2e-08 t=1
+zhi dao ni jiang lin 	直到你降临	c=1 d=2e-08 t=1
+zhi dao ru he 	知道如何	c=1 d=2e-08 t=1
+zhi dao xie 	知道写	c=1 d=2e-08 t=1
+zhi dao xiu 	指导修	c=1 d=2e-08 t=1
+zhi de qu ma 	值得去吗	c=1 d=2e-08 t=1
+zhi de you 	质得有	c=1 d=2e-08 t=1
+zhi fei hang zhou 	直飞杭州	c=1 d=2e-08 t=1
+zhi fu zhi 	只复制	c=1 d=2e-08 t=1
+zhi gong zuo 	制工作	c=1 d=2e-08 t=1
+zhi he cheng tu 	指合成图	c=1 d=2e-08 t=1
+zhi hou 	之后	c=1 d=1 t=26
+zhi hu zhang hao tong ming 	知乎账号同名	c=1 d=2e-08 t=1
+zhi huan kong zhi qi 	滞环控制器	c=1 d=2e-08 t=1
+zhi jie ba 	直接扒	c=1 d=2e-08 t=1
+zhi jie gei chu 	直接给出	c=1 d=2e-08 t=1
+zhi jie miao chang 	直接秒场	c=1 d=2e-08 t=1
+zhi jie nong 	直接弄	c=1 d=2e-08 t=1
+zhi jie wen 	直接吻	c=1 d=2e-08 t=1
+zhi jie zhuan ju 	直接转矩	c=1 d=2e-08 t=1
+zhi jie zhuan ju kong zhi 	直接转矩控制	c=1 d=2e-08 t=1
+zhi li yu jie jue 	致力于解决	c=1 d=2e-08 t=1
+zhi liao bu yun zheng 	治疗不孕症	c=1 d=2e-08 t=1
+zhi liao jie ju 	治疗结局	c=1 d=2e-08 t=1
+zhi liu hai shi 	支流还是	c=1 d=2e-08 t=1
+zhi mei 	直没	c=1 d=2e-08 t=1
+zhi mo bu dao 	直摸不到	c=1 d=2e-08 t=1
+zhi ni 	致你	c=1 d=2e-08 t=1
+zhi nuo wei 	芝诺为	c=1 d=2e-08 t=1
+zhi qi zhuang 	直气壮	c=1 d=2e-08 t=1
+zhi sha qun 	只杀群	c=1 d=2e-08 t=1
+zhi shu shai 	质数筛	c=1 d=2e-08 t=1
+zhi shuai de 	直率的	c=1 d=2e-08 t=1
+zhi shui biao mian 	值水表面	c=1 d=2e-08 t=1
+zhi suo you 	致所有	c=1 d=2e-08 t=1
+zhi tong bu 	只同步	c=1 d=2e-08 t=1
+zhi wen bu jian rong 	指纹不兼容	c=1 d=2e-08 t=1
+zhi wen hui 	指纹会	c=1 d=2e-08 t=1
+zhi wen ta 	直问他	c=1 d=2e-08 t=1
+zhi xi ma 	窒息吗	c=1 d=2e-08 t=1
+zhi xia che zhan 	芝夏车站	c=1 d=2e-08 t=1
+zhi ye jing ji 	职业经济	c=1 d=2e-08 t=1
+zhi ye yi shi zi ge zheng 	执业医师资格证	c=1 d=2e-08 t=1
+zhi zhen dui shi 	只针对事	c=1 d=2e-08 t=1
+zhi zhen han shu 	指针函数	c=1 d=2e-08 t=1
+zhi zhou 	直轴	c=1 d=2e-08 t=1
+zhi zhua le 	只抓了	c=1 d=2e-08 t=1
+zhi zun chang 	至尊场	c=1 d=2e-08 t=1
+zhi zun chang 	至尊长	c=1 d=2e-08 t=1
+zhong ba 	忠吧	c=1 d=2e-08 t=1
+zhong da 	忠打	c=1 d=2e-08 t=1
+zhong da cheng guo 	重大成果	c=1 d=2e-08 t=1
+zhong da yan jiu 	重大研究	c=1 d=2e-08 t=1
+zhong duan bao 	终端报	c=1 d=2e-08 t=1
+zhong duan huan jing 	终端环境	c=1 d=2e-08 t=1
+zhong duan zhong 	终端中	c=1 d=2e-08 t=1
+zhong dui hui yi 	中对会议	c=1 d=2e-08 t=1
+zhong duo gao xiao 	众多高校	c=1 d=2e-08 t=1
+zhong fan 	忠反	c=1 d=2e-08 t=1
+zhong fou 	众否	c=1 d=2e-08 t=1
+zhong guo ren bu pian zhong guo ren 	中国人不骗中国人	c=1 d=2e-08 t=1
+zhong ji fa yuan 	中级法院	c=1 d=2e-08 t=1
+zhong ji huo 	种激活	c=1 d=2e-08 t=1
+zhong jia 	种家	c=1 d=2e-08 t=1
+zhong jia li 	种家里	c=1 d=2e-08 t=1
+zhong jian bu 	中间不	c=1 d=2e-08 t=1
+zhong jian guo cheng 	中间过程	c=1 d=2e-08 t=1
+zhong jian wei 	中间位	c=1 d=2e-08 t=1
+zhong jiang shi qu 	终将逝去	c=1 d=2e-08 t=1
+zhong jiang shi qu de qing chun 	终将逝去的青春	c=1 d=2e-08 t=1
+zhong jie zai 	终结再	c=1 d=2e-08 t=1
+zhong lou pao wang 	钟楼炮王	c=1 d=2e-08 t=1
+zhong ming 	重命	c=1 d=2e-08 t=1
+zhong mo ban 	种模板	c=1 d=2e-08 t=1
+zhong sha 	忠杀	c=1 d=2e-08 t=1
+zhong si 	忠死	c=1 d=2e-08 t=1
+zhong ti 	种题	c=1 d=2e-08 t=1
+zhong ti suan 	种题算	c=1 d=2e-08 t=1
+zhong tiao 	忠条	c=1 d=2e-08 t=1
+zhong wen gai kuo 	中文概括	c=1 d=2e-08 t=1
+zhong xin ni xiao xue 	中心你小学	c=1 d=2e-08 t=1
+zhong yan 	钟琰	c=1 d=2e-08 t=1
+zhong za 	忠咋	c=1 d=2e-08 t=1
+zhou cheng wei 	轴承位	c=1 d=2e-08 t=1
+zhou kai 	周开	c=1 d=2e-08 t=1
+zhou liu kong 	周六空	c=1 d=2e-08 t=1
+zhou mo jing 	周末净	c=1 d=2e-08 t=1
+zhou mo kong 	周末空	c=1 d=2e-08 t=1
+zhou mo xi 	周末喜	c=1 d=2e-08 t=1
+zhou qu san tian huo 	周去三天或	c=1 d=2e-08 t=1
+zhou ri xiu 	周日休	c=1 d=2e-08 t=1
+zhou shi 	州师	c=1 d=2e-08 t=1
+zhou tai hai 	周泰还	c=1 d=2e-08 t=1
+zhou tai me 	周泰么	c=1 d=2e-08 t=1
+zhou tai ni 	周泰你	c=1 d=2e-08 t=1
+zhou tai shi 	周泰是	c=1 d=2e-08 t=1
+zhou tai shou 	周泰手	c=1 d=2e-08 t=1
+zhou tai shua 	周泰刷	c=1 d=2e-08 t=1
+zhou tai yao 	周泰要	c=1 d=2e-08 t=1
+zhou xiang jie 	骤详解	c=1 d=2e-08 t=1
+zhou zhong 	州中	c=1 d=2e-08 t=1
+zhou zhong xue 	州中学	c=1 d=2e-08 t=1
+zhu bu hui wan 	主不会玩	c=1 d=2e-08 t=1
+zhu ce biao wen jian 	注册表文件	c=1 d=2e-08 t=1
+zhu chang 	住场	c=1 d=2e-08 t=1
+zhu de fang jian li 	住的房间里	c=1 d=2e-08 t=1
+zhu dong zhui ni 	主动追你	c=1 d=2e-08 t=1
+zhu dou 	主都	c=1 d=2e-08 t=1
+zhu dui 	主对	c=1 d=2e-08 t=1
+zhu e 	助恶	c=1 d=2e-08 t=1
+zhu gong bu hui 	主公不会	c=1 d=2e-08 t=1
+zhu gong bu wan 	主公不玩	c=1 d=2e-08 t=1
+zhu gong hui 	主公会	c=1 d=2e-08 t=1
+zhu gong ku 	主公哭	c=1 d=2e-08 t=1
+zhu gong mei fa 	主公没法	c=1 d=2e-08 t=1
+zhu hang jie xi 	逐行解析	c=1 d=2e-08 t=1
+zhu huan 	朱欢	c=1 d=2e-08 t=1
+zhu hui min 	朱慧敏	c=1 d=2e-08 t=1
+zhu jiao qu 	住郊区	c=1 d=2e-08 t=1
+zhu kai ju 	主开局	c=1 d=2e-08 t=1
+zhu la hei 	主拉黑	c=1 d=2e-08 t=1
+zhu li feng 	朱立峰	c=1 d=2e-08 t=1
+zhu liu 	主留	c=1 d=2e-08 t=1
+zhu ma 	祝马	c=1 d=2e-08 t=1
+zhu ming 	住命	c=1 d=2e-08 t=1
+zhu ni men wan de kai xin 	祝你们玩得开心	c=1 d=2e-08 t=1
+zhu pai 	住牌	c=1 d=2e-08 t=1
+zhu ren zhuan fa 	主人转发	c=1 d=2e-08 t=1
+zhu sha 	主杀	c=1 d=2e-08 t=1
+zhu she 	主摄	c=1 d=2e-08 t=1
+zhu tao ge 	祝涛哥	c=1 d=2e-08 t=1
+zhu xue zhang 	祝学长	c=1 d=2e-08 t=1
+zhu yao 	主要	c=1 d=1 t=40
+zhu yi di shi zhang 	注意第十张	c=1 d=2e-08 t=1
+zhu yi ke mu 	主义科目	c=1 d=2e-08 t=1
+zhu yi li ji zhi 	注意力机制	c=1 d=2e-08 t=1
+zhu zhi 	朱治	c=1 d=2e-08 t=1
+zhu zi fu 	逐字符	c=1 d=2e-08 t=1
+zhu zi fu dui 	逐字符对	c=1 d=2e-08 t=1
+zhua ban tian 	抓半天	c=1 d=2e-08 t=1
+zhua bu chu lai 	抓不出来	c=1 d=2e-08 t=1
+zhua dui 	抓队	c=1 d=2e-08 t=1
+zhua le tiao 	抓了条	c=1 d=2e-08 t=1
+zhua lia 	抓俩	c=1 d=2e-08 t=1
+zhua min zu 	抓民族	c=1 d=2e-08 t=1
+zhua shou ji 	抓手机	c=1 d=2e-08 t=1
+zhua yi e guo 	抓一俄国	c=1 d=2e-08 t=1
+zhuan da xie 	转大写	c=1 d=2e-08 t=1
+zhuan hang hui 	转行会	c=1 d=2e-08 t=1
+zhuan hang zhou 	转杭州	c=1 d=2e-08 t=1
+zhuan huan qi 	转换器	c=1 d=1 t=116
+zhuan ju kong zhi 	转矩控制	c=1 d=2e-08 t=1
+zhuan ju mai dong 	转矩脉动	c=1 d=2e-08 t=1
+zhuan ju yu 	转矩与	c=1 d=2e-08 t=1
+zhuan ma cheng 	转码成	c=1 d=2e-08 t=1
+zhuan shen jiu zou 	转身就走	c=1 d=2e-08 t=1
+zhuan si 	转思	c=1 d=2e-08 t=1
+zhuan su bo xing tu 	转速波形图	c=1 d=2e-08 t=1
+zhuan xie zhong 	撰写中	c=1 d=2e-08 t=1
+zhuan ye ha 	专业哈	c=1 d=2e-08 t=1
+zhuan ye ji dian 	专业绩点	c=1 d=2e-08 t=1
+zhuan ye mo shi 	专业模式	c=1 d=2e-08 t=1
+zhuan ye zong he 	专业综合	c=1 d=2e-08 t=1
+zhuan zi chuan 	转子串	c=1 d=2e-08 t=1
+zhuan zi jie gou 	转子结构	c=1 d=2e-08 t=1
+zhuang bei pai 	装备牌	c=1 d=2e-08 t=1
+zhuang de xiang 	装的像	c=1 d=2e-08 t=1
+zhuang ma 	装马	c=1 d=2e-08 t=1
+zhuang na me dian 	装那么点	c=1 d=2e-08 t=1
+zhuang nei jian 	装内奸	c=1 d=2e-08 t=1
+zhuang tai 	状态	c=1 d=1 t=3
+zhuang tai gu ji 	状态估计	c=1 d=2e-08 t=1
+zhuang zhe me xiang 	装这么想	c=1 d=2e-08 t=1
+zhuang zhong 	装忠	c=1 d=2e-08 t=1
+zhui gai 	缀改	c=1 d=2e-08 t=1
+zhui nv ren 	追女人	c=1 d=2e-08 t=1
+zhui qi huo zang chang 	追妻火葬场	c=1 d=2e-08 t=1
+zhui ru qing wang 	坠入情网	c=1 d=2e-08 t=1
+zhun bei kao gong 	准备考公	c=1 d=2e-08 t=1
+zhun bie ren 	准别人	c=1 d=2e-08 t=1
+zhun gong 	准工	c=1 d=2e-08 t=1
+zhuo jian xian chang 	捉奸现场	c=1 d=2e-08 t=1
+zhuo mian xi tong 	桌面系统	c=1 d=2e-08 t=1
+zi bian yi 	自编译	c=1 d=2e-08 t=1
+zi dan bu zhang yang 	子弹不张扬	c=1 d=2e-08 t=1
+zi dong dian ji 	自动点击	c=1 d=2e-08 t=1
+zi dong fu hao 	自动符号	c=1 d=2e-08 t=1
+zi fu chuan fang fa 	字符串方法	c=1 d=2e-08 t=1
+zi fu chuan xing shi 	字符串形式	c=1 d=2e-08 t=1
+zi fu o 	字符哦	c=1 d=2e-08 t=1
+zi ge ming ling 	资格命令	c=1 d=2e-08 t=1
+zi ji de ai 	自己的爱	c=1 d=2e-08 t=1
+zi ji er 	自己二	c=1 d=2e-08 t=1
+zi ji gai 	自己该	c=1 d=2e-08 t=1
+zi ji xiang 	自己像	c=1 d=2e-08 t=1
+zi ji xin yi 	自己心意	c=1 d=2e-08 t=1
+zi jie xi 	字解析	c=1 d=2e-08 t=1
+zi jin qi 	自近期	c=1 d=2e-08 t=1
+zi me 	字么	c=1 d=2e-08 t=1
+zi men du 	子们都	c=1 d=2e-08 t=1
+zi shan dong da xue 	自山东大学	c=1 d=2e-08 t=1
+zi shen mian yi li 	自身免疫力	c=1 d=2e-08 t=1
+zi shi pei 	自适配	c=1 d=2e-08 t=1
+zi shu 	自书	c=1 d=2e-08 t=1
+zi wo miao shu 	自我描述	c=1 d=2e-08 t=1
+zi xing che dui 	自行车队	c=1 d=2e-08 t=1
+zi xue hao 	字学号	c=1 d=2e-08 t=1
+zi yan de 	自研的	c=1 d=2e-08 t=1
+zi yang ceng 	滋养层	c=1 d=2e-08 t=1
+zi yao 	字要	c=1 d=2e-08 t=1
+zi you xuan 	自由选	c=1 d=2e-08 t=1
+zi zheng jiao 	自整角	c=1 d=2e-08 t=1
+zi zhu jue duan 	自主决断	c=1 d=2e-08 t=1
+zi zhu yi li 	自注意力	c=1 d=2e-08 t=1
+zi zhun 	自准	c=1 d=2e-08 t=1
+zong gong lia zhen 	总共俩真	c=1 d=2e-08 t=1
+zong heng dian jing 	纵横电竞	c=1 d=2e-08 t=1
+zong heng dian jing kan 	纵横电竞看	c=1 d=2e-08 t=1
+zong jie ji 	总结及	c=1 d=2e-08 t=1
+zong jie kuai 	总结快	c=1 d=2e-08 t=1
+zong jie yi 	总结以	c=1 d=2e-08 t=1
+zong xiang lian bang xue xi 	纵向联邦学习	c=1 d=2e-08 t=1
+zong yao zu 	宗耀祖	c=1 d=2e-08 t=1
+zong you cai 	总有菜	c=1 d=2e-08 t=1
+zong you dai 	总有呆	c=1 d=2e-08 t=1
+zong zhi jie 	总之解	c=1 d=2e-08 t=1
+zong zi ye 	粽子叶	c=1 d=2e-08 t=1
+zou bu ming bai 	走不明白	c=1 d=2e-08 t=1
+zou di dao 	走低到	c=1 d=2e-08 t=1
+zou di dao 	走地道	c=1 d=2e-08 t=1
+zou e he 	走额和	c=1 d=2e-08 t=1
+zou teng jia ba 	走藤甲吧	c=1 d=2e-08 t=1
+zou yun 	邹晕	c=1 d=2e-08 t=1
+zou zhi xiang 	走指向	c=1 d=2e-08 t=1
+zou zhu bi 	走珠笔	c=1 d=2e-08 t=1
+zou zou de 	走走地	c=1 d=2e-08 t=1
+zu de fang jian 	租的房间	c=1 d=2e-08 t=1
+zu gai 	足改	c=1 d=2e-08 t=1
+zu gou qiang 	足够强	c=1 d=2e-08 t=1
+zu hui guo 	组会过	c=1 d=2e-08 t=1
+zu hui zhao pian 	组会照片	c=1 d=2e-08 t=1
+zu zu zhi 	阻阻值	c=1 d=2e-08 t=1
+zuan di dao 	钻地道	c=1 d=2e-08 t=1
+zui duo ke yu 	最多可愈	c=1 d=2e-08 t=1
+zui gan ji 	最感激	c=1 d=2e-08 t=1
+zui hao xue wei 	最好学位	c=1 d=2e-08 t=1
+zui hou ji fen zhong 	最后几分钟	c=1 d=2e-08 t=1
+zui hou yi ci ke 	最后一次课	c=1 d=2e-08 t=1
+zui hou yi liang xiao shi 	最后一两小时	c=1 d=2e-08 t=1
+zui hou yi tang che 	最后一趟车	c=1 d=2e-08 t=1
+zui jia xiao guo 	最佳效果	c=1 d=2e-08 t=1
+zui jin dou zai xue xiao 	最近都在学校	c=1 d=2e-08 t=1
+zui neng 	嘴能	c=1 d=2e-08 t=1
+zui pai ge su zhi qu 	嘴牌哥素质去	c=1 d=2e-08 t=1
+zui xi huan ge 	最喜欢个	c=1 d=2e-08 t=1
+zui you jie ma 	最优解吗	c=1 d=2e-08 t=1
+zui zhong zhi 	最终值	c=1 d=2e-08 t=1
+zun chang 	尊场	c=1 d=2e-08 t=1
+zun shou xue xiao 	遵守学校	c=1 d=2e-08 t=1
+zuo bian dang 	做便当	c=1 d=2e-08 t=1
+zuo bian zhuan huan 	左边转换	c=1 d=2e-08 t=1
+zuo biao fen 	坐标分	c=1 d=2e-08 t=1
+zuo er jin you er chu 	左耳进右耳出	c=1 d=2e-08 t=1
+zuo gong de ren 	做工的人	c=1 d=2e-08 t=1
+zuo jian 	作键	c=1 d=2e-08 t=1
+zuo jie shao 	做介绍	c=1 d=2e-08 t=1
+zuo ming zao hui bao 	做明早汇报	c=1 d=2e-08 t=1
+zuo ni xiang yao ta zuo de shi 	做你想要他做的事	c=1 d=2e-08 t=1
+zuo shu di yi ge 	左数第一个	c=1 d=2e-08 t=1
+zuo shui ping 	座水平	c=1 d=2e-08 t=1
+zuo si wei dao 	做思维导	c=1 d=2e-08 t=1
+zuo tian wo jiu 	昨天我就	c=1 d=2e-08 t=1
+zuo tian zu hui 	昨天组会	c=1 d=2e-08 t=1
+zuo xiao lv 	作效率	c=1 d=2e-08 t=1
+zuo ye si 	作业四	c=1 d=2e-08 t=1
+zuo ye wu 	作业无	c=1 d=2e-08 t=1
+zuo zhe ge shi yan 	做这个实验	c=1 d=2e-08 t=1
+zuo zheng deng 	左正蹬	c=1 d=2e-08 t=1
+zuo zhi liang yi ban 	作质量一般	c=1 d=2e-08 t=1
+zuo zhu 	作主	c=1 d=2e-08 t=1
+zuo zuo cai liao 	做做材料	c=1 d=2e-08 t=1
